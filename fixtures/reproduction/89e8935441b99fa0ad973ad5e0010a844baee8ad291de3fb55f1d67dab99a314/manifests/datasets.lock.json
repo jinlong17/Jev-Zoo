@@ -1,0 +1,569 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-10-12",
+  "kind": "datasets",
+  "entries": [
+    {
+      "id": "typed-decisions",
+      "repo_id": "LocalLLaMA/typed-decisions",
+      "revision": "6a7927fa3c8ac114e29f5300eacb86f6f37a6447",
+      "repo_type": "dataset",
+      "source": "huggingface",
+      "files": [
+        {
+          "path": "README.md",
+          "size": 15455,
+          "sha256": null,
+          "git_oid": "c48df34e732b8465fcf62e210da3e4954f132804"
+        },
+        {
+          "path": "all/test-00000-of-00001.parquet",
+          "size": 222140,
+          "sha256": "4f294f218ea1da27f3efef936359389c62ea4d3973a41457732990f1d31b647c",
+          "git_oid": "ccce2a8586870ced29aa1452ad3b761a181d70ec"
+        },
+        {
+          "path": "all/train-00000-of-00001.parquet",
+          "size": 598824,
+          "sha256": "46a58d63edfd86e23229c78afe8b72307bb4ca9fb0e8df180cabb3c67ec9dcd5",
+          "git_oid": "c989b6f2b2a2c77ae66b50a639bcd57cf2bfb7e8"
+        },
+        {
+          "path": "eval.yaml",
+          "size": 532,
+          "sha256": null,
+          "git_oid": "70829f65a162f6618f4dc8c05459100b54a3464b"
+        }
+      ],
+      "license": "apache-2.0",
+      "total_bytes": 836951
+    },
+    {
+      "id": "jeval",
+      "repo_id": "carlosxiang/JEVal",
+      "revision": "5d0253c34cf5e371b3ae99c21f0a7170d7289f63",
+      "repo_type": "dataset",
+      "source": "huggingface",
+      "files": [
+        {
+          "path": "README.md",
+          "size": 17576,
+          "sha256": null,
+          "git_oid": "69c60d8f52388cc5bbc1157880c0f968f686b006"
+        },
+        {
+          "path": "citation.bib",
+          "size": 426,
+          "sha256": null,
+          "git_oid": "5b1d0120fbaf3116d29737b2f5f6ae56236cac2d"
+        },
+        {
+          "path": "data/test.parquet",
+          "size": 33533925,
+          "sha256": "88f090a510e511d1236fdf5ddb428a8b965663ff0cc1061f950b88f0c99d2e82",
+          "git_oid": "66cf8806b1ae6acad4482d8d9f72373e1ec23c95"
+        }
+      ],
+      "license": null,
+      "total_bytes": 33551927
+    },
+    {
+      "id": "decisionbench",
+      "repo_id": "Hanno-Labs/decision-bench",
+      "revision": "071b7b2d2e1504c89e1e5a811a3f82e1bfe3aedb",
+      "repo_type": "dataset",
+      "source": "huggingface",
+      "files": [
+        {
+          "path": "README.md",
+          "size": 3121,
+          "sha256": null,
+          "git_oid": "d140fc0cd489e32ec1e303841b25abb125e811d8"
+        },
+        {
+          "path": "artifact/manifest.json",
+          "size": 5867,
+          "sha256": null,
+          "git_oid": "13bbc33fd81e3d4576b5a71f1a5b684fad526fb7"
+        },
+        {
+          "path": "data/eval-00000-of-00001.parquet",
+          "size": 56483962,
+          "sha256": "d9dd5be8e0944a7ceadfcac6cf8f9d17aab256093acff23c6de6a037ad6e55f6",
+          "git_oid": "e22d46d7ca06797447caf51d083b7d0e7462dbb5"
+        },
+        {
+          "path": "provenance/applied-task-suite/manifest.json",
+          "size": 320727,
+          "sha256": null,
+          "git_oid": "b61e9fc19658a12d4fe3cd3b7d279e23f8540354"
+        },
+        {
+          "path": "provenance/applied-task-suite/summary.json",
+          "size": 2334,
+          "sha256": null,
+          "git_oid": "58263337796a717074ee4ab5ddf7159b47a7564b"
+        },
+        {
+          "path": "provenance/compact/manifest.json",
+          "size": 365,
+          "sha256": null,
+          "git_oid": "228b33c5bf784b6802d01bf041e571a7dd7a0177"
+        },
+        {
+          "path": "provenance/reasoning-suite/manifest.json",
+          "size": 2820,
+          "sha256": null,
+          "git_oid": "ff239f78a8bda5133a0e3c34fe91cb64898f111c"
+        },
+        {
+          "path": "provenance/reasoning-suite/summary.json",
+          "size": 806,
+          "sha256": null,
+          "git_oid": "a54d27acd1c3d9b36213e3b70683f235ab1a2078"
+        }
+      ],
+      "license": "other",
+      "total_bytes": 56820002
+    },
+    {
+      "id": "mmstar",
+      "repo_id": "Lin-Chen/MMStar",
+      "revision": "bc98d668301da7b14f648724866e57302778ab27",
+      "repo_type": "dataset",
+      "source": "huggingface",
+      "files": [
+        {
+          "path": "README.md",
+          "size": 4224,
+          "sha256": null,
+          "git_oid": "c80033654d246116cb2631e7dc219c25bb7a8589"
+        },
+        {
+          "path": "mmstar.parquet",
+          "size": 41798712,
+          "sha256": "29afd74b0134cfab083a8909b5358577ab18fd41c1e612031577cfb3635531c2",
+          "git_oid": "23b36718a5ce184382b16067a355744a929fb446"
+        }
+      ],
+      "license": null,
+      "total_bytes": 41802936
+    },
+    {
+      "id": "banking77",
+      "repo_id": "PolyAI-LDN/task-specific-datasets",
+      "revision": "57ec275d8078af65b7731c2a98be812d844a6d6b",
+      "source": "github",
+      "repo_type": "dataset",
+      "files": [
+        {
+          "path": "banking_data/categories.json",
+          "size": 2036,
+          "sha256": "53261da888122daf2d120d925458631d9619e15d82e56052e7a42e535ce32b63"
+        },
+        {
+          "path": "banking_data/train.csv",
+          "size": 839073,
+          "sha256": "b06e26ac675513959a63135f11b94ea7786ed02da65db93a5650d8838cbc664b"
+        },
+        {
+          "path": "banking_data/test.csv",
+          "size": 239961,
+          "sha256": "d12d6e3bc4c3103966ae786dc435913c0c563dfa328f5a3646d0e62cfeeb474d"
+        },
+        {
+          "path": "README.md",
+          "size": 4735,
+          "sha256": "7b9ce9069931cc2de89dce8c7ffb53d07806cf413601ccf133b9af5227b3a373"
+        }
+      ],
+      "total_bytes": 1085805
+    },
+    {
+      "id": "clinc150",
+      "repo_id": "clinc/clinc_oos",
+      "revision": "155b9c710419136e17307b80d0a13e68cd46b4ec",
+      "repo_type": "dataset",
+      "source": "huggingface",
+      "files": [
+        {
+          "path": "README.md",
+          "size": 23960,
+          "sha256": null,
+          "git_oid": "676eddd998b36b7b132b4a4a6f5e27184a2824e2"
+        },
+        {
+          "path": "imbalanced/test-00000-of-00001.parquet",
+          "size": 135844,
+          "sha256": "3e60e45b25bf86543aa5df8ba4fcc674114164e6184f0197690648c2908d0102",
+          "git_oid": "ffcb85bc5ce4fc3b1e04b6123b688fdb71600e9d"
+        },
+        {
+          "path": "imbalanced/train-00000-of-00001.parquet",
+          "size": 228285,
+          "sha256": "c9a2315625025628a812c0d8788a822518eacb25898edc2febb08e3b800f1251",
+          "git_oid": "9a57177fccf8d8024d7d4bf633ae34147da88bea"
+        },
+        {
+          "path": "imbalanced/validation-00000-of-00001.parquet",
+          "size": 77789,
+          "sha256": "fbd545b46c611c4a7ba4b48cae6c7f09bb5b59f33ff56206ad1cd366c85cdfaa",
+          "git_oid": "b782d0948b9846824122b884cb37c302acc6df59"
+        },
+        {
+          "path": "plus/test-00000-of-00001.parquet",
+          "size": 135844,
+          "sha256": "3e60e45b25bf86543aa5df8ba4fcc674114164e6184f0197690648c2908d0102",
+          "git_oid": "ffcb85bc5ce4fc3b1e04b6123b688fdb71600e9d"
+        },
+        {
+          "path": "plus/train-00000-of-00001.parquet",
+          "size": 312096,
+          "sha256": "30188119cf9f86fc9db27e1c22442d091cb5cb0913c9496f945fe11e7a02a28f",
+          "git_oid": "486a5fd465afed1eb1cb827967b83b21ba9bc633"
+        },
+        {
+          "path": "plus/validation-00000-of-00001.parquet",
+          "size": 77789,
+          "sha256": "fbd545b46c611c4a7ba4b48cae6c7f09bb5b59f33ff56206ad1cd366c85cdfaa",
+          "git_oid": "b782d0948b9846824122b884cb37c302acc6df59"
+        },
+        {
+          "path": "small/test-00000-of-00001.parquet",
+          "size": 135844,
+          "sha256": "3e60e45b25bf86543aa5df8ba4fcc674114164e6184f0197690648c2908d0102",
+          "git_oid": "ffcb85bc5ce4fc3b1e04b6123b688fdb71600e9d"
+        },
+        {
+          "path": "small/train-00000-of-00001.parquet",
+          "size": 171552,
+          "sha256": "87e11e91c7dde5ba4b4e99db6248bf39e4f14bf9fe7705ce70bcfae38d505bc1",
+          "git_oid": "9cf2b4680cb0993fe4290fecb0a2382486554bfb"
+        },
+        {
+          "path": "small/validation-00000-of-00001.parquet",
+          "size": 77789,
+          "sha256": "fbd545b46c611c4a7ba4b48cae6c7f09bb5b59f33ff56206ad1cd366c85cdfaa",
+          "git_oid": "b782d0948b9846824122b884cb37c302acc6df59"
+        }
+      ],
+      "license": [
+        "cc-by-3.0"
+      ],
+      "total_bytes": 1376792
+    },
+    {
+      "id": "sst2",
+      "repo_id": "stanfordnlp/sst2",
+      "revision": "8d51e7e4887a4caaa95b3fbebbf53c0490b58bbb",
+      "repo_type": "dataset",
+      "source": "huggingface",
+      "files": [
+        {
+          "path": "README.md",
+          "size": 5274,
+          "sha256": null,
+          "git_oid": "ba7f3d9ea20b50b09595e79acca156a6edafa2ad"
+        },
+        {
+          "path": "data/test-00000-of-00001.parquet",
+          "size": 147787,
+          "sha256": "20d27a86c0c59acb746a41a481ebb1fc71edb72d94b5ccee7f23b9041b17adcf",
+          "git_oid": "bf4b3506b64c79893066075fc7b4b4fb1536880f"
+        },
+        {
+          "path": "data/train-00000-of-00001.parquet",
+          "size": 3110458,
+          "sha256": "c7921283b75a42e685f50edecb96798607ea0fcbfd0739ee8975f22c12d55f09",
+          "git_oid": "fc5186b58c9cee6bfb58f28c3a7feffa05a76e10"
+        },
+        {
+          "path": "data/validation-00000-of-00001.parquet",
+          "size": 72813,
+          "sha256": "fb00fe008f6828f86ba2beda8415a4cf5da0c884f21c5f238c87131b5aa19529",
+          "git_oid": "97daa2c9805cc8be03c467db57aae1333ff8d2af"
+        }
+      ],
+      "license": [
+        "unknown"
+      ],
+      "total_bytes": 3336332
+    },
+    {
+      "id": "boolq",
+      "repo_id": "google/boolq",
+      "revision": "35b264d03638db9f4ce671b711558bf7ff0f80d5",
+      "repo_type": "dataset",
+      "source": "huggingface",
+      "files": [
+        {
+          "path": "README.md",
+          "size": 6570,
+          "sha256": null,
+          "git_oid": "5f4799732ac5ef5996a61d51973210cb2da61629"
+        },
+        {
+          "path": "data/train-00000-of-00001.parquet",
+          "size": 3685146,
+          "sha256": "4f028e992c0bd4df30b9f056f4946b64f5c23028034ff0ed5ea467d8538cc623",
+          "git_oid": "f152937cb6c6524fa73fec33160342c37c3f568b"
+        },
+        {
+          "path": "data/validation-00000-of-00001.parquet",
+          "size": 1257630,
+          "sha256": "52355d11524b4b874a9b9dcc278feb10f672d52c4f4eff9872e695ede59820f8",
+          "git_oid": "3d58243757bfad1d0808c65cdb0b48f927c58a16"
+        }
+      ],
+      "license": [
+        "cc-by-sa-3.0"
+      ],
+      "total_bytes": 4949346
+    },
+    {
+      "id": "arc",
+      "repo_id": "allenai/ai2_arc",
+      "revision": "210d026faf9955653af8916fad021475a3f00453",
+      "repo_type": "dataset",
+      "source": "huggingface",
+      "files": [
+        {
+          "path": "ARC-Challenge/test-00000-of-00001.parquet",
+          "size": 203808,
+          "sha256": "62f03257e737aed263f55c6abf87c7bb0028a44a6bdd2a26eb1279eb42c1d1e9",
+          "git_oid": "dccb239c736b6aa3f70117b44820ab50fba7fb53"
+        },
+        {
+          "path": "ARC-Challenge/train-00000-of-00001.parquet",
+          "size": 189909,
+          "sha256": "e488c1587ffdcfc8443f916c53488a95cd471c5790e0746c6bfe4cecf20962cb",
+          "git_oid": "ae987592f5e0913097e4b6637fcfcbae7dcd994c"
+        },
+        {
+          "path": "ARC-Challenge/validation-00000-of-00001.parquet",
+          "size": 55743,
+          "sha256": "395a5c88d1580d69855fbaee9450270578df1ad5af6259771cd0a42c20e99f05",
+          "git_oid": "108b2f1e32ff87935ae766487409bbdf5c169964"
+        },
+        {
+          "path": "README.md",
+          "size": 9001,
+          "sha256": null,
+          "git_oid": "d50d3b885a6d04fe8cb16cc9947f64dff0ba941a"
+        }
+      ],
+      "license": [
+        "cc-by-sa-4.0"
+      ],
+      "total_bytes": 458461
+    },
+    {
+      "id": "onejev-data",
+      "repo_id": "OmniJev/OneJev-Data",
+      "revision": "c991b20e70359acb4448147c2ce99eecccd08ac4",
+      "repo_type": "dataset",
+      "source": "huggingface",
+      "files": [
+        {
+          "path": "README.md",
+          "size": 7603,
+          "sha256": null,
+          "git_oid": "fafe747347b2b4dd1729ed3c84aa5ef319a0f041"
+        },
+        {
+          "path": "data/train-00000-of-00018.parquet",
+          "size": 984956849,
+          "sha256": "5f56fe5094251b43dd2473d1cef5555999273f7a877d4a68e7cedc4f64e59f24",
+          "git_oid": "c5d351cb0ad1c947fbe0baa5f77150354e9c0f50"
+        },
+        {
+          "path": "data/train-00001-of-00018.parquet",
+          "size": 984401936,
+          "sha256": "5a7706450acb6d0b3cc66179d8f9c694743c63a2e629b9f35a40e1f7ecf7431e",
+          "git_oid": "ae7f94c736cae94d115944cb0b0c36faecae5ee5"
+        },
+        {
+          "path": "data/train-00002-of-00018.parquet",
+          "size": 984335384,
+          "sha256": "ed95c00aabaaeb8ac1ae87e90a39919ca470919cd858a898c17df7011b041d24",
+          "git_oid": "7aa744c1c0ce06e70d3b8f34ae0390d90537fc75"
+        },
+        {
+          "path": "data/train-00003-of-00018.parquet",
+          "size": 984056409,
+          "sha256": "a286e9068a4f8a0a7e4ed3a741c596f989974cf8fddacf0794f5290303d98958",
+          "git_oid": "fbf5d3cfe77387c42517f77a3a8b5b43e128e927"
+        },
+        {
+          "path": "data/train-00004-of-00018.parquet",
+          "size": 984459986,
+          "sha256": "2f987d0655a1e9c30f72151e37e4e82be611c761888b6b2470314c983634f8ef",
+          "git_oid": "f31fa4e50232308249f32191041be75b42e334ac"
+        },
+        {
+          "path": "data/train-00005-of-00018.parquet",
+          "size": 984227428,
+          "sha256": "801da6c7bb7a70a7e610f172e56b7a8b0e297bb37216b5d3ca8f6ad4bdc3a706",
+          "git_oid": "68a3e3b84de8931af785b8292e4c32e92ee0a40c"
+        },
+        {
+          "path": "data/train-00006-of-00018.parquet",
+          "size": 983472199,
+          "sha256": "12386e06a411c50a9bc91ec3d52b6cb427c752edf2aa62635c8a9fae510b28d5",
+          "git_oid": "517e336a9e6852e2e836aecbe4b5a2fc45839250"
+        },
+        {
+          "path": "data/train-00007-of-00018.parquet",
+          "size": 985107423,
+          "sha256": "49533383da45772e90448b0247c364c81811756bade5a62e4e1be592fa701c8f",
+          "git_oid": "8e77a98572502b817824c2f20a6c141908883a72"
+        },
+        {
+          "path": "data/train-00008-of-00018.parquet",
+          "size": 984028246,
+          "sha256": "ce9420fde883d59cfea0b3a6d2e59d5fc3809834bb26bbd478c335d4d7c0dfd9",
+          "git_oid": "f4ed7225380eb6c2aff9cd895d8f4c80dfa71592"
+        },
+        {
+          "path": "data/train-00009-of-00018.parquet",
+          "size": 984436939,
+          "sha256": "0204a597f03807dc9c253444f65bc992362bb596bfad352730ef6290735a69fc",
+          "git_oid": "ccfa1549f5e25f2da75ea4f739e0c9804ca737a4"
+        },
+        {
+          "path": "data/train-00010-of-00018.parquet",
+          "size": 983786467,
+          "sha256": "796e5527aaa27b6d7d7304814cc1efb71138945042f485d37179b2fe72364ec9",
+          "git_oid": "f69e0a7ec96b5051dbd48046c380eb9a9cab7459"
+        },
+        {
+          "path": "data/train-00011-of-00018.parquet",
+          "size": 983782208,
+          "sha256": "cc27b09cb49837b6cd3afd41a609db83a60f4894aa0c374f02795a44928eac56",
+          "git_oid": "a8d36bb9a5f8565a32ce96052161f12a4f9bec3c"
+        },
+        {
+          "path": "data/train-00012-of-00018.parquet",
+          "size": 984356835,
+          "sha256": "118bff3c0e78b6046bf1586e8e31ba60d5755645ff573c39363ec9f9497b9044",
+          "git_oid": "72ac1f166fc375108fa794cce6fa505d77f4c556"
+        },
+        {
+          "path": "data/train-00013-of-00018.parquet",
+          "size": 984173186,
+          "sha256": "e8e78a079b1168b0d6dc3bd18fc07090b91dd7322128986e765722c9c568f207",
+          "git_oid": "a32b4ccc4ba689fad442508c356d75e25e5b3938"
+        },
+        {
+          "path": "data/train-00014-of-00018.parquet",
+          "size": 984375949,
+          "sha256": "d9b578a6251e632a1773d51ffca2bbd9fb8286ec488f930f2fe5e4d59baf7cb9",
+          "git_oid": "46fb162b44dc2509d6ccd508e32f13cd21e4a140"
+        },
+        {
+          "path": "data/train-00015-of-00018.parquet",
+          "size": 983680768,
+          "sha256": "f50a4f52fc9abafa89b2d3e3ecd190583dfd5e6ea212a3d2c7622c26a01aa7cf",
+          "git_oid": "f9b97b7c47d29ad17885fdd4425a61f2a401e1d5"
+        },
+        {
+          "path": "data/train-00016-of-00018.parquet",
+          "size": 983839538,
+          "sha256": "4b11ec81a0bc11de0e05629a0897347c23f10d43e226000e5d6a82426cb34c49",
+          "git_oid": "e813af9efbc7e680798332b7525530b71ac344d9"
+        },
+        {
+          "path": "data/train-00017-of-00018.parquet",
+          "size": 984285419,
+          "sha256": "9e0c18b076de75ee3e58ab5306405e609fa922c78d47651f1970fe2595398e8a",
+          "git_oid": "b77958dcad68436e141ce6ead4ad5124b306f9fb"
+        },
+        {
+          "path": "licenses.csv",
+          "size": 12847,
+          "sha256": null,
+          "git_oid": "efa3bd641fd3d014ca0942f8a609b5b26bcfffc1"
+        },
+        {
+          "path": "sample/sample-100.parquet",
+          "size": 22997000,
+          "sha256": "e44d152d5121114e4db39575764b54a2a9b4b1940a6435aa814b61629057777f",
+          "git_oid": "ea277d2b48b6c8e232a241b00f7c2b08b19e201d"
+        }
+      ],
+      "license": "other",
+      "total_bytes": 17738780619
+    },
+    {
+      "id": "jevbench-public",
+      "repo_id": "fstandhartinger/jevbench",
+      "revision": "7625ecb1b075cfe4d09d34141d353325825eea1d",
+      "source": "github",
+      "repo_type": "dataset",
+      "files": [
+        {
+          "path": "datasets/public/original.jsonl",
+          "size": 57237,
+          "sha256": "5c2414edb3006b8bfcb70fda433f0f9ca015759433849f8d3104328a1f7c4180"
+        },
+        {
+          "path": "datasets/public/easy.jsonl",
+          "size": 37220,
+          "sha256": "231df3c2c8e88a1a8c137ebe85de96ba70fabd330849098ac7b3c52c70b7172b"
+        },
+        {
+          "path": "datasets/public/hard.jsonl",
+          "size": 651848,
+          "sha256": "89e9e6becb33ed88c1de7d42dcc87531b2fb64cfaef4e1986faf7c37b3f80ebb"
+        },
+        {
+          "path": "datasets/manifest.json",
+          "size": 2891,
+          "sha256": "0983ad3e73a34e7c55b02b5d09ed983aeccabef0253bb31be43a2e6230d58f7b"
+        },
+        {
+          "path": "LICENSE",
+          "size": 1096,
+          "sha256": "3e5beed774bb0bcbfb2fcf24ba9554212c6ae112937d308040989465ab0c5784"
+        },
+        {
+          "path": "README.md",
+          "size": 38359,
+          "sha256": "2165b3f9d537c9d03e5d7ab8e5736cc8d0661417fbdf53cb89a8e5f3bace30c3"
+        }
+      ],
+      "total_bytes": 788651
+    },
+    {
+      "id": "sys1cal",
+      "repo_id": "little-g-ai/Sys1Cal-v1",
+      "revision": "9c97b8ea27e25c162eeb5f2e6fa09ac7d5c8fb30",
+      "source": "github",
+      "repo_type": "dataset",
+      "files": [
+        {
+          "path": "datasets/generated/v0.1.0_tiny_cleanvars_binary.jsonl",
+          "size": 427615,
+          "sha256": "cbd896e8acc0455b5e187cc936ab6c5306ad781e43e5f722bca422b399604f8e"
+        },
+        {
+          "path": "datasets/generated/v0.1.0_tiny_cleanvars_parallel_primitives.jsonl",
+          "size": 864928,
+          "sha256": "2f31c498debb39891339e018b5c747991e54085ab231cb5a0d981d1fc83b530c"
+        },
+        {
+          "path": "hf/Sys1Cal-v1/README.md",
+          "size": 5036,
+          "sha256": "08aaf1b36b677fba43e691ccd6690378c97ef491e1c40f724d21d867aefe06d7"
+        },
+        {
+          "path": "README.md",
+          "size": 10174,
+          "sha256": "ddaf0646689ca54533acd7b20b5c9f5399d93c2d288eef2a55c430e90a27ab54"
+        }
+      ],
+      "total_bytes": 1307753
+    }
+  ],
+  "manifest_hash": "d9a3a55c7560bcf4068903d8f93301b785927890c4b02996b2f317b5025fc517"
+}

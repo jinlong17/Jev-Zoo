@@ -1,0 +1,5238 @@
+{
+  "schema_version": "1.0",
+  "by_url": {
+    "https://github.com/typesafe-ai/skills": {
+      "url": "https://github.com/typesafe-ai/skills",
+      "discovery_id": "typesafe-ai/skills",
+      "curated_ids": []
+    },
+    "https://github.com/typesafe-ai/system-one-adapter-python": {
+      "url": "https://github.com/typesafe-ai/system-one-adapter-python",
+      "discovery_id": "typesafe-ai/system-one-adapter-python",
+      "curated_ids": []
+    },
+    "https://github.com/typesafe-ai/typesafe-sdk-js": {
+      "url": "https://github.com/typesafe-ai/typesafe-sdk-js",
+      "discovery_id": "typesafe-ai/typesafe-sdk-js",
+      "curated_ids": []
+    },
+    "https://github.com/typesafe-ai/typesafe-sdk-python": {
+      "url": "https://github.com/typesafe-ai/typesafe-sdk-python",
+      "discovery_id": "typesafe-ai/typesafe-sdk-python",
+      "curated_ids": []
+    },
+    "https://github.com/typesafe-ai/daggerverse": {
+      "url": "https://github.com/typesafe-ai/daggerverse",
+      "discovery_id": "typesafe-ai/daggerverse",
+      "curated_ids": []
+    },
+    "https://github.com/typesafe-ai/overwatch": {
+      "url": "https://github.com/typesafe-ai/Overwatch",
+      "discovery_id": "typesafe-ai/overwatch",
+      "curated_ids": []
+    },
+    "https://github.com/cequence-io/openai-scala-client": {
+      "url": "https://github.com/cequence-io/openai-scala-client",
+      "discovery_id": "cequence-io/openai-scala-client",
+      "curated_ids": []
+    },
+    "https://github.com/pithings/advocaat": {
+      "url": "https://github.com/pithings/advocaat",
+      "discovery_id": "pithings/advocaat",
+      "curated_ids": []
+    },
+    "https://github.com/obie/ruby_decision_model": {
+      "url": "https://github.com/obie/ruby_decision_model",
+      "discovery_id": "obie/ruby_decision_model",
+      "curated_ids": []
+    },
+    "https://github.com/spring-ai-community/spring-ai-typesafe": {
+      "url": "https://github.com/spring-ai-community/spring-ai-typesafe",
+      "discovery_id": "spring-ai-community/spring-ai-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/typellm/pijev": {
+      "url": "https://github.com/TypeLLM/pijev",
+      "discovery_id": "typellm/pijev",
+      "curated_ids": []
+    },
+    "https://github.com/devmortimer/pi-typesafe": {
+      "url": "https://github.com/DevMortimer/pi-typesafe",
+      "discovery_id": "devmortimer/pi-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/krzyzanowskim/typesafe": {
+      "url": "https://github.com/krzyzanowskim/TypeSafe",
+      "discovery_id": "krzyzanowskim/typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/dannote/jev": {
+      "url": "https://github.com/dannote/jev",
+      "discovery_id": "dannote/jev",
+      "curated_ids": []
+    },
+    "https://github.com/sanmai/typesafe-ai-php": {
+      "url": "https://github.com/sanmai/typesafe-ai-php",
+      "discovery_id": "sanmai/typesafe-ai-php",
+      "curated_ids": []
+    },
+    "https://github.com/mattn/go-jev": {
+      "url": "https://github.com/mattn/go-jev",
+      "discovery_id": "mattn/go-jev",
+      "curated_ids": []
+    },
+    "https://github.com/stefafafan/jev": {
+      "url": "https://github.com/stefafafan/jev",
+      "discovery_id": "stefafafan/jev",
+      "curated_ids": []
+    },
+    "https://github.com/d-date/swift-jev": {
+      "url": "https://github.com/d-date/swift-jev",
+      "discovery_id": "d-date/swift-jev",
+      "curated_ids": []
+    },
+    "https://github.com/twister915/typesafe-ai": {
+      "url": "https://github.com/Twister915/typesafe-ai",
+      "discovery_id": "twister915/typesafe-ai",
+      "curated_ids": []
+    },
+    "https://github.com/tangerg/typesafe-sdk-go": {
+      "url": "https://github.com/Tangerg/typesafe-sdk-go",
+      "discovery_id": "tangerg/typesafe-sdk-go",
+      "curated_ids": []
+    },
+    "https://github.com/dfinke/jev": {
+      "url": "https://github.com/dfinke/Jev",
+      "discovery_id": "dfinke/jev",
+      "curated_ids": []
+    },
+    "https://github.com/jomatsu/zod-jev": {
+      "url": "https://github.com/jomatsu/zod-jev",
+      "discovery_id": "jomatsu/zod-jev",
+      "curated_ids": []
+    },
+    "https://github.com/inanna-malick/jev-dsl": {
+      "url": "https://github.com/inanna-malick/jev-dsl",
+      "discovery_id": "inanna-malick/jev-dsl",
+      "curated_ids": []
+    },
+    "https://github.com/ticofab/scala-jev-sdk": {
+      "url": "https://github.com/ticofab/scala-jev-sdk",
+      "discovery_id": "ticofab/scala-jev-sdk",
+      "curated_ids": []
+    },
+    "https://github.com/kevthetech143/super-jev": {
+      "url": "https://github.com/Kevthetech143/super-jev",
+      "discovery_id": "kevthetech143/super-jev",
+      "curated_ids": []
+    },
+    "https://github.com/saibimajdi/typesafeai-dotnet-sdk": {
+      "url": "https://github.com/saibimajdi/typesafeai-dotnet-sdk",
+      "discovery_id": "saibimajdi/typesafeai-dotnet-sdk",
+      "curated_ids": []
+    },
+    "https://github.com/alterhq/typesafe-sdk-swift": {
+      "url": "https://github.com/alterhq/typesafe-sdk-swift",
+      "discovery_id": "alterhq/typesafe-sdk-swift",
+      "curated_ids": []
+    },
+    "https://github.com/joshmn/typesafe-sdk": {
+      "url": "https://github.com/joshmn/typesafe-sdk",
+      "discovery_id": "joshmn/typesafe-sdk",
+      "curated_ids": []
+    },
+    "https://github.com/gaurav-gosain/jev-go": {
+      "url": "https://github.com/Gaurav-Gosain/jev-go",
+      "discovery_id": "gaurav-gosain/jev-go",
+      "curated_ids": []
+    },
+    "https://github.com/gilljon/typesafe-ai-rs": {
+      "url": "https://github.com/gilljon/typesafe-ai-rs",
+      "discovery_id": "gilljon/typesafe-ai-rs",
+      "curated_ids": []
+    },
+    "https://github.com/insanearts/typesafe-sdk-swift": {
+      "url": "https://github.com/InsaneArts/typesafe-sdk-swift",
+      "discovery_id": "insanearts/typesafe-sdk-swift",
+      "curated_ids": []
+    },
+    "https://github.com/jamesward/zio-typesafe-ai": {
+      "url": "https://github.com/jamesward/zio-typesafe-ai",
+      "discovery_id": "jamesward/zio-typesafe-ai",
+      "curated_ids": []
+    },
+    "https://github.com/mateonunez/jod": {
+      "url": "https://github.com/mateonunez/jod",
+      "discovery_id": "mateonunez/jod",
+      "curated_ids": []
+    },
+    "https://github.com/nshkrdotcom/typesafe_sdk": {
+      "url": "https://github.com/nshkrdotcom/typesafe_sdk",
+      "discovery_id": "nshkrdotcom/typesafe_sdk",
+      "curated_ids": []
+    },
+    "https://github.com/olti1947/jev-java": {
+      "url": "https://github.com/Olti1947/jev-java",
+      "discovery_id": "olti1947/jev-java",
+      "curated_ids": []
+    },
+    "https://github.com/kisshan13/typesafe-ai-go": {
+      "url": "https://github.com/kisshan13/typesafe-ai-go",
+      "discovery_id": "kisshan13/typesafe-ai-go",
+      "curated_ids": []
+    },
+    "https://github.com/codeitlikemiley/typesafe-sdk-rust": {
+      "url": "https://github.com/codeitlikemiley/typesafe-sdk-rust",
+      "discovery_id": "codeitlikemiley/typesafe-sdk-rust",
+      "curated_ids": []
+    },
+    "https://github.com/cole-gillespie/typesafe-go": {
+      "url": "https://github.com/cole-gillespie/typesafe-go",
+      "discovery_id": "cole-gillespie/typesafe-go",
+      "curated_ids": []
+    },
+    "https://github.com/fgn/jevgo": {
+      "url": "https://github.com/fgn/jevgo",
+      "discovery_id": "fgn/jevgo",
+      "curated_ids": []
+    },
+    "https://github.com/hawxy/typesafeai.net": {
+      "url": "https://github.com/Hawxy/TypeSafeAI.Net",
+      "discovery_id": "hawxy/typesafeai.net",
+      "curated_ids": []
+    },
+    "https://github.com/premo-cloud/typesafe-sdk-java": {
+      "url": "https://github.com/Premo-Cloud/typesafe-sdk-java",
+      "discovery_id": "premo-cloud/typesafe-sdk-java",
+      "curated_ids": []
+    },
+    "https://github.com/pinkroosterai/systemonesharp": {
+      "url": "https://github.com/pinkroosterai/SystemOneSharp",
+      "discovery_id": "pinkroosterai/systemonesharp",
+      "curated_ids": []
+    },
+    "https://github.com/abovecolin/jevclient": {
+      "url": "https://github.com/AboveColin/jevclient",
+      "discovery_id": "abovecolin/jevclient",
+      "curated_ids": []
+    },
+    "https://github.com/anilsenay/jev": {
+      "url": "https://github.com/anilsenay/jev",
+      "discovery_id": "anilsenay/jev",
+      "curated_ids": []
+    },
+    "https://github.com/binnash/typesafe-sdk": {
+      "url": "https://github.com/binnash/typesafe-sdk",
+      "discovery_id": "binnash/typesafe-sdk",
+      "curated_ids": []
+    },
+    "https://github.com/chez-shanpu/typesafeai-go": {
+      "url": "https://github.com/chez-shanpu/typesafeai-go",
+      "discovery_id": "chez-shanpu/typesafeai-go",
+      "curated_ids": []
+    },
+    "https://github.com/guillemus/jev-go": {
+      "url": "https://github.com/guillemus/jev-go",
+      "discovery_id": "guillemus/jev-go",
+      "curated_ids": []
+    },
+    "https://github.com/jedimemo/typesafe-client": {
+      "url": "https://github.com/JedimEmO/typesafe-client",
+      "discovery_id": "jedimemo/typesafe-client",
+      "curated_ids": []
+    },
+    "https://github.com/vinnie357/typesafe_sdk_ex": {
+      "url": "https://github.com/vinnie357/typesafe_sdk_ex",
+      "discovery_id": "vinnie357/typesafe_sdk_ex",
+      "curated_ids": []
+    },
+    "https://github.com/yairshy/decido": {
+      "url": "https://github.com/yairshy/decido",
+      "discovery_id": "yairshy/decido",
+      "curated_ids": []
+    },
+    "https://github.com/zhirschtritt/typesafe-go": {
+      "url": "https://github.com/zhirschtritt/typesafe-go",
+      "discovery_id": "zhirschtritt/typesafe-go",
+      "curated_ids": []
+    },
+    "https://github.com/butochnikov/typesafe-sdk-php": {
+      "url": "https://github.com/Butochnikov/typesafe-sdk-php",
+      "discovery_id": "butochnikov/typesafe-sdk-php",
+      "curated_ids": []
+    },
+    "https://github.com/luigivis/jev-sdk-java": {
+      "url": "https://github.com/luigivis/jev-sdk-java",
+      "discovery_id": "luigivis/jev-sdk-java",
+      "curated_ids": []
+    },
+    "https://github.com/iamjonatha/decisionkit-dotnet": {
+      "url": "https://github.com/iamjonatha/decisionkit-dotnet",
+      "discovery_id": "iamjonatha/decisionkit-dotnet",
+      "curated_ids": []
+    },
+    "https://github.com/abdelstark/s1-rs": {
+      "url": "https://github.com/AbdelStark/s1-rs",
+      "discovery_id": "abdelstark/s1-rs",
+      "curated_ids": []
+    },
+    "https://github.com/abdelstark/typesafe-rs": {
+      "url": "https://github.com/AbdelStark/typesafe-rs",
+      "discovery_id": "abdelstark/typesafe-rs",
+      "curated_ids": []
+    },
+    "https://github.com/hfiguera/typesafe_ai": {
+      "url": "https://github.com/hfiguera/typesafe_ai",
+      "discovery_id": "hfiguera/typesafe_ai",
+      "curated_ids": []
+    },
+    "https://github.com/kunobi-ninja/kunobi-jev": {
+      "url": "https://github.com/kunobi-ninja/kunobi-jev",
+      "discovery_id": "kunobi-ninja/kunobi-jev",
+      "curated_ids": []
+    },
+    "https://github.com/lhotwll217/jev-cli": {
+      "url": "https://github.com/lhotwll217/jev-cli",
+      "discovery_id": "lhotwll217/jev-cli",
+      "curated_ids": []
+    },
+    "https://github.com/mattneel/typesafe": {
+      "url": "https://github.com/mattneel/typesafe",
+      "discovery_id": "mattneel/typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/mattneel/typesafe.zig": {
+      "url": "https://github.com/mattneel/typesafe.zig",
+      "discovery_id": "mattneel/typesafe.zig",
+      "curated_ids": []
+    },
+    "https://github.com/tinyhumansai/tinyjevclient": {
+      "url": "https://github.com/tinyhumansai/tinyjevclient",
+      "discovery_id": "tinyhumansai/tinyjevclient",
+      "curated_ids": []
+    },
+    "https://github.com/typesend/typesafe_ai": {
+      "url": "https://github.com/typesend/typesafe_ai",
+      "discovery_id": "typesend/typesafe_ai",
+      "curated_ids": []
+    },
+    "https://github.com/valksor/typesafe-sdk-go": {
+      "url": "https://github.com/valksor/typesafe-sdk-go",
+      "discovery_id": "valksor/typesafe-sdk-go",
+      "curated_ids": []
+    },
+    "https://github.com/valksor/typesafe-sdk-php": {
+      "url": "https://github.com/valksor/typesafe-sdk-php",
+      "discovery_id": "valksor/typesafe-sdk-php",
+      "curated_ids": []
+    },
+    "https://github.com/shubham510/typesafe-go": {
+      "url": "https://github.com/Shubham510/typesafe-go",
+      "discovery_id": "shubham510/typesafe-go",
+      "curated_ids": []
+    },
+    "https://github.com/nandhakishorm/laya": {
+      "url": "https://github.com/NandhaKishorM/laya",
+      "discovery_id": "nandhakishorm/laya",
+      "curated_ids": [
+        "laya"
+      ]
+    },
+    "https://github.com/theoleecj/semif-openjev": {
+      "url": "https://github.com/TheoLeeCJ/SemIf-OpenJev",
+      "discovery_id": "theoleecj/semif-openjev",
+      "curated_ids": []
+    },
+    "https://github.com/theoleecj/semif": {
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "discovery_id": "theoleecj/semif",
+      "curated_ids": []
+    },
+    "https://github.com/jaredpalmer/kev": {
+      "url": "https://github.com/jaredpalmer/kev",
+      "discovery_id": "jaredpalmer/kev",
+      "curated_ids": [
+        "kev"
+      ]
+    },
+    "https://github.com/tokenrhythm/neohorse": {
+      "url": "https://github.com/TokenRhythm/NeoHorse",
+      "discovery_id": "tokenrhythm/neohorse",
+      "curated_ids": []
+    },
+    "https://github.com/feder-cr/jev": {
+      "url": "https://github.com/feder-cr/jev",
+      "discovery_id": "feder-cr/jev",
+      "curated_ids": []
+    },
+    "https://github.com/firelex/jeff": {
+      "url": "https://github.com/firelex/jeff",
+      "discovery_id": "firelex/jeff",
+      "curated_ids": []
+    },
+    "https://github.com/githubnext/localjev": {
+      "url": "https://github.com/githubnext/localjev",
+      "discovery_id": "githubnext/localjev",
+      "curated_ids": []
+    },
+    "https://github.com/wfzyx/von": {
+      "url": "https://github.com/wfzyx/von",
+      "discovery_id": "wfzyx/von",
+      "curated_ids": []
+    },
+    "https://github.com/featherless-ai/simple-jev": {
+      "url": "https://github.com/featherless-ai/simple-jev",
+      "discovery_id": "featherless-ai/simple-jev",
+      "curated_ids": []
+    },
+    "https://github.com/deepopen-com/deepopen": {
+      "url": "https://github.com/deepopen-com/deepopen",
+      "discovery_id": "deepopen-com/deepopen",
+      "curated_ids": []
+    },
+    "https://github.com/receptron/laya": {
+      "url": "https://github.com/receptron/laya",
+      "discovery_id": "receptron/laya",
+      "curated_ids": []
+    },
+    "https://github.com/posthog/jeeves": {
+      "url": "https://github.com/PostHog/jeeves",
+      "discovery_id": "posthog/jeeves",
+      "curated_ids": []
+    },
+    "https://github.com/internlm/intern-decision": {
+      "url": "https://github.com/InternLM/Intern-Decision",
+      "discovery_id": "internlm/intern-decision",
+      "curated_ids": [
+        "intern-decision"
+      ]
+    },
+    "https://github.com/ekzhang/openjev-sglang": {
+      "url": "https://github.com/ekzhang/openjev-sglang",
+      "discovery_id": "ekzhang/openjev-sglang",
+      "curated_ids": []
+    },
+    "https://github.com/malevrigns/agent-jev": {
+      "url": "https://github.com/malevrigns/agent-jev",
+      "discovery_id": "malevrigns/agent-jev",
+      "curated_ids": []
+    },
+    "https://github.com/zefan-cai/open-jev": {
+      "url": "https://github.com/Zefan-Cai/Open-Jev",
+      "discovery_id": "zefan-cai/open-jev",
+      "curated_ids": [
+        "open-jev"
+      ]
+    },
+    "https://github.com/rizzo-ai-academy/rizzo-flow": {
+      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+      "discovery_id": "rizzo-ai-academy/rizzo-flow",
+      "curated_ids": []
+    },
+    "https://github.com/logan-markewich/jeff": {
+      "url": "https://github.com/logan-markewich/jeff",
+      "discovery_id": "logan-markewich/jeff",
+      "curated_ids": []
+    },
+    "https://github.com/mmastrac/djev-spark": {
+      "url": "https://github.com/mmastrac/djev-spark",
+      "discovery_id": "mmastrac/djev-spark",
+      "curated_ids": []
+    },
+    "https://github.com/razorback16/openjev": {
+      "url": "https://github.com/razorback16/openjev",
+      "discovery_id": "razorback16/openjev",
+      "curated_ids": []
+    },
+    "https://github.com/nokia-applied-research/anyjev": {
+      "url": "https://github.com/nokia-applied-research/AnyJev",
+      "discovery_id": "nokia-applied-research/anyjev",
+      "curated_ids": []
+    },
+    "https://github.com/mohit67890/imajev": {
+      "url": "https://github.com/mohit67890/imajev",
+      "discovery_id": "mohit67890/imajev",
+      "curated_ids": [
+        "imajev"
+      ]
+    },
+    "https://github.com/ipenywis/laya-ultrafast": {
+      "url": "https://github.com/ipenywis/laya-ultrafast",
+      "discovery_id": "ipenywis/laya-ultrafast",
+      "curated_ids": []
+    },
+    "https://github.com/yinsongxu/llm2jev": {
+      "url": "https://github.com/Yinsongxu/LLM2Jev",
+      "discovery_id": "yinsongxu/llm2jev",
+      "curated_ids": [
+        "llm2jev-yinsongxu"
+      ]
+    },
+    "https://github.com/contrastive-lm/clm": {
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "discovery_id": "contrastive-lm/clm",
+      "curated_ids": []
+    },
+    "https://github.com/siliconlabai/openjev": {
+      "url": "https://github.com/SiliconLabAI/OpenJev",
+      "discovery_id": "siliconlabai/openjev",
+      "curated_ids": []
+    },
+    "https://github.com/lyuyiqi/open-jev-fast": {
+      "url": "https://github.com/lyuyiqi/open-jev-fast",
+      "discovery_id": "lyuyiqi/open-jev-fast",
+      "curated_ids": []
+    },
+    "https://github.com/andrewprifer/jimothy": {
+      "url": "https://github.com/AndrewPrifer/jimothy",
+      "discovery_id": "andrewprifer/jimothy",
+      "curated_ids": []
+    },
+    "https://github.com/hitsz-tmg/jevembed": {
+      "url": "https://github.com/HITsz-TMG/JevEmbed",
+      "discovery_id": "hitsz-tmg/jevembed",
+      "curated_ids": []
+    },
+    "https://github.com/allebee/jevk5": {
+      "url": "https://github.com/allebee/jevk5",
+      "discovery_id": "allebee/jevk5",
+      "curated_ids": []
+    },
+    "https://github.com/deepanwadhwa/opendecision": {
+      "url": "https://github.com/deepanwadhwa/OpenDecision",
+      "discovery_id": "deepanwadhwa/opendecision",
+      "curated_ids": []
+    },
+    "https://github.com/intikhab49/open-jev-typed-decision-engine": {
+      "url": "https://github.com/intikhab49/open-jev-typed-decision-engine",
+      "discovery_id": "intikhab49/open-jev-typed-decision-engine",
+      "curated_ids": []
+    },
+    "https://github.com/typellm/typellm": {
+      "url": "https://github.com/TypeLLM/TypeLLM",
+      "discovery_id": "typellm/typellm",
+      "curated_ids": []
+    },
+    "https://github.com/hunkim/solar-mini4-jev": {
+      "url": "https://github.com/hunkim/solar-mini4-jev",
+      "discovery_id": "hunkim/solar-mini4-jev",
+      "curated_ids": []
+    },
+    "https://github.com/1panel-dev/laya-server": {
+      "url": "https://github.com/1Panel-dev/laya-server",
+      "discovery_id": "1panel-dev/laya-server",
+      "curated_ids": []
+    },
+    "https://github.com/feiliuem/open-medical-jev": {
+      "url": "https://github.com/FeiLiuEM/open-medical-jev",
+      "discovery_id": "feiliuem/open-medical-jev",
+      "curated_ids": []
+    },
+    "https://github.com/iambusy/openjev-vision": {
+      "url": "https://github.com/IamBusy/OpenJev-Vision",
+      "discovery_id": "iambusy/openjev-vision",
+      "curated_ids": []
+    },
+    "https://github.com/mmastrac/djev": {
+      "url": "https://github.com/mmastrac/djev",
+      "discovery_id": "mmastrac/djev",
+      "curated_ids": []
+    },
+    "https://github.com/liuziyu77/valen": {
+      "url": "https://github.com/Liuziyu77/Valen",
+      "discovery_id": "liuziyu77/valen",
+      "curated_ids": []
+    },
+    "https://github.com/fidecastro/jevify": {
+      "url": "https://github.com/fidecastro/jevify",
+      "discovery_id": "fidecastro/jevify",
+      "curated_ids": []
+    },
+    "https://github.com/zwlijay/jev-forge": {
+      "url": "https://github.com/zwliJay/jev-forge",
+      "discovery_id": "zwlijay/jev-forge",
+      "curated_ids": []
+    },
+    "https://github.com/sabeel111/opensourcejev": {
+      "url": "https://github.com/sabeel111/OpenSourceJev",
+      "discovery_id": "sabeel111/opensourcejev",
+      "curated_ids": []
+    },
+    "https://github.com/hawkymisc/typed-decision-bert": {
+      "url": "https://github.com/hawkymisc/typed-decision-bert",
+      "discovery_id": "hawkymisc/typed-decision-bert",
+      "curated_ids": []
+    },
+    "https://github.com/nico-martin/open-jev": {
+      "url": "https://github.com/nico-martin/open-jev",
+      "discovery_id": "nico-martin/open-jev",
+      "curated_ids": []
+    },
+    "https://github.com/iapp-technology/openthai-systemone": {
+      "url": "https://github.com/iapp-technology/openthai-systemone",
+      "discovery_id": "iapp-technology/openthai-systemone",
+      "curated_ids": []
+    },
+    "https://github.com/molemo-lab/mojev": {
+      "url": "https://github.com/MoLeMo-Lab/mojev",
+      "discovery_id": "molemo-lab/mojev",
+      "curated_ids": []
+    },
+    "https://github.com/zhangcy122/openjev": {
+      "url": "https://github.com/zhangcy122/OpenJev",
+      "discovery_id": "zhangcy122/openjev",
+      "curated_ids": []
+    },
+    "https://github.com/kouhxp/gutsy": {
+      "url": "https://github.com/kouhxp/gutsy",
+      "discovery_id": "kouhxp/gutsy",
+      "curated_ids": []
+    },
+    "https://github.com/alvarobartt/sys1": {
+      "url": "https://github.com/alvarobartt/sys1",
+      "discovery_id": "alvarobartt/sys1",
+      "curated_ids": []
+    },
+    "https://github.com/akivet/mica-v0.1-4b": {
+      "url": "https://github.com/akivet/Mica-v0.1-4B",
+      "discovery_id": "akivet/mica-v0.1-4b",
+      "curated_ids": []
+    },
+    "https://github.com/0xbakeer/arbiter": {
+      "url": "https://github.com/0xBakeer/arbiter",
+      "discovery_id": "0xbakeer/arbiter",
+      "curated_ids": []
+    },
+    "https://github.com/bladedevoff/stuntd": {
+      "url": "https://github.com/bladedevoff/stuntd",
+      "discovery_id": "bladedevoff/stuntd",
+      "curated_ids": []
+    },
+    "https://github.com/9pings/notjev": {
+      "url": "https://github.com/9pings/notjev",
+      "discovery_id": "9pings/notjev",
+      "curated_ids": []
+    },
+    "https://github.com/joshuasp/open-jev": {
+      "url": "https://github.com/JoshuaSP/open-jev",
+      "discovery_id": "joshuasp/open-jev",
+      "curated_ids": []
+    },
+    "https://github.com/leesk212/jev-cpu": {
+      "url": "https://github.com/leesk212/JEV-CPU",
+      "discovery_id": "leesk212/jev-cpu",
+      "curated_ids": []
+    },
+    "https://github.com/emnlmn/snap": {
+      "url": "https://github.com/emnlmn/snap",
+      "discovery_id": "emnlmn/snap",
+      "curated_ids": []
+    },
+    "https://github.com/ollaya-dev/ollaya": {
+      "url": "https://github.com/ollaya-dev/ollaya",
+      "discovery_id": "ollaya-dev/ollaya",
+      "curated_ids": []
+    },
+    "https://github.com/caiovicentino/eikos": {
+      "url": "https://github.com/caiovicentino/eikos",
+      "discovery_id": "caiovicentino/eikos",
+      "curated_ids": []
+    },
+    "https://github.com/togethercomputer/tev1": {
+      "url": "https://github.com/togethercomputer/tev1",
+      "discovery_id": "togethercomputer/tev1",
+      "curated_ids": []
+    },
+    "https://github.com/afshinm/laya-mps": {
+      "url": "https://github.com/afshinm/laya-mps",
+      "discovery_id": "afshinm/laya-mps",
+      "curated_ids": []
+    },
+    "https://github.com/sqliteai/blink": {
+      "url": "https://github.com/sqliteai/blink",
+      "discovery_id": "sqliteai/blink",
+      "curated_ids": []
+    },
+    "https://github.com/weitianxin/jevany": {
+      "url": "https://github.com/weitianxin/JevAny",
+      "discovery_id": "weitianxin/jevany",
+      "curated_ids": []
+    },
+    "https://github.com/pst2154/nemotron_jev": {
+      "url": "https://github.com/pst2154/Nemotron_Jev",
+      "discovery_id": "pst2154/nemotron_jev",
+      "curated_ids": []
+    },
+    "https://github.com/kyegomez/open-jev": {
+      "url": "https://github.com/kyegomez/open-jev",
+      "discovery_id": "kyegomez/open-jev",
+      "curated_ids": []
+    },
+    "https://github.com/micha0827/snapjudge": {
+      "url": "https://github.com/Micha0827/snapjudge",
+      "discovery_id": "micha0827/snapjudge",
+      "curated_ids": []
+    },
+    "https://github.com/zhulinchng/jevper": {
+      "url": "https://github.com/zhulinchng/jevper",
+      "discovery_id": "zhulinchng/jevper",
+      "curated_ids": []
+    },
+    "https://github.com/reza2kn/bev": {
+      "url": "https://github.com/Reza2kn/Bev",
+      "discovery_id": "reza2kn/bev",
+      "curated_ids": []
+    },
+    "https://github.com/xiaooolong/vev": {
+      "url": "https://github.com/Xiaooolong/vev",
+      "discovery_id": "xiaooolong/vev",
+      "curated_ids": []
+    },
+    "https://github.com/lawrence3699/jev-style": {
+      "url": "https://github.com/lawrence3699/jev-style",
+      "discovery_id": "lawrence3699/jev-style",
+      "curated_ids": []
+    },
+    "https://github.com/ypcypc/jemm": {
+      "url": "https://github.com/ypcypc/JEMM",
+      "discovery_id": "ypcypc/jemm",
+      "curated_ids": []
+    },
+    "https://github.com/samratduttaofficial/watersheep": {
+      "url": "https://github.com/SamratDuttaOfficial/WaterSheep",
+      "discovery_id": "samratduttaofficial/watersheep",
+      "curated_ids": []
+    },
+    "https://github.com/abhishek085/open-spark-jev": {
+      "url": "https://github.com/abhishek085/open-spark-jev",
+      "discovery_id": "abhishek085/open-spark-jev",
+      "curated_ids": []
+    },
+    "https://github.com/rupeshpoojary9/poorjev": {
+      "url": "https://github.com/rupeshpoojary9/poorjev",
+      "discovery_id": "rupeshpoojary9/poorjev",
+      "curated_ids": []
+    },
+    "https://github.com/xingwudao/openjev": {
+      "url": "https://github.com/xingwudao/OpenJev",
+      "discovery_id": "xingwudao/openjev",
+      "curated_ids": []
+    },
+    "https://github.com/yzfly/edgejev": {
+      "url": "https://github.com/yzfly/edgejev",
+      "discovery_id": "yzfly/edgejev",
+      "curated_ids": []
+    },
+    "https://github.com/newfull5/malkuth": {
+      "url": "https://github.com/newfull5/malkuth",
+      "discovery_id": "newfull5/malkuth",
+      "curated_ids": []
+    },
+    "https://github.com/omnijev/onejev": {
+      "url": "https://github.com/OmniJev/OneJev",
+      "discovery_id": "omnijev/onejev",
+      "curated_ids": [
+        "onejev"
+      ]
+    },
+    "https://github.com/us/jev-local": {
+      "url": "https://github.com/us/jev-local",
+      "discovery_id": "us/jev-local",
+      "curated_ids": []
+    },
+    "https://github.com/ankit-aglawe/tinyjev": {
+      "url": "https://github.com/ankit-aglawe/tinyjev",
+      "discovery_id": "ankit-aglawe/tinyjev",
+      "curated_ids": []
+    },
+    "https://github.com/hangzhi/diffusion-jev-sglang": {
+      "url": "https://github.com/Hangzhi/diffusion-jev-sglang",
+      "discovery_id": "hangzhi/diffusion-jev-sglang",
+      "curated_ids": [
+        "diffusion-jev"
+      ]
+    },
+    "https://github.com/feiliuem/tetrajev": {
+      "url": "https://github.com/FeiLiuEM/tetrajev",
+      "discovery_id": "feiliuem/tetrajev",
+      "curated_ids": []
+    },
+    "https://github.com/manavarya09/verdict": {
+      "url": "https://github.com/Manavarya09/verdict",
+      "discovery_id": "manavarya09/verdict",
+      "curated_ids": []
+    },
+    "https://github.com/berriai/litellm": {
+      "url": "https://github.com/BerriAI/litellm",
+      "discovery_id": "berriai/litellm",
+      "curated_ids": []
+    },
+    "https://github.com/can1357/oh-my-pi": {
+      "url": "https://github.com/can1357/oh-my-pi",
+      "discovery_id": "can1357/oh-my-pi",
+      "curated_ids": []
+    },
+    "https://github.com/vercel-labs/json-render": {
+      "url": "https://github.com/vercel-labs/json-render",
+      "discovery_id": "vercel-labs/json-render",
+      "curated_ids": []
+    },
+    "https://github.com/vercel/eve": {
+      "url": "https://github.com/vercel/eve",
+      "discovery_id": "vercel/eve",
+      "curated_ids": []
+    },
+    "https://github.com/langwatch/langwatch": {
+      "url": "https://github.com/langwatch/langwatch",
+      "discovery_id": "langwatch/langwatch",
+      "curated_ids": []
+    },
+    "https://github.com/laravel/ai": {
+      "url": "https://github.com/laravel/ai",
+      "discovery_id": "laravel/ai",
+      "curated_ids": []
+    },
+    "https://github.com/hardness1020/learn-agent-architecture": {
+      "url": "https://github.com/hardness1020/learn-agent-architecture",
+      "discovery_id": "hardness1020/learn-agent-architecture",
+      "curated_ids": []
+    },
+    "https://github.com/vercel-labs/ai-cli": {
+      "url": "https://github.com/vercel-labs/ai-cli",
+      "discovery_id": "vercel-labs/ai-cli",
+      "curated_ids": []
+    },
+    "https://github.com/kitfunso/hippo-memory": {
+      "url": "https://github.com/kitfunso/hippo-memory",
+      "discovery_id": "kitfunso/hippo-memory",
+      "curated_ids": []
+    },
+    "https://github.com/openrouterteam/ai-sdk-provider": {
+      "url": "https://github.com/OpenRouterTeam/ai-sdk-provider",
+      "discovery_id": "openrouterteam/ai-sdk-provider",
+      "curated_ids": []
+    },
+    "https://github.com/uezo/aiavatarkit": {
+      "url": "https://github.com/uezo/aiavatarkit",
+      "discovery_id": "uezo/aiavatarkit",
+      "curated_ids": []
+    },
+    "https://github.com/smithersai/smithers": {
+      "url": "https://github.com/smithersai/smithers",
+      "discovery_id": "smithersai/smithers",
+      "curated_ids": []
+    },
+    "https://github.com/realzachi/pg-jev": {
+      "url": "https://github.com/realZachi/pg-jev",
+      "discovery_id": "realzachi/pg-jev",
+      "curated_ids": []
+    },
+    "https://github.com/charlesfeng0314/jev_sees": {
+      "url": "https://github.com/CharlesFeng0314/JEV_sees",
+      "discovery_id": "charlesfeng0314/jev_sees",
+      "curated_ids": []
+    },
+    "https://github.com/kitze/skillbox": {
+      "url": "https://github.com/kitze/skillbox",
+      "discovery_id": "kitze/skillbox",
+      "curated_ids": []
+    },
+    "https://github.com/donvito/ai-backends": {
+      "url": "https://github.com/donvito/ai-backends",
+      "discovery_id": "donvito/ai-backends",
+      "curated_ids": []
+    },
+    "https://github.com/juspay/neurolink": {
+      "url": "https://github.com/juspay/neurolink",
+      "discovery_id": "juspay/neurolink",
+      "curated_ids": []
+    },
+    "https://github.com/sheltercosmo/jev4pg": {
+      "url": "https://github.com/Sheltercosmo/jev4pg",
+      "discovery_id": "sheltercosmo/jev4pg",
+      "curated_ids": []
+    },
+    "https://github.com/giuliosmall/pg_typesafe": {
+      "url": "https://github.com/giuliosmall/pg_typesafe",
+      "discovery_id": "giuliosmall/pg_typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/mrnugget/jev-shell-history": {
+      "url": "https://github.com/mrnugget/jev-shell-history",
+      "discovery_id": "mrnugget/jev-shell-history",
+      "curated_ids": []
+    },
+    "https://github.com/milvus-io/milvus-model": {
+      "url": "https://github.com/milvus-io/milvus-model",
+      "discovery_id": "milvus-io/milvus-model",
+      "curated_ids": []
+    },
+    "https://github.com/mode-io/vllm-jev": {
+      "url": "https://github.com/mode-io/vllm-jev",
+      "discovery_id": "mode-io/vllm-jev",
+      "curated_ids": []
+    },
+    "https://github.com/caudena/beam_weaver": {
+      "url": "https://github.com/caudena/beam_weaver",
+      "discovery_id": "caudena/beam_weaver",
+      "curated_ids": []
+    },
+    "https://github.com/iamaamir/system-one": {
+      "url": "https://github.com/iamaamir/system-one",
+      "discovery_id": "iamaamir/system-one",
+      "curated_ids": []
+    },
+    "https://github.com/jexp/neo4jev": {
+      "url": "https://github.com/jexp/neo4jev",
+      "discovery_id": "jexp/neo4jev",
+      "curated_ids": []
+    },
+    "https://github.com/pedrocivita/tocket": {
+      "url": "https://github.com/pedrocivita/tocket",
+      "discovery_id": "pedrocivita/tocket",
+      "curated_ids": []
+    },
+    "https://github.com/chuf-h/jev-tree": {
+      "url": "https://github.com/Chuf-H/jev-tree",
+      "discovery_id": "chuf-h/jev-tree",
+      "curated_ids": []
+    },
+    "https://github.com/tacticocc/jevbridge": {
+      "url": "https://github.com/tacticocc/Jevbridge",
+      "discovery_id": "tacticocc/jevbridge",
+      "curated_ids": []
+    },
+    "https://github.com/marcreichel/laya-php": {
+      "url": "https://github.com/marcreichel/laya-php",
+      "discovery_id": "marcreichel/laya-php",
+      "curated_ids": []
+    },
+    "https://github.com/matrixorigin/astra": {
+      "url": "https://github.com/matrixorigin/Astra",
+      "discovery_id": "matrixorigin/astra",
+      "curated_ids": []
+    },
+    "https://github.com/wundercorp/loki": {
+      "url": "https://github.com/wundercorp/loki",
+      "discovery_id": "wundercorp/loki",
+      "curated_ids": []
+    },
+    "https://github.com/abovecolin/ha-jev": {
+      "url": "https://github.com/AboveColin/HA-Jev",
+      "discovery_id": "abovecolin/ha-jev",
+      "curated_ids": []
+    },
+    "https://github.com/mossyfield/st-jeved": {
+      "url": "https://github.com/mossyfield/ST-jeved",
+      "discovery_id": "mossyfield/st-jeved",
+      "curated_ids": []
+    },
+    "https://github.com/bodepudimuneendra-netizen/laya-jev-graphrag": {
+      "url": "https://github.com/bodepudimuneendra-netizen/laya-jev-GraphRAG",
+      "discovery_id": "bodepudimuneendra-netizen/laya-jev-graphrag",
+      "curated_ids": []
+    },
+    "https://github.com/colliber/duckdb-jev": {
+      "url": "https://github.com/colliber/duckdb-jev",
+      "discovery_id": "colliber/duckdb-jev",
+      "curated_ids": []
+    },
+    "https://github.com/kieranklaassen/ruby_llm-typesafe": {
+      "url": "https://github.com/kieranklaassen/ruby_llm-typesafe",
+      "discovery_id": "kieranklaassen/ruby_llm-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/chopratejas/invalidate": {
+      "url": "https://github.com/chopratejas/invalidate",
+      "discovery_id": "chopratejas/invalidate",
+      "curated_ids": []
+    },
+    "https://github.com/hotchpotch/jev-reranker": {
+      "url": "https://github.com/hotchpotch/jev-reranker",
+      "discovery_id": "hotchpotch/jev-reranker",
+      "curated_ids": []
+    },
+    "https://github.com/carldaws/hunch": {
+      "url": "https://github.com/carldaws/hunch",
+      "discovery_id": "carldaws/hunch",
+      "curated_ids": []
+    },
+    "https://github.com/jhd3197/prompture": {
+      "url": "https://github.com/jhd3197/Prompture",
+      "discovery_id": "jhd3197/prompture",
+      "curated_ids": []
+    },
+    "https://github.com/kiwi0719/jev-edge": {
+      "url": "https://github.com/kiwi0719/jev-edge",
+      "discovery_id": "kiwi0719/jev-edge",
+      "curated_ids": []
+    },
+    "https://github.com/doeixd/discern": {
+      "url": "https://github.com/doeixd/discern",
+      "discovery_id": "doeixd/discern",
+      "curated_ids": []
+    },
+    "https://github.com/ekizito96/turn": {
+      "url": "https://github.com/ekizito96/Turn",
+      "discovery_id": "ekizito96/turn",
+      "curated_ids": []
+    },
+    "https://github.com/iamtoomas/jevlint": {
+      "url": "https://github.com/iamtoomas/JevLint",
+      "discovery_id": "iamtoomas/jevlint",
+      "curated_ids": []
+    },
+    "https://github.com/vinibrsl/gut": {
+      "url": "https://github.com/vinibrsl/gut",
+      "discovery_id": "vinibrsl/gut",
+      "curated_ids": []
+    },
+    "https://github.com/ray-hughes/jevalyn": {
+      "url": "https://github.com/Ray-Hughes/jevalyn",
+      "discovery_id": "ray-hughes/jevalyn",
+      "curated_ids": []
+    },
+    "https://github.com/ktaletsk/jevframe": {
+      "url": "https://github.com/ktaletsk/jevframe",
+      "discovery_id": "ktaletsk/jevframe",
+      "curated_ids": []
+    },
+    "https://github.com/peterfriese/jev-foundation-models": {
+      "url": "https://github.com/peterfriese/jev-foundation-models",
+      "discovery_id": "peterfriese/jev-foundation-models",
+      "curated_ids": []
+    },
+    "https://github.com/hraness/algal": {
+      "url": "https://github.com/hraness/algal",
+      "discovery_id": "hraness/algal",
+      "curated_ids": []
+    },
+    "https://github.com/towow-ai/jpp": {
+      "url": "https://github.com/Towow-ai/jpp",
+      "discovery_id": "towow-ai/jpp",
+      "curated_ids": []
+    },
+    "https://github.com/qew7/jev-feels": {
+      "url": "https://github.com/Qew7/jev-feels",
+      "discovery_id": "qew7/jev-feels",
+      "curated_ids": []
+    },
+    "https://github.com/kylemclaren/jevql": {
+      "url": "https://github.com/kylemclaren/jevql",
+      "discovery_id": "kylemclaren/jevql",
+      "curated_ids": []
+    },
+    "https://github.com/3clyp50/a0-typesafe-ai": {
+      "url": "https://github.com/3clyp50/a0-typesafe-ai",
+      "discovery_id": "3clyp50/a0-typesafe-ai",
+      "curated_ids": []
+    },
+    "https://github.com/giesn/typesafe-jev-workflow": {
+      "url": "https://github.com/GiesN/typesafe-jev-workflow",
+      "discovery_id": "giesn/typesafe-jev-workflow",
+      "curated_ids": []
+    },
+    "https://github.com/kylemclaren/jevsearch": {
+      "url": "https://github.com/kylemclaren/jevsearch",
+      "discovery_id": "kylemclaren/jevsearch",
+      "curated_ids": []
+    },
+    "https://github.com/andrelandgraf/safer-with-jev": {
+      "url": "https://github.com/andrelandgraf/safer-with-jev",
+      "discovery_id": "andrelandgraf/safer-with-jev",
+      "curated_ids": []
+    },
+    "https://github.com/maayanlevy/mysql-ailike": {
+      "url": "https://github.com/maayanlevy/mysql-ailike",
+      "discovery_id": "maayanlevy/mysql-ailike",
+      "curated_ids": []
+    },
+    "https://github.com/wiktorb2004/llama-index-jev": {
+      "url": "https://github.com/WiktorB2004/llama-index-jev",
+      "discovery_id": "wiktorb2004/llama-index-jev",
+      "curated_ids": []
+    },
+    "https://github.com/openlayer-ai/jevals": {
+      "url": "https://github.com/openlayer-ai/jevals",
+      "discovery_id": "openlayer-ai/jevals",
+      "curated_ids": []
+    },
+    "https://github.com/prasanthj/duckdb-jev": {
+      "url": "https://github.com/prasanthj/duckdb-jev",
+      "discovery_id": "prasanthj/duckdb-jev",
+      "curated_ids": []
+    },
+    "https://github.com/query-farm/vgi-typesafe": {
+      "url": "https://github.com/Query-farm/vgi-typesafe",
+      "discovery_id": "query-farm/vgi-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/chaitin/decis": {
+      "url": "https://github.com/chaitin/Decis",
+      "discovery_id": "chaitin/decis",
+      "curated_ids": []
+    },
+    "https://github.com/bunsdev/typesafe-ui": {
+      "url": "https://github.com/BunsDev/typesafe-ui",
+      "discovery_id": "bunsdev/typesafe-ui",
+      "curated_ids": []
+    },
+    "https://github.com/butochnikov/laravel-typesafe-jev": {
+      "url": "https://github.com/Butochnikov/laravel-typesafe-jev",
+      "discovery_id": "butochnikov/laravel-typesafe-jev",
+      "curated_ids": []
+    },
+    "https://github.com/ffattiger/new-api-plugin-typesafe": {
+      "url": "https://github.com/FFatTiger/new-api-plugin-typesafe",
+      "discovery_id": "ffattiger/new-api-plugin-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/genierobot/typesafe-ai-rails": {
+      "url": "https://github.com/GenieRobot/typesafe-ai-rails",
+      "discovery_id": "genierobot/typesafe-ai-rails",
+      "curated_ids": []
+    },
+    "https://github.com/etweisberg/jev-ui": {
+      "url": "https://github.com/etweisberg/jev-ui",
+      "discovery_id": "etweisberg/jev-ui",
+      "curated_ids": []
+    },
+    "https://github.com/noelzappy/tripwire": {
+      "url": "https://github.com/noelzappy/tripwire",
+      "discovery_id": "noelzappy/tripwire",
+      "curated_ids": []
+    },
+    "https://github.com/typakon4/jev-layer": {
+      "url": "https://github.com/typakon4/jev-layer",
+      "discovery_id": "typakon4/jev-layer",
+      "curated_ids": []
+    },
+    "https://github.com/funkadelic/ha-gutcheck": {
+      "url": "https://github.com/funkadelic/ha-gutcheck",
+      "discovery_id": "funkadelic/ha-gutcheck",
+      "curated_ids": []
+    },
+    "https://github.com/adtyavrdhn/pydantic-jev-examples": {
+      "url": "https://github.com/adtyavrdhn/pydantic-jev-examples",
+      "discovery_id": "adtyavrdhn/pydantic-jev-examples",
+      "curated_ids": []
+    },
+    "https://github.com/carlsonchik/judging-with-typesafe": {
+      "url": "https://github.com/carlsonchik/judging-with-typesafe",
+      "discovery_id": "carlsonchik/judging-with-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/janostrowka/typesafe-assist": {
+      "url": "https://github.com/JanOstrowka/typesafe-assist",
+      "discovery_id": "janostrowka/typesafe-assist",
+      "curated_ids": []
+    },
+    "https://github.com/steven-shoemaker/hunch": {
+      "url": "https://github.com/steven-shoemaker/hunch",
+      "discovery_id": "steven-shoemaker/hunch",
+      "curated_ids": []
+    },
+    "https://github.com/steven-shoemaker/hunch-js": {
+      "url": "https://github.com/steven-shoemaker/hunch-js",
+      "discovery_id": "steven-shoemaker/hunch-js",
+      "curated_ids": []
+    },
+    "https://github.com/chandler-sun/chat2jev": {
+      "url": "https://github.com/Chandler-Sun/chat2jev",
+      "discovery_id": "chandler-sun/chat2jev",
+      "curated_ids": []
+    },
+    "https://github.com/david96182/cribrix": {
+      "url": "https://github.com/david96182/cribrix",
+      "discovery_id": "david96182/cribrix",
+      "curated_ids": []
+    },
+    "https://github.com/adhamelhayek-lab/jev-connector": {
+      "url": "https://github.com/adhamelhayek-lab/jev-connector",
+      "discovery_id": "adhamelhayek-lab/jev-connector",
+      "curated_ids": []
+    },
+    "https://github.com/dommonte/n8n-nodes-typesafe-ai": {
+      "url": "https://github.com/DomMonte/n8n-nodes-typesafe-ai",
+      "discovery_id": "dommonte/n8n-nodes-typesafe-ai",
+      "curated_ids": []
+    },
+    "https://github.com/hieppp/hiep-paseo-plugin": {
+      "url": "https://github.com/HiepPP/hiep-paseo-plugin",
+      "discovery_id": "hieppp/hiep-paseo-plugin",
+      "curated_ids": []
+    },
+    "https://github.com/soundblaster/jev4mellea": {
+      "url": "https://github.com/SoundBlaster/Jev4Mellea",
+      "discovery_id": "soundblaster/jev4mellea",
+      "curated_ids": []
+    },
+    "https://github.com/zavocc/ground-zero": {
+      "url": "https://github.com/zavocc/ground-zero",
+      "discovery_id": "zavocc/ground-zero",
+      "curated_ids": []
+    },
+    "https://github.com/allebee/pytest-jev": {
+      "url": "https://github.com/allebee/pytest-jev",
+      "discovery_id": "allebee/pytest-jev",
+      "curated_ids": []
+    },
+    "https://github.com/olli0103/openclaw-typesafe-ai": {
+      "url": "https://github.com/Olli0103/openclaw-typesafe-ai",
+      "discovery_id": "olli0103/openclaw-typesafe-ai",
+      "curated_ids": []
+    },
+    "https://github.com/arcj137442/jev-switch": {
+      "url": "https://github.com/ARCJ137442/jev-switch",
+      "discovery_id": "arcj137442/jev-switch",
+      "curated_ids": []
+    },
+    "https://github.com/abe75ch/tiltmeter": {
+      "url": "https://github.com/abe75ch/tiltmeter",
+      "discovery_id": "abe75ch/tiltmeter",
+      "curated_ids": []
+    },
+    "https://github.com/haxitag/yueli-dex": {
+      "url": "https://github.com/haxitag/Yueli-Dex",
+      "discovery_id": "haxitag/yueli-dex",
+      "curated_ids": []
+    },
+    "https://github.com/iamjonatha/jev-book-tags": {
+      "url": "https://github.com/iamjonatha/jev-book-tags",
+      "discovery_id": "iamjonatha/jev-book-tags",
+      "curated_ids": []
+    },
+    "https://github.com/davila7/claude-code-templates": {
+      "url": "https://github.com/davila7/claude-code-templates",
+      "discovery_id": "davila7/claude-code-templates",
+      "curated_ids": []
+    },
+    "https://github.com/different-ai/openwork": {
+      "url": "https://github.com/different-ai/openwork",
+      "discovery_id": "different-ai/openwork",
+      "curated_ids": []
+    },
+    "https://github.com/tamaratran/fast-jev-compaction": {
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "discovery_id": "tamaratran/fast-jev-compaction",
+      "curated_ids": []
+    },
+    "https://github.com/zilliztech/memsearch": {
+      "url": "https://github.com/zilliztech/memsearch",
+      "discovery_id": "zilliztech/memsearch",
+      "curated_ids": []
+    },
+    "https://github.com/agentconnect-md/agentconnect": {
+      "url": "https://github.com/agentconnect-md/agentconnect",
+      "discovery_id": "agentconnect-md/agentconnect",
+      "curated_ids": []
+    },
+    "https://github.com/dzhng/jevgrep": {
+      "url": "https://github.com/dzhng/jevgrep",
+      "discovery_id": "dzhng/jevgrep",
+      "curated_ids": []
+    },
+    "https://github.com/samuelfaj/distill": {
+      "url": "https://github.com/samuelfaj/distill",
+      "discovery_id": "samuelfaj/distill",
+      "curated_ids": []
+    },
+    "https://github.com/notque/vexjoy-agent": {
+      "url": "https://github.com/notque/vexjoy-agent",
+      "discovery_id": "notque/vexjoy-agent",
+      "curated_ids": []
+    },
+    "https://github.com/thruwire/foreman": {
+      "url": "https://github.com/thruwire/foreman",
+      "discovery_id": "thruwire/foreman",
+      "curated_ids": []
+    },
+    "https://github.com/devagrawal09/jev-review": {
+      "url": "https://github.com/devagrawal09/jev-review",
+      "discovery_id": "devagrawal09/jev-review",
+      "curated_ids": []
+    },
+    "https://github.com/kerpopule/hermes-jev-skills": {
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "discovery_id": "kerpopule/hermes-jev-skills",
+      "curated_ids": []
+    },
+    "https://github.com/qybaihe/mu": {
+      "url": "https://github.com/qybaihe/mu",
+      "discovery_id": "qybaihe/mu",
+      "curated_ids": []
+    },
+    "https://github.com/codejunkie99/keel": {
+      "url": "https://github.com/codejunkie99/keel",
+      "discovery_id": "codejunkie99/keel",
+      "curated_ids": []
+    },
+    "https://github.com/superagents-lab/jev-search": {
+      "url": "https://github.com/superagents-lab/jev-search",
+      "discovery_id": "superagents-lab/jev-search",
+      "curated_ids": []
+    },
+    "https://github.com/decapodlabs/decapod": {
+      "url": "https://github.com/DecapodLabs/decapod",
+      "discovery_id": "decapodlabs/decapod",
+      "curated_ids": []
+    },
+    "https://github.com/morganlinton/albatross": {
+      "url": "https://github.com/morganlinton/Albatross",
+      "discovery_id": "morganlinton/albatross",
+      "curated_ids": []
+    },
+    "https://github.com/gargpratyush/jev-router": {
+      "url": "https://github.com/gargpratyush/jev-router",
+      "discovery_id": "gargpratyush/jev-router",
+      "curated_ids": []
+    },
+    "https://github.com/vinilana/jev-gateway": {
+      "url": "https://github.com/vinilana/jev-gateway",
+      "discovery_id": "vinilana/jev-gateway",
+      "curated_ids": []
+    },
+    "https://github.com/miuuyy/astra-ares": {
+      "url": "https://github.com/miuuyy/Astra-Ares",
+      "discovery_id": "miuuyy/astra-ares",
+      "curated_ids": []
+    },
+    "https://github.com/kunchenguid/compact-adviser": {
+      "url": "https://github.com/kunchenguid/compact-adviser",
+      "discovery_id": "kunchenguid/compact-adviser",
+      "curated_ids": []
+    },
+    "https://github.com/niazmorshed2007/jev-review": {
+      "url": "https://github.com/NiazMorshed2007/jev-review",
+      "discovery_id": "niazmorshed2007/jev-review",
+      "curated_ids": []
+    },
+    "https://github.com/coldteadotai/abide": {
+      "url": "https://github.com/coldteadotai/abide",
+      "discovery_id": "coldteadotai/abide",
+      "curated_ids": []
+    },
+    "https://github.com/glowbom/glowbom-oss": {
+      "url": "https://github.com/glowbom/glowbom-oss",
+      "discovery_id": "glowbom/glowbom-oss",
+      "curated_ids": []
+    },
+    "https://github.com/foxtailsss-andy/anna-agent": {
+      "url": "https://github.com/Foxtailsss-Andy/Anna-Agent",
+      "discovery_id": "foxtailsss-andy/anna-agent",
+      "curated_ids": []
+    },
+    "https://github.com/tamaratran/jev-pruner": {
+      "url": "https://github.com/tamaratran/jev-pruner",
+      "discovery_id": "tamaratran/jev-pruner",
+      "curated_ids": []
+    },
+    "https://github.com/uehaj/jev-semgrep": {
+      "url": "https://github.com/uehaj/jev-semgrep",
+      "discovery_id": "uehaj/jev-semgrep",
+      "curated_ids": []
+    },
+    "https://github.com/jkudish/jev-mcp": {
+      "url": "https://github.com/jkudish/jev-mcp",
+      "discovery_id": "jkudish/jev-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/dbreunig/building-with-jev-skill": {
+      "url": "https://github.com/dbreunig/building-with-jev-skill",
+      "discovery_id": "dbreunig/building-with-jev-skill",
+      "curated_ids": []
+    },
+    "https://github.com/itsmostafa/typesafe-mcp": {
+      "url": "https://github.com/itsmostafa/typesafe-mcp",
+      "discovery_id": "itsmostafa/typesafe-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/devagrawal09/stanley-code": {
+      "url": "https://github.com/devagrawal09/stanley-code",
+      "discovery_id": "devagrawal09/stanley-code",
+      "curated_ids": []
+    },
+    "https://github.com/supercorp-ai/supercov": {
+      "url": "https://github.com/supercorp-ai/supercov",
+      "discovery_id": "supercorp-ai/supercov",
+      "curated_ids": []
+    },
+    "https://github.com/luobosibing2/dsh-jev-plugin": {
+      "url": "https://github.com/luobosibing2/dsh-jev-plugin",
+      "discovery_id": "luobosibing2/dsh-jev-plugin",
+      "curated_ids": []
+    },
+    "https://github.com/devmortimer/pi-warden": {
+      "url": "https://github.com/DevMortimer/pi-warden",
+      "discovery_id": "devmortimer/pi-warden",
+      "curated_ids": []
+    },
+    "https://github.com/aaddrick/building-with-typesafe-jev": {
+      "url": "https://github.com/aaddrick/building-with-typesafe-jev",
+      "discovery_id": "aaddrick/building-with-typesafe-jev",
+      "curated_ids": []
+    },
+    "https://github.com/y0usaf/pi-jev": {
+      "url": "https://github.com/y0usaf/pi-jev",
+      "discovery_id": "y0usaf/pi-jev",
+      "curated_ids": []
+    },
+    "https://github.com/avinash-jetwani/jevmem": {
+      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "discovery_id": "avinash-jetwani/jevmem",
+      "curated_ids": []
+    },
+    "https://github.com/billionsbobby/jevrouter": {
+      "url": "https://github.com/BillionsBobby/JevRouter",
+      "discovery_id": "billionsbobby/jevrouter",
+      "curated_ids": []
+    },
+    "https://github.com/fabricioctelles/skills": {
+      "url": "https://github.com/fabricioctelles/skills",
+      "discovery_id": "fabricioctelles/skills",
+      "curated_ids": []
+    },
+    "https://github.com/0xnatoshi/jev-codex-router": {
+      "url": "https://github.com/0xNatoshi/jev-codex-router",
+      "discovery_id": "0xnatoshi/jev-codex-router",
+      "curated_ids": []
+    },
+    "https://github.com/devagrawal09/jev-code": {
+      "url": "https://github.com/devagrawal09/jev-code",
+      "discovery_id": "devagrawal09/jev-code",
+      "curated_ids": []
+    },
+    "https://github.com/uditakhourii/quicksilver": {
+      "url": "https://github.com/UditAkhourii/quicksilver",
+      "discovery_id": "uditakhourii/quicksilver",
+      "curated_ids": []
+    },
+    "https://github.com/captaincore/captaincore": {
+      "url": "https://github.com/CaptainCore/captaincore",
+      "discovery_id": "captaincore/captaincore",
+      "curated_ids": []
+    },
+    "https://github.com/bodila51/grok-bot-jev": {
+      "url": "https://github.com/Bodila51/grok-bot-jev",
+      "discovery_id": "bodila51/grok-bot-jev",
+      "curated_ids": []
+    },
+    "https://github.com/dicklesworthstone/skillranker": {
+      "url": "https://github.com/Dicklesworthstone/skillranker",
+      "discovery_id": "dicklesworthstone/skillranker",
+      "curated_ids": []
+    },
+    "https://github.com/vbcherepanov/total-agent-memory": {
+      "url": "https://github.com/vbcherepanov/total-agent-memory",
+      "discovery_id": "vbcherepanov/total-agent-memory",
+      "curated_ids": []
+    },
+    "https://github.com/iamunbounded/save-token-jev-clean": {
+      "url": "https://github.com/IAmUnbounded/save-token-jev-clean",
+      "discovery_id": "iamunbounded/save-token-jev-clean",
+      "curated_ids": []
+    },
+    "https://github.com/qainsights/jmeter-ai": {
+      "url": "https://github.com/QAInsights/jmeter-ai",
+      "discovery_id": "qainsights/jmeter-ai",
+      "curated_ids": []
+    },
+    "https://github.com/zhuobichen/weflow-cli": {
+      "url": "https://github.com/zhuobichen/weflow-cli",
+      "discovery_id": "zhuobichen/weflow-cli",
+      "curated_ids": []
+    },
+    "https://github.com/nidhi-singh02/agent-router": {
+      "url": "https://github.com/nidhi-singh02/agent-router",
+      "discovery_id": "nidhi-singh02/agent-router",
+      "curated_ids": []
+    },
+    "https://github.com/wobsoriano/oxlint-plugin-jev": {
+      "url": "https://github.com/wobsoriano/oxlint-plugin-jev",
+      "discovery_id": "wobsoriano/oxlint-plugin-jev",
+      "curated_ids": []
+    },
+    "https://github.com/can1357/jegrep": {
+      "url": "https://github.com/can1357/jegrep",
+      "discovery_id": "can1357/jegrep",
+      "curated_ids": []
+    },
+    "https://github.com/mizchi/jev-lint": {
+      "url": "https://github.com/mizchi/jev-lint",
+      "discovery_id": "mizchi/jev-lint",
+      "curated_ids": []
+    },
+    "https://github.com/qkal/canny": {
+      "url": "https://github.com/qkal/Canny",
+      "discovery_id": "qkal/canny",
+      "curated_ids": []
+    },
+    "https://github.com/skeptrunedev/jev-recruiter": {
+      "url": "https://github.com/skeptrunedev/jev-recruiter",
+      "discovery_id": "skeptrunedev/jev-recruiter",
+      "curated_ids": []
+    },
+    "https://github.com/eliaalberti/jev-rules": {
+      "url": "https://github.com/EliaAlberti/jev-rules",
+      "discovery_id": "eliaalberti/jev-rules",
+      "curated_ids": []
+    },
+    "https://github.com/kbhuw/jev-sift": {
+      "url": "https://github.com/kbhuw/jev-sift",
+      "discovery_id": "kbhuw/jev-sift",
+      "curated_ids": []
+    },
+    "https://github.com/dzhng/duet-agent": {
+      "url": "https://github.com/dzhng/duet-agent",
+      "discovery_id": "dzhng/duet-agent",
+      "curated_ids": []
+    },
+    "https://github.com/yusukebe/hono-jev-router": {
+      "url": "https://github.com/yusukebe/hono-jev-router",
+      "discovery_id": "yusukebe/hono-jev-router",
+      "curated_ids": []
+    },
+    "https://github.com/alex314618-create/jevrev": {
+      "url": "https://github.com/Alex314618-create/JevRev",
+      "discovery_id": "alex314618-create/jevrev",
+      "curated_ids": []
+    },
+    "https://github.com/michelkerkmeester/skilled-agent-harness_spec-driven-loops": {
+      "url": "https://github.com/MichelKerkmeester/skilled-agent-harness_spec-driven-loops",
+      "discovery_id": "michelkerkmeester/skilled-agent-harness_spec-driven-loops",
+      "curated_ids": []
+    },
+    "https://github.com/devin-axis/jev-dsh-decision": {
+      "url": "https://github.com/Devin-AXIS/jev-dsh-decision",
+      "discovery_id": "devin-axis/jev-dsh-decision",
+      "curated_ids": []
+    },
+    "https://github.com/shantanugoel/ask-jev-skill": {
+      "url": "https://github.com/shantanugoel/ask-jev-skill",
+      "discovery_id": "shantanugoel/ask-jev-skill",
+      "curated_ids": []
+    },
+    "https://github.com/libingzheren/jev-mem": {
+      "url": "https://github.com/libingzheren/Jev-Mem",
+      "discovery_id": "libingzheren/jev-mem",
+      "curated_ids": []
+    },
+    "https://github.com/takeshy/obsidian-llm-hub": {
+      "url": "https://github.com/takeshy/obsidian-llm-hub",
+      "discovery_id": "takeshy/obsidian-llm-hub",
+      "curated_ids": []
+    },
+    "https://github.com/win4r/jev-skill-suggester": {
+      "url": "https://github.com/win4r/jev-skill-suggester",
+      "discovery_id": "win4r/jev-skill-suggester",
+      "curated_ids": []
+    },
+    "https://github.com/safzanpirani/pi-jev-skill-picker": {
+      "url": "https://github.com/safzanpirani/pi-jev-skill-picker",
+      "discovery_id": "safzanpirani/pi-jev-skill-picker",
+      "curated_ids": []
+    },
+    "https://github.com/nassim-arifette/jevgrep": {
+      "url": "https://github.com/nassim-arifette/jevgrep",
+      "discovery_id": "nassim-arifette/jevgrep",
+      "curated_ids": []
+    },
+    "https://github.com/flyryan/ai-news-aggregator": {
+      "url": "https://github.com/flyryan/ai-news-aggregator",
+      "discovery_id": "flyryan/ai-news-aggregator",
+      "curated_ids": []
+    },
+    "https://github.com/ghalebdweikat/winnow": {
+      "url": "https://github.com/GhalebDweikat/winnow",
+      "discovery_id": "ghalebdweikat/winnow",
+      "curated_ids": []
+    },
+    "https://github.com/pymodel/jev-judge-mcp": {
+      "url": "https://github.com/PyModel/jev-judge-mcp",
+      "discovery_id": "pymodel/jev-judge-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/madisonrickert/jev-permission-gate": {
+      "url": "https://github.com/madisonrickert/jev-permission-gate",
+      "discovery_id": "madisonrickert/jev-permission-gate",
+      "curated_ids": []
+    },
+    "https://github.com/danrwilloughby/snifftest": {
+      "url": "https://github.com/DanRWilloughby/snifftest",
+      "discovery_id": "danrwilloughby/snifftest",
+      "curated_ids": []
+    },
+    "https://github.com/shitianfang/jev-use": {
+      "url": "https://github.com/shitianfang/jev-use",
+      "discovery_id": "shitianfang/jev-use",
+      "curated_ids": []
+    },
+    "https://github.com/agent-chaperone/agent-chaperone": {
+      "url": "https://github.com/agent-chaperone/agent-chaperone",
+      "discovery_id": "agent-chaperone/agent-chaperone",
+      "curated_ids": []
+    },
+    "https://github.com/6mikao9/jev-agent-design-with-topk-logits-choices": {
+      "url": "https://github.com/6Mikao9/jev-agent-design-with-topk-logits-choices",
+      "discovery_id": "6mikao9/jev-agent-design-with-topk-logits-choices",
+      "curated_ids": []
+    },
+    "https://github.com/philipbrembeck/pi-advisor": {
+      "url": "https://github.com/philipbrembeck/pi-advisor",
+      "discovery_id": "philipbrembeck/pi-advisor",
+      "curated_ids": []
+    },
+    "https://github.com/burnigtm/jev-mcp": {
+      "url": "https://github.com/burnigtm/jev-mcp",
+      "discovery_id": "burnigtm/jev-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/eriskii/erislint": {
+      "url": "https://github.com/Eriskii/ErisLint",
+      "discovery_id": "eriskii/erislint",
+      "curated_ids": []
+    },
+    "https://github.com/masonlee39/multi-agent": {
+      "url": "https://github.com/masonlee39/Multi-Agent",
+      "discovery_id": "masonlee39/multi-agent",
+      "curated_ids": []
+    },
+    "https://github.com/compozy/yoshi": {
+      "url": "https://github.com/compozy/yoshi",
+      "discovery_id": "compozy/yoshi",
+      "curated_ids": []
+    },
+    "https://github.com/theooliveira/pi-jev": {
+      "url": "https://github.com/TheoOliveira/pi-jev",
+      "discovery_id": "theooliveira/pi-jev",
+      "curated_ids": []
+    },
+    "https://github.com/longkou1988/cnki-skills": {
+      "url": "https://github.com/longkou1988/cnki-skills",
+      "discovery_id": "longkou1988/cnki-skills",
+      "curated_ids": []
+    },
+    "https://github.com/jomatsu/pi-jev-auto-mode": {
+      "url": "https://github.com/jomatsu/pi-jev-auto-mode",
+      "discovery_id": "jomatsu/pi-jev-auto-mode",
+      "curated_ids": []
+    },
+    "https://github.com/shiftynick/jev-axi": {
+      "url": "https://github.com/shiftynick/jev-axi",
+      "discovery_id": "shiftynick/jev-axi",
+      "curated_ids": []
+    },
+    "https://github.com/kyu1204/oh-my-harness": {
+      "url": "https://github.com/kyu1204/oh-my-harness",
+      "discovery_id": "kyu1204/oh-my-harness",
+      "curated_ids": []
+    },
+    "https://github.com/wd041216-bit/zero-api-key-web-search": {
+      "url": "https://github.com/wd041216-bit/zero-api-key-web-search",
+      "discovery_id": "wd041216-bit/zero-api-key-web-search",
+      "curated_ids": []
+    },
+    "https://github.com/buberlo/dsh-jev": {
+      "url": "https://github.com/buberlo/dsh-jev",
+      "discovery_id": "buberlo/dsh-jev",
+      "curated_ids": []
+    },
+    "https://github.com/das-rebel/a3m-router": {
+      "url": "https://github.com/Das-rebel/a3m-router",
+      "discovery_id": "das-rebel/a3m-router",
+      "curated_ids": []
+    },
+    "https://github.com/kyu1204/jgrep": {
+      "url": "https://github.com/kyu1204/jgrep",
+      "discovery_id": "kyu1204/jgrep",
+      "curated_ids": []
+    },
+    "https://github.com/shaharia-lab/jev-cli": {
+      "url": "https://github.com/shaharia-lab/jev-cli",
+      "discovery_id": "shaharia-lab/jev-cli",
+      "curated_ids": []
+    },
+    "https://github.com/zjunlp/jevloop": {
+      "url": "https://github.com/zjunlp/JevLoop",
+      "discovery_id": "zjunlp/jevloop",
+      "curated_ids": []
+    },
+    "https://github.com/1612535983/deepreseach-learing": {
+      "url": "https://github.com/1612535983/deepreseach-learing",
+      "discovery_id": "1612535983/deepreseach-learing",
+      "curated_ids": []
+    },
+    "https://github.com/mizchi/jev-test-filter": {
+      "url": "https://github.com/mizchi/jev-test-filter",
+      "discovery_id": "mizchi/jev-test-filter",
+      "curated_ids": []
+    },
+    "https://github.com/panachy/jevvy": {
+      "url": "https://github.com/PanAchy/jevvy",
+      "discovery_id": "panachy/jevvy",
+      "curated_ids": []
+    },
+    "https://github.com/zephyrdeng/pi-review": {
+      "url": "https://github.com/ZephyrDeng/pi-review",
+      "discovery_id": "zephyrdeng/pi-review",
+      "curated_ids": []
+    },
+    "https://github.com/luantak/is-malicious": {
+      "url": "https://github.com/luantak/is-malicious",
+      "discovery_id": "luantak/is-malicious",
+      "curated_ids": []
+    },
+    "https://github.com/philippdubach/pi-jev-router": {
+      "url": "https://github.com/philippdubach/pi-jev-router",
+      "discovery_id": "philippdubach/pi-jev-router",
+      "curated_ids": []
+    },
+    "https://github.com/tyler-dot-earth/patdown": {
+      "url": "https://github.com/tyler-dot-earth/patdown",
+      "discovery_id": "tyler-dot-earth/patdown",
+      "curated_ids": []
+    },
+    "https://github.com/itiscuthnotcup/metacog": {
+      "url": "https://github.com/ItIsCuthNotCup/MetaCog",
+      "discovery_id": "itiscuthnotcup/metacog",
+      "curated_ids": []
+    },
+    "https://github.com/freedomintelligence/tiermem": {
+      "url": "https://github.com/FreedomIntelligence/Tiermem",
+      "discovery_id": "freedomintelligence/tiermem",
+      "curated_ids": []
+    },
+    "https://github.com/kubet/azdaja": {
+      "url": "https://github.com/kubet/azdaja",
+      "discovery_id": "kubet/azdaja",
+      "curated_ids": []
+    },
+    "https://github.com/syumai/jevyoumean": {
+      "url": "https://github.com/syumai/jevyoumean",
+      "discovery_id": "syumai/jevyoumean",
+      "curated_ids": []
+    },
+    "https://github.com/keltokhy/jgrep": {
+      "url": "https://github.com/keltokhy/jgrep",
+      "discovery_id": "keltokhy/jgrep",
+      "curated_ids": []
+    },
+    "https://github.com/francoischastel/jev-code": {
+      "url": "https://github.com/FrancoisChastel/jev-code",
+      "discovery_id": "francoischastel/jev-code",
+      "curated_ids": []
+    },
+    "https://github.com/perrylink/jevcore": {
+      "url": "https://github.com/PerryLink/jevcore",
+      "discovery_id": "perrylink/jevcore",
+      "curated_ids": []
+    },
+    "https://github.com/0x7067/claude-jev": {
+      "url": "https://github.com/0x7067/claude-jev",
+      "discovery_id": "0x7067/claude-jev",
+      "curated_ids": []
+    },
+    "https://github.com/virolea/lintus": {
+      "url": "https://github.com/virolea/lintus",
+      "discovery_id": "virolea/lintus",
+      "curated_ids": []
+    },
+    "https://github.com/akashpriyadarshii/jev-seo": {
+      "url": "https://github.com/AkashPriyadarshii/jev-seo",
+      "discovery_id": "akashpriyadarshii/jev-seo",
+      "curated_ids": []
+    },
+    "https://github.com/blakestone-x/jev-mcp": {
+      "url": "https://github.com/blakestone-x/jev-mcp",
+      "discovery_id": "blakestone-x/jev-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/nasrallah-al/jev-cli": {
+      "url": "https://github.com/Nasrallah-AL/jev-cli",
+      "discovery_id": "nasrallah-al/jev-cli",
+      "curated_ids": []
+    },
+    "https://github.com/lukstei/slop-grader": {
+      "url": "https://github.com/lukstei/slop-grader",
+      "discovery_id": "lukstei/slop-grader",
+      "curated_ids": []
+    },
+    "https://github.com/commandcodeai/cmd-mod-jev-nudge": {
+      "url": "https://github.com/CommandCodeAI/cmd-mod-jev-nudge",
+      "discovery_id": "commandcodeai/cmd-mod-jev-nudge",
+      "curated_ids": []
+    },
+    "https://github.com/hellozenstrategist-lab/eutrya": {
+      "url": "https://github.com/hellozenstrategist-lab/eutrya",
+      "discovery_id": "hellozenstrategist-lab/eutrya",
+      "curated_ids": []
+    },
+    "https://github.com/madeye/pi-jev": {
+      "url": "https://github.com/madeye/pi-jev",
+      "discovery_id": "madeye/pi-jev",
+      "curated_ids": []
+    },
+    "https://github.com/opencx-labs/zevals": {
+      "url": "https://github.com/opencx-labs/zevals",
+      "discovery_id": "opencx-labs/zevals",
+      "curated_ids": []
+    },
+    "https://github.com/win4r/pi-jev-router": {
+      "url": "https://github.com/win4r/pi-jev-router",
+      "discovery_id": "win4r/pi-jev-router",
+      "curated_ids": []
+    },
+    "https://github.com/borislemeec/jev": {
+      "url": "https://github.com/BorisLeMeec/jev",
+      "discovery_id": "borislemeec/jev",
+      "curated_ids": []
+    },
+    "https://github.com/brainwires/jevwire": {
+      "url": "https://github.com/Brainwires/jevwire",
+      "discovery_id": "brainwires/jevwire",
+      "curated_ids": []
+    },
+    "https://github.com/huntedman/jevlint": {
+      "url": "https://github.com/huntedman/JevLint",
+      "discovery_id": "huntedman/jevlint",
+      "curated_ids": []
+    },
+    "https://github.com/leepokai/jev-guard": {
+      "url": "https://github.com/leepokai/jev-guard",
+      "discovery_id": "leepokai/jev-guard",
+      "curated_ids": []
+    },
+    "https://github.com/niazmorshed2007/jcr": {
+      "url": "https://github.com/NiazMorshed2007/jcr",
+      "discovery_id": "niazmorshed2007/jcr",
+      "curated_ids": []
+    },
+    "https://github.com/evoke-build/evoke": {
+      "url": "https://github.com/evoke-build/evoke",
+      "discovery_id": "evoke-build/evoke",
+      "curated_ids": []
+    },
+    "https://github.com/berriai/liteagents": {
+      "url": "https://github.com/BerriAI/liteagents",
+      "discovery_id": "berriai/liteagents",
+      "curated_ids": []
+    },
+    "https://github.com/valentynkit/jev-belay": {
+      "url": "https://github.com/valentynkit/jev-belay",
+      "discovery_id": "valentynkit/jev-belay",
+      "curated_ids": []
+    },
+    "https://github.com/anpicasso/hermes-jev-approvals": {
+      "url": "https://github.com/anpicasso/hermes-jev-approvals",
+      "discovery_id": "anpicasso/hermes-jev-approvals",
+      "curated_ids": []
+    },
+    "https://github.com/decrux9812/typesafe-skill-router": {
+      "url": "https://github.com/DECRUX9812/typesafe-skill-router",
+      "discovery_id": "decrux9812/typesafe-skill-router",
+      "curated_ids": []
+    },
+    "https://github.com/godsboy/jev-agent-skill-router": {
+      "url": "https://github.com/GodsBoy/jev-agent-skill-router",
+      "discovery_id": "godsboy/jev-agent-skill-router",
+      "curated_ids": []
+    },
+    "https://github.com/hyunjunjeon/pi-quiet-ask": {
+      "url": "https://github.com/HyunjunJeon/pi-quiet-ask",
+      "discovery_id": "hyunjunjeon/pi-quiet-ask",
+      "curated_ids": []
+    },
+    "https://github.com/keeltrace/hermes-jev": {
+      "url": "https://github.com/keeltrace/hermes-jev",
+      "discovery_id": "keeltrace/hermes-jev",
+      "curated_ids": []
+    },
+    "https://github.com/rajdhakad9826/jev-router": {
+      "url": "https://github.com/rajdhakad9826/jev-router",
+      "discovery_id": "rajdhakad9826/jev-router",
+      "curated_ids": []
+    },
+    "https://github.com/jerryfane/omp-jev-compaction": {
+      "url": "https://github.com/jerryfane/omp-jev-compaction",
+      "discovery_id": "jerryfane/omp-jev-compaction",
+      "curated_ids": []
+    },
+    "https://github.com/mejiasd3v/pi-jev-router": {
+      "url": "https://github.com/mejiasd3v/pi-jev-router",
+      "discovery_id": "mejiasd3v/pi-jev-router",
+      "curated_ids": []
+    },
+    "https://github.com/frostney/clean-code-review": {
+      "url": "https://github.com/frostney/clean-code-review",
+      "discovery_id": "frostney/clean-code-review",
+      "curated_ids": []
+    },
+    "https://github.com/useopencompany/opencompany": {
+      "url": "https://github.com/useopencompany/opencompany",
+      "discovery_id": "useopencompany/opencompany",
+      "curated_ids": []
+    },
+    "https://github.com/karanb192/jev-architect": {
+      "url": "https://github.com/karanb192/jev-architect",
+      "discovery_id": "karanb192/jev-architect",
+      "curated_ids": []
+    },
+    "https://github.com/nyarlathoteppppp/pi-jev-context": {
+      "url": "https://github.com/Nyarlathoteppppp/pi-jev-context",
+      "discovery_id": "nyarlathoteppppp/pi-jev-context",
+      "curated_ids": []
+    },
+    "https://github.com/arunav25/jev-mcp": {
+      "url": "https://github.com/arunav25/jev-mcp",
+      "discovery_id": "arunav25/jev-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/joelhooks/pi-fast-jev-compaction": {
+      "url": "https://github.com/joelhooks/pi-fast-jev-compaction",
+      "discovery_id": "joelhooks/pi-fast-jev-compaction",
+      "curated_ids": []
+    },
+    "https://github.com/scale-venture-partners/riff": {
+      "url": "https://github.com/scale-venture-partners/riff",
+      "discovery_id": "scale-venture-partners/riff",
+      "curated_ids": []
+    },
+    "https://github.com/valentynkit/jev-commit": {
+      "url": "https://github.com/valentynkit/jev-commit",
+      "discovery_id": "valentynkit/jev-commit",
+      "curated_ids": []
+    },
+    "https://github.com/abdelstark/bicameral": {
+      "url": "https://github.com/AbdelStark/bicameral",
+      "discovery_id": "abdelstark/bicameral",
+      "curated_ids": []
+    },
+    "https://github.com/akashpriyadarshii/jev-superpowers": {
+      "url": "https://github.com/AkashPriyadarshii/jev-superpowers",
+      "discovery_id": "akashpriyadarshii/jev-superpowers",
+      "curated_ids": []
+    },
+    "https://github.com/harshil1712/slidepilot": {
+      "url": "https://github.com/harshil1712/slidepilot",
+      "discovery_id": "harshil1712/slidepilot",
+      "curated_ids": []
+    },
+    "https://github.com/raihankhan-rk/diffjury": {
+      "url": "https://github.com/raihankhan-rk/diffjury",
+      "discovery_id": "raihankhan-rk/diffjury",
+      "curated_ids": []
+    },
+    "https://github.com/zoidsh/tenet": {
+      "url": "https://github.com/zoidsh/tenet",
+      "discovery_id": "zoidsh/tenet",
+      "curated_ids": []
+    },
+    "https://github.com/nozomi-koborinai/jev-spec": {
+      "url": "https://github.com/nozomi-koborinai/jev-spec",
+      "discovery_id": "nozomi-koborinai/jev-spec",
+      "curated_ids": []
+    },
+    "https://github.com/jackbarunz/jev-tool-router": {
+      "url": "https://github.com/jackbarunz/jev-tool-router",
+      "discovery_id": "jackbarunz/jev-tool-router",
+      "curated_ids": []
+    },
+    "https://github.com/doeixd/jev-pref": {
+      "url": "https://github.com/doeixd/jev-pref",
+      "discovery_id": "doeixd/jev-pref",
+      "curated_ids": []
+    },
+    "https://github.com/shuhansun/jev-oas-sentinel": {
+      "url": "https://github.com/ShuhanSun/jev-oas-sentinel",
+      "discovery_id": "shuhansun/jev-oas-sentinel",
+      "curated_ids": []
+    },
+    "https://github.com/24601/augustus": {
+      "url": "https://github.com/24601/Augustus",
+      "discovery_id": "24601/augustus",
+      "curated_ids": []
+    },
+    "https://github.com/geilt/typesafe-cli": {
+      "url": "https://github.com/geilt/typesafe-cli",
+      "discovery_id": "geilt/typesafe-cli",
+      "curated_ids": []
+    },
+    "https://github.com/hyunjunjeon/jev-judgment": {
+      "url": "https://github.com/HyunjunJeon/jev-judgment",
+      "discovery_id": "hyunjunjeon/jev-judgment",
+      "curated_ids": []
+    },
+    "https://github.com/jvsteiner/jevex": {
+      "url": "https://github.com/jvsteiner/jevex",
+      "discovery_id": "jvsteiner/jevex",
+      "curated_ids": []
+    },
+    "https://github.com/leonaaardob/fast-dev-compaction": {
+      "url": "https://github.com/leonaaardob/fast-dev-compaction",
+      "discovery_id": "leonaaardob/fast-dev-compaction",
+      "curated_ids": []
+    },
+    "https://github.com/nyarlathoteppppp/pi-heed": {
+      "url": "https://github.com/Nyarlathoteppppp/pi-heed",
+      "discovery_id": "nyarlathoteppppp/pi-heed",
+      "curated_ids": []
+    },
+    "https://github.com/prismhq/jev-router": {
+      "url": "https://github.com/prismhq/jev-router",
+      "discovery_id": "prismhq/jev-router",
+      "curated_ids": []
+    },
+    "https://github.com/rashedint32/jev-mcp": {
+      "url": "https://github.com/rashedInt32/jev-mcp",
+      "discovery_id": "rashedint32/jev-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/alexj11324/open-jev-approvals": {
+      "url": "https://github.com/alexj11324/open-jev-approvals",
+      "discovery_id": "alexj11324/open-jev-approvals",
+      "curated_ids": []
+    },
+    "https://github.com/noetion/dsh-jev": {
+      "url": "https://github.com/noetion/dsh-jev",
+      "discovery_id": "noetion/dsh-jev",
+      "curated_ids": []
+    },
+    "https://github.com/sumleo/prompt2jev": {
+      "url": "https://github.com/sumleo/prompt2jev",
+      "discovery_id": "sumleo/prompt2jev",
+      "curated_ids": []
+    },
+    "https://github.com/abhishekashokvkumar/jev-mcp-dispatcher": {
+      "url": "https://github.com/abhishekashokvkumar/jev-mcp-dispatcher",
+      "discovery_id": "abhishekashokvkumar/jev-mcp-dispatcher",
+      "curated_ids": []
+    },
+    "https://github.com/ajensenwaud/hermes-jev-plugin": {
+      "url": "https://github.com/ajensenwaud/hermes-jev-plugin",
+      "discovery_id": "ajensenwaud/hermes-jev-plugin",
+      "curated_ids": []
+    },
+    "https://github.com/deyna256/langchain-skill-router": {
+      "url": "https://github.com/deyna256/langchain-skill-router",
+      "discovery_id": "deyna256/langchain-skill-router",
+      "curated_ids": []
+    },
+    "https://github.com/adarshmishra07/jcm-router": {
+      "url": "https://github.com/adarshmishra07/jcm-router",
+      "discovery_id": "adarshmishra07/jcm-router",
+      "curated_ids": []
+    },
+    "https://github.com/belazy167/typesafe-mod": {
+      "url": "https://github.com/BeLazy167/typesafe-mod",
+      "discovery_id": "belazy167/typesafe-mod",
+      "curated_ids": []
+    },
+    "https://github.com/caiovicentino/jev-shield": {
+      "url": "https://github.com/caiovicentino/jev-shield",
+      "discovery_id": "caiovicentino/jev-shield",
+      "curated_ids": []
+    },
+    "https://github.com/codealive-ai/mastra-jev-moderation": {
+      "url": "https://github.com/CodeAlive-AI/mastra-jev-moderation",
+      "discovery_id": "codealive-ai/mastra-jev-moderation",
+      "curated_ids": []
+    },
+    "https://github.com/iamvatsalpatel/tiershift": {
+      "url": "https://github.com/iamvatsalpatel/tiershift",
+      "discovery_id": "iamvatsalpatel/tiershift",
+      "curated_ids": []
+    },
+    "https://github.com/lomeshdutta/skill-router": {
+      "url": "https://github.com/lomeshdutta/skill-router",
+      "discovery_id": "lomeshdutta/skill-router",
+      "curated_ids": []
+    },
+    "https://github.com/maker-kk/todo-jev": {
+      "url": "https://github.com/maker-KK/todo-jev",
+      "discovery_id": "maker-kk/todo-jev",
+      "curated_ids": []
+    },
+    "https://github.com/molis-ai/jev-workbench": {
+      "url": "https://github.com/molis-ai/jev-workbench",
+      "discovery_id": "molis-ai/jev-workbench",
+      "curated_ids": []
+    },
+    "https://github.com/opaielsheikh/typesafe-migration-guard": {
+      "url": "https://github.com/opaielsheikh/typesafe-migration-guard",
+      "discovery_id": "opaielsheikh/typesafe-migration-guard",
+      "curated_ids": []
+    },
+    "https://github.com/quentindanblon/pi-fast-jev-compaction": {
+      "url": "https://github.com/QuentinDanblon/pi-fast-jev-compaction",
+      "discovery_id": "quentindanblon/pi-fast-jev-compaction",
+      "curated_ids": []
+    },
+    "https://github.com/samtay32/jev-system-architect": {
+      "url": "https://github.com/samtay32/jev-system-architect",
+      "discovery_id": "samtay32/jev-system-architect",
+      "curated_ids": []
+    },
+    "https://github.com/shivampansuriya/jev-skill-gate": {
+      "url": "https://github.com/ShivamPansuriya/jev-skill-gate",
+      "discovery_id": "shivampansuriya/jev-skill-gate",
+      "curated_ids": []
+    },
+    "https://github.com/tylerjharden/ailerix": {
+      "url": "https://github.com/tylerjharden/ailerix",
+      "discovery_id": "tylerjharden/ailerix",
+      "curated_ids": []
+    },
+    "https://github.com/anshchoudhary/typesafe-ai-firewall": {
+      "url": "https://github.com/AnshChoudhary/typesafe-ai-firewall",
+      "discovery_id": "anshchoudhary/typesafe-ai-firewall",
+      "curated_ids": []
+    },
+    "https://github.com/freepik-company/jev-mcp": {
+      "url": "https://github.com/freepik-company/jev-mcp",
+      "discovery_id": "freepik-company/jev-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/harrymunro/decision-first": {
+      "url": "https://github.com/harrymunro/decision-first",
+      "discovery_id": "harrymunro/decision-first",
+      "curated_ids": []
+    },
+    "https://github.com/ij03l/jear": {
+      "url": "https://github.com/iJ03l/jear",
+      "discovery_id": "ij03l/jear",
+      "curated_ids": []
+    },
+    "https://github.com/akashpriyadarshii/jev-git": {
+      "url": "https://github.com/AkashPriyadarshii/jev-git",
+      "discovery_id": "akashpriyadarshii/jev-git",
+      "curated_ids": []
+    },
+    "https://github.com/akashpriyadarshii/jev-scout": {
+      "url": "https://github.com/AkashPriyadarshii/jev-scout",
+      "discovery_id": "akashpriyadarshii/jev-scout",
+      "curated_ids": []
+    },
+    "https://github.com/bestagentkits/jev-skillful": {
+      "url": "https://github.com/bestagentkits/jev-skillful",
+      "discovery_id": "bestagentkits/jev-skillful",
+      "curated_ids": []
+    },
+    "https://github.com/cephalization/jev-triage": {
+      "url": "https://github.com/cephalization/jev-triage",
+      "discovery_id": "cephalization/jev-triage",
+      "curated_ids": []
+    },
+    "https://github.com/danielkillenberger/jev-predict-skill": {
+      "url": "https://github.com/DanielKillenberger/jev-predict-skill",
+      "discovery_id": "danielkillenberger/jev-predict-skill",
+      "curated_ids": []
+    },
+    "https://github.com/getexcited/stepwarden": {
+      "url": "https://github.com/getexcited/stepwarden",
+      "discovery_id": "getexcited/stepwarden",
+      "curated_ids": []
+    },
+    "https://github.com/greenyamao/antigravity-mcp-semantic-search-with-typesafeai": {
+      "url": "https://github.com/greenyamao/Antigravity-mcp-semantic-search-with-TypeSafeAi",
+      "discovery_id": "greenyamao/antigravity-mcp-semantic-search-with-typesafeai",
+      "curated_ids": []
+    },
+    "https://github.com/iefnaf/pi-jev": {
+      "url": "https://github.com/iefnaf/pi-jev",
+      "discovery_id": "iefnaf/pi-jev",
+      "curated_ids": []
+    },
+    "https://github.com/kelbie/hunch": {
+      "url": "https://github.com/Kelbie/hunch",
+      "discovery_id": "kelbie/hunch",
+      "curated_ids": []
+    },
+    "https://github.com/noplan-inc/limpet": {
+      "url": "https://github.com/noplan-inc/limpet",
+      "discovery_id": "noplan-inc/limpet",
+      "curated_ids": []
+    },
+    "https://github.com/omni-/ask-jev": {
+      "url": "https://github.com/omni-/ask-jev",
+      "discovery_id": "omni-/ask-jev",
+      "curated_ids": []
+    },
+    "https://github.com/ravinder82/jev-flash-router": {
+      "url": "https://github.com/Ravinder82/jev-flash-router",
+      "discovery_id": "ravinder82/jev-flash-router",
+      "curated_ids": []
+    },
+    "https://github.com/siddicky/omp-typesafe": {
+      "url": "https://github.com/siddicky/omp-typesafe",
+      "discovery_id": "siddicky/omp-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/z761293629/pi-jev-helm": {
+      "url": "https://github.com/Z761293629/pi-jev-helm",
+      "discovery_id": "z761293629/pi-jev-helm",
+      "curated_ids": []
+    },
+    "https://github.com/byk/jev-mcp": {
+      "url": "https://github.com/BYK/jev-mcp",
+      "discovery_id": "byk/jev-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/pzacca/askjev": {
+      "url": "https://github.com/pZacca/askjev",
+      "discovery_id": "pzacca/askjev",
+      "curated_ids": []
+    },
+    "https://github.com/jbt95/jev-toolkit": {
+      "url": "https://github.com/jbt95/jev-toolkit",
+      "discovery_id": "jbt95/jev-toolkit",
+      "curated_ids": []
+    },
+    "https://github.com/shimo4228/jev-skill-router": {
+      "url": "https://github.com/shimo4228/jev-skill-router",
+      "discovery_id": "shimo4228/jev-skill-router",
+      "curated_ids": []
+    },
+    "https://github.com/xienda/dsh-jev-verify": {
+      "url": "https://github.com/xienda/dsh-jev-verify",
+      "discovery_id": "xienda/dsh-jev-verify",
+      "curated_ids": []
+    },
+    "https://github.com/xinyao27/jevonian": {
+      "url": "https://github.com/xinyao27/jevonian",
+      "discovery_id": "xinyao27/jevonian",
+      "curated_ids": []
+    },
+    "https://github.com/liuhongrui087-art/jev-routed-agent": {
+      "url": "https://github.com/liuhongrui087-art/jev-routed-agent",
+      "discovery_id": "liuhongrui087-art/jev-routed-agent",
+      "curated_ids": []
+    },
+    "https://github.com/suenot/codex-jev-router": {
+      "url": "https://github.com/suenot/codex-jev-router",
+      "discovery_id": "suenot/codex-jev-router",
+      "curated_ids": []
+    },
+    "https://github.com/liu-x27/xavierjev": {
+      "url": "https://github.com/liu-x27/XavierJev",
+      "discovery_id": "liu-x27/xavierjev",
+      "curated_ids": []
+    },
+    "https://github.com/sunyasheng/jevdeepresearch": {
+      "url": "https://github.com/sunyasheng/JevDeepResearch",
+      "discovery_id": "sunyasheng/jevdeepresearch",
+      "curated_ids": []
+    },
+    "https://github.com/d3d0n/omp-statify": {
+      "url": "https://github.com/d3d0n/omp-statify",
+      "discovery_id": "d3d0n/omp-statify",
+      "curated_ids": []
+    },
+    "https://github.com/f-tiger/jev-decision-gate": {
+      "url": "https://github.com/f-tiger/jev-decision-gate",
+      "discovery_id": "f-tiger/jev-decision-gate",
+      "curated_ids": []
+    },
+    "https://github.com/alexshpunt/pi-agent-foreman": {
+      "url": "https://github.com/alexshpunt/pi-agent-foreman",
+      "discovery_id": "alexshpunt/pi-agent-foreman",
+      "curated_ids": []
+    },
+    "https://github.com/aniruddh-krovvidi/switchboard": {
+      "url": "https://github.com/aniruddh-krovvidi/switchboard",
+      "discovery_id": "aniruddh-krovvidi/switchboard",
+      "curated_ids": []
+    },
+    "https://github.com/bestagentkits/typesafe-demo-mcp": {
+      "url": "https://github.com/bestagentkits/typesafe-demo-mcp",
+      "discovery_id": "bestagentkits/typesafe-demo-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/cbruyndoncx/askjev-mcp": {
+      "url": "https://github.com/cbruyndoncx/AskJev-MCP",
+      "discovery_id": "cbruyndoncx/askjev-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/dakdevs/decide-mcp": {
+      "url": "https://github.com/dakdevs/decide-mcp",
+      "discovery_id": "dakdevs/decide-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/gloridifice/pi-jev-router": {
+      "url": "https://github.com/gloridifice/pi-jev-router",
+      "discovery_id": "gloridifice/pi-jev-router",
+      "curated_ids": []
+    },
+    "https://github.com/hatt-io/jevkeep": {
+      "url": "https://github.com/hatt-io/jevkeep",
+      "discovery_id": "hatt-io/jevkeep",
+      "curated_ids": []
+    },
+    "https://github.com/kamilpostrozny/pi-jev-code": {
+      "url": "https://github.com/KamilPostrozny/pi-jev-code",
+      "discovery_id": "kamilpostrozny/pi-jev-code",
+      "curated_ids": []
+    },
+    "https://github.com/legacybridge-tech/pi-typesafe-jev": {
+      "url": "https://github.com/legacybridge-tech/pi-typesafe-jev",
+      "discovery_id": "legacybridge-tech/pi-typesafe-jev",
+      "curated_ids": []
+    },
+    "https://github.com/marcus/frost": {
+      "url": "https://github.com/marcus/frost",
+      "discovery_id": "marcus/frost",
+      "curated_ids": []
+    },
+    "https://github.com/moezubair/check-risk": {
+      "url": "https://github.com/moezubair/check-risk",
+      "discovery_id": "moezubair/check-risk",
+      "curated_ids": []
+    },
+    "https://github.com/picaye/jev-compaction": {
+      "url": "https://github.com/picaye/jev-compaction",
+      "discovery_id": "picaye/jev-compaction",
+      "curated_ids": []
+    },
+    "https://github.com/pinutss/jev-plugins": {
+      "url": "https://github.com/Pinutss/jev-plugins",
+      "discovery_id": "pinutss/jev-plugins",
+      "curated_ids": []
+    },
+    "https://github.com/rainbowpuffpuff/jev-builder-loop": {
+      "url": "https://github.com/rainbowpuffpuff/jev-builder-loop",
+      "discovery_id": "rainbowpuffpuff/jev-builder-loop",
+      "curated_ids": []
+    },
+    "https://github.com/rbalch/typesafeai-review": {
+      "url": "https://github.com/rbalch/typesafeai-review",
+      "discovery_id": "rbalch/typesafeai-review",
+      "curated_ids": []
+    },
+    "https://github.com/ripwords/agent-gate-loop": {
+      "url": "https://github.com/Ripwords/agent-gate-loop",
+      "discovery_id": "ripwords/agent-gate-loop",
+      "curated_ids": []
+    },
+    "https://github.com/strml/omp-jevens-classifier": {
+      "url": "https://github.com/STRML/omp-jevens-classifier",
+      "discovery_id": "strml/omp-jevens-classifier",
+      "curated_ids": []
+    },
+    "https://github.com/thiago-ss/jev-review": {
+      "url": "https://github.com/thiago-ss/jev-review",
+      "discovery_id": "thiago-ss/jev-review",
+      "curated_ids": []
+    },
+    "https://github.com/twilwa/pi-typesafe": {
+      "url": "https://github.com/twilwa/pi-typesafe",
+      "discovery_id": "twilwa/pi-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/ussyverse/hermes-jev-router": {
+      "url": "https://github.com/ussyverse/hermes-jev-router",
+      "discovery_id": "ussyverse/hermes-jev-router",
+      "curated_ids": []
+    },
+    "https://github.com/zahrannnn/zcode-jev": {
+      "url": "https://github.com/Zahrannnn/zcode-jev",
+      "discovery_id": "zahrannnn/zcode-jev",
+      "curated_ids": []
+    },
+    "https://github.com/zsoxi/agent-handoff-gate": {
+      "url": "https://github.com/zsoXi/agent-handoff-gate",
+      "discovery_id": "zsoxi/agent-handoff-gate",
+      "curated_ids": []
+    },
+    "https://github.com/walidboulanouar/jev-agent-kit": {
+      "url": "https://github.com/walidboulanouar/jev-agent-kit",
+      "discovery_id": "walidboulanouar/jev-agent-kit",
+      "curated_ids": []
+    },
+    "https://github.com/ashishakkumar/jev-checkpoint": {
+      "url": "https://github.com/ashishakkumar/Jev-Checkpoint",
+      "discovery_id": "ashishakkumar/jev-checkpoint",
+      "curated_ids": []
+    },
+    "https://github.com/ashutoshvjti/progressgate": {
+      "url": "https://github.com/AshutoshVJTI/progressgate",
+      "discovery_id": "ashutoshvjti/progressgate",
+      "curated_ids": []
+    },
+    "https://github.com/dtduc-git/jev-packs": {
+      "url": "https://github.com/dtduc-git/jev-packs",
+      "discovery_id": "dtduc-git/jev-packs",
+      "curated_ids": []
+    },
+    "https://github.com/jhonnyr97/jevguard": {
+      "url": "https://github.com/Jhonnyr97/JevGuard",
+      "discovery_id": "jhonnyr97/jevguard",
+      "curated_ids": []
+    },
+    "https://github.com/v60samurai/jev-atlas": {
+      "url": "https://github.com/v60samurai/jev-atlas",
+      "discovery_id": "v60samurai/jev-atlas",
+      "curated_ids": []
+    },
+    "https://github.com/romeromarcelo/jev-retrieval": {
+      "url": "https://github.com/romeromarcelo/jev-retrieval",
+      "discovery_id": "romeromarcelo/jev-retrieval",
+      "curated_ids": []
+    },
+    "https://github.com/schwarzschlyle/immune": {
+      "url": "https://github.com/schwarzschlyle/immune",
+      "discovery_id": "schwarzschlyle/immune",
+      "curated_ids": []
+    },
+    "https://github.com/trycua/cua": {
+      "url": "https://github.com/trycua/cua",
+      "discovery_id": "trycua/cua",
+      "curated_ids": []
+    },
+    "https://github.com/browser-use/jev-ultrafast": {
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "discovery_id": "browser-use/jev-ultrafast",
+      "curated_ids": []
+    },
+    "https://github.com/lahfir/agent-desktop": {
+      "url": "https://github.com/lahfir/agent-desktop",
+      "discovery_id": "lahfir/agent-desktop",
+      "curated_ids": []
+    },
+    "https://github.com/celestoai/celesto": {
+      "url": "https://github.com/CelestoAI/celesto",
+      "discovery_id": "celestoai/celesto",
+      "curated_ids": []
+    },
+    "https://github.com/reticlehq/reticle": {
+      "url": "https://github.com/reticlehq/reticle",
+      "discovery_id": "reticlehq/reticle",
+      "curated_ids": []
+    },
+    "https://github.com/nicobailon/surf-cli": {
+      "url": "https://github.com/nicobailon/surf-cli",
+      "discovery_id": "nicobailon/surf-cli",
+      "curated_ids": []
+    },
+    "https://github.com/sac-y/jev-cu": {
+      "url": "https://github.com/Sac-Y/Jev-cu",
+      "discovery_id": "sac-y/jev-cu",
+      "curated_ids": []
+    },
+    "https://github.com/awlevin/typesafe-computer-use": {
+      "url": "https://github.com/awlevin/typesafe-computer-use",
+      "discovery_id": "awlevin/typesafe-computer-use",
+      "curated_ids": []
+    },
+    "https://github.com/droidrun/mobile-jev": {
+      "url": "https://github.com/droidrun/mobile-jev",
+      "discovery_id": "droidrun/mobile-jev",
+      "curated_ids": []
+    },
+    "https://github.com/fluidinference/fluiduse": {
+      "url": "https://github.com/FluidInference/FluidUse",
+      "discovery_id": "fluidinference/fluiduse",
+      "curated_ids": []
+    },
+    "https://github.com/wy-coliney/jev-browser-use": {
+      "url": "https://github.com/wy-coliney/jev-browser-use",
+      "discovery_id": "wy-coliney/jev-browser-use",
+      "curated_ids": []
+    },
+    "https://github.com/jkudish/jev-browser": {
+      "url": "https://github.com/jkudish/jev-browser",
+      "discovery_id": "jkudish/jev-browser",
+      "curated_ids": []
+    },
+    "https://github.com/kitze/unclutter": {
+      "url": "https://github.com/kitze/unclutter",
+      "discovery_id": "kitze/unclutter",
+      "curated_ids": []
+    },
+    "https://github.com/shhivv/arc-cua": {
+      "url": "https://github.com/shhivv/arc-cua",
+      "discovery_id": "shhivv/arc-cua",
+      "curated_ids": []
+    },
+    "https://github.com/moritzkremb/jev-voice-browser": {
+      "url": "https://github.com/moritzkremb/jev-voice-browser",
+      "discovery_id": "moritzkremb/jev-voice-browser",
+      "curated_ids": []
+    },
+    "https://github.com/dorkitude/webctl": {
+      "url": "https://github.com/dorkitude/webctl",
+      "discovery_id": "dorkitude/webctl",
+      "curated_ids": []
+    },
+    "https://github.com/apus-ai-lab/fast-browser-use": {
+      "url": "https://github.com/APUS-AI-Lab/fast-browser-use",
+      "discovery_id": "apus-ai-lab/fast-browser-use",
+      "curated_ids": []
+    },
+    "https://github.com/michaelswissa/jevry": {
+      "url": "https://github.com/michaelswissa/jevry",
+      "discovery_id": "michaelswissa/jevry",
+      "curated_ids": []
+    },
+    "https://github.com/openqa-cn/jev-browser": {
+      "url": "https://github.com/openqa-cn/jev-browser",
+      "discovery_id": "openqa-cn/jev-browser",
+      "curated_ids": []
+    },
+    "https://github.com/savka777/jev-use": {
+      "url": "https://github.com/savka777/jev-use",
+      "discovery_id": "savka777/jev-use",
+      "curated_ids": []
+    },
+    "https://github.com/yikangy873-gif/jev-desktop": {
+      "url": "https://github.com/yikangy873-gif/jev-desktop",
+      "discovery_id": "yikangy873-gif/jev-desktop",
+      "curated_ids": []
+    },
+    "https://github.com/thepatriczek/playwright-recast": {
+      "url": "https://github.com/ThePatriczek/playwright-recast",
+      "discovery_id": "thepatriczek/playwright-recast",
+      "curated_ids": []
+    },
+    "https://github.com/realzachi/typesafe-adblock": {
+      "url": "https://github.com/realZachi/typesafe-adblock",
+      "discovery_id": "realzachi/typesafe-adblock",
+      "curated_ids": []
+    },
+    "https://github.com/affirmitv/ghosthands": {
+      "url": "https://github.com/affirmitv/ghosthands",
+      "discovery_id": "affirmitv/ghosthands",
+      "curated_ids": []
+    },
+    "https://github.com/rafalwilinski/vibecheck": {
+      "url": "https://github.com/RafalWilinski/vibecheck",
+      "discovery_id": "rafalwilinski/vibecheck",
+      "curated_ids": []
+    },
+    "https://github.com/rohanarun/computer-use-cache": {
+      "url": "https://github.com/rohanarun/computer-use-cache",
+      "discovery_id": "rohanarun/computer-use-cache",
+      "curated_ids": []
+    },
+    "https://github.com/ronadin2002/jev-cua": {
+      "url": "https://github.com/ronadin2002/jev-cua",
+      "discovery_id": "ronadin2002/jev-cua",
+      "curated_ids": []
+    },
+    "https://github.com/hqman/jev-browser-skill": {
+      "url": "https://github.com/hqman/jev-browser-skill",
+      "discovery_id": "hqman/jev-browser-skill",
+      "curated_ids": []
+    },
+    "https://github.com/gamesonrblx/jevbridge": {
+      "url": "https://github.com/gamesonrblx/Jevbridge",
+      "discovery_id": "gamesonrblx/jevbridge",
+      "curated_ids": []
+    },
+    "https://github.com/razaanstha/ulka": {
+      "url": "https://github.com/razaanstha/ulka",
+      "discovery_id": "razaanstha/ulka",
+      "curated_ids": []
+    },
+    "https://github.com/ying-kai-liao/jev-browser": {
+      "url": "https://github.com/Ying-Kai-Liao/jev-browser",
+      "discovery_id": "ying-kai-liao/jev-browser",
+      "curated_ids": []
+    },
+    "https://github.com/ehui1226/hookmeter-jev": {
+      "url": "https://github.com/ehui1226/hookmeter-jev",
+      "discovery_id": "ehui1226/hookmeter-jev",
+      "curated_ids": []
+    },
+    "https://github.com/brudarko/jev-mac-voice": {
+      "url": "https://github.com/brudarko/jev-mac-voice",
+      "discovery_id": "brudarko/jev-mac-voice",
+      "curated_ids": []
+    },
+    "https://github.com/chy4pro/jev-for-chrome": {
+      "url": "https://github.com/chy4pro/jev-for-chrome",
+      "discovery_id": "chy4pro/jev-for-chrome",
+      "curated_ids": []
+    },
+    "https://github.com/jcpsimmons/jev-macos-loop": {
+      "url": "https://github.com/jcpsimmons/jev-macos-loop",
+      "discovery_id": "jcpsimmons/jev-macos-loop",
+      "curated_ids": []
+    },
+    "https://github.com/oso95/x-scanner": {
+      "url": "https://github.com/oso95/x-scanner",
+      "discovery_id": "oso95/x-scanner",
+      "curated_ids": []
+    },
+    "https://github.com/stefw/lkclean": {
+      "url": "https://github.com/stefw/lkclean",
+      "discovery_id": "stefw/lkclean",
+      "curated_ids": []
+    },
+    "https://github.com/jiawei686/jev-ultrafast-mcp": {
+      "url": "https://github.com/jiawei686/jev-ultrafast-mcp",
+      "discovery_id": "jiawei686/jev-ultrafast-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/thinkflowlab/system1-agents": {
+      "url": "https://github.com/ThinkFlowLab/system1-agents",
+      "discovery_id": "thinkflowlab/system1-agents",
+      "curated_ids": []
+    },
+    "https://github.com/ethanplusai/jev-chat-for-twitch": {
+      "url": "https://github.com/ethanplusai/jev-chat-for-twitch",
+      "discovery_id": "ethanplusai/jev-chat-for-twitch",
+      "curated_ids": []
+    },
+    "https://github.com/socai-io/jev-social": {
+      "url": "https://github.com/socai-io/jev-social",
+      "discovery_id": "socai-io/jev-social",
+      "curated_ids": []
+    },
+    "https://github.com/vinilana/live-jev": {
+      "url": "https://github.com/vinilana/live-jev",
+      "discovery_id": "vinilana/live-jev",
+      "curated_ids": []
+    },
+    "https://github.com/bohutang/sift": {
+      "url": "https://github.com/bohutang/sift",
+      "discovery_id": "bohutang/sift",
+      "curated_ids": []
+    },
+    "https://github.com/manifoldor/xtags": {
+      "url": "https://github.com/manifoldor/xtags",
+      "discovery_id": "manifoldor/xtags",
+      "curated_ids": []
+    },
+    "https://github.com/romaluev/jev-ego": {
+      "url": "https://github.com/romaluev/jev-ego",
+      "discovery_id": "romaluev/jev-ego",
+      "curated_ids": []
+    },
+    "https://github.com/lexmount/jev-browser-bridge": {
+      "url": "https://github.com/lexmount/jev-browser-bridge",
+      "discovery_id": "lexmount/jev-browser-bridge",
+      "curated_ids": []
+    },
+    "https://github.com/ranjan2829/askjev": {
+      "url": "https://github.com/ranjan2829/AskJev",
+      "discovery_id": "ranjan2829/askjev",
+      "curated_ids": []
+    },
+    "https://github.com/forvela/jev-agent-browser": {
+      "url": "https://github.com/forvela/jev-agent-browser",
+      "discovery_id": "forvela/jev-agent-browser",
+      "curated_ids": []
+    },
+    "https://github.com/agent-labs-dev/fastbrowse": {
+      "url": "https://github.com/agent-labs-dev/fastbrowse",
+      "discovery_id": "agent-labs-dev/fastbrowse",
+      "curated_ids": []
+    },
+    "https://github.com/vinilana/jev-browser": {
+      "url": "https://github.com/vinilana/jev-browser",
+      "discovery_id": "vinilana/jev-browser",
+      "curated_ids": []
+    },
+    "https://github.com/kyrylosyzonenko/jev-browse": {
+      "url": "https://github.com/kyrylosyzonenko/jev-browse",
+      "discovery_id": "kyrylosyzonenko/jev-browse",
+      "curated_ids": []
+    },
+    "https://github.com/paulsmith/computer-use-jev": {
+      "url": "https://github.com/paulsmith/computer-use-jev",
+      "discovery_id": "paulsmith/computer-use-jev",
+      "curated_ids": []
+    },
+    "https://github.com/valentynkit/jev-skip": {
+      "url": "https://github.com/valentynkit/jev-skip",
+      "discovery_id": "valentynkit/jev-skip",
+      "curated_ids": []
+    },
+    "https://github.com/filedcom/playjev": {
+      "url": "https://github.com/filedcom/playjev",
+      "discovery_id": "filedcom/playjev",
+      "curated_ids": []
+    },
+    "https://github.com/sedum-dev/sedum": {
+      "url": "https://github.com/sedum-dev/sedum",
+      "discovery_id": "sedum-dev/sedum",
+      "curated_ids": []
+    },
+    "https://github.com/friedjof/jev-mobile": {
+      "url": "https://github.com/Friedjof/jev-mobile",
+      "discovery_id": "friedjof/jev-mobile",
+      "curated_ids": []
+    },
+    "https://github.com/nainish-rai/jev-frontend-qa": {
+      "url": "https://github.com/Nainish-Rai/jev-frontend-qa",
+      "discovery_id": "nainish-rai/jev-frontend-qa",
+      "curated_ids": []
+    },
+    "https://github.com/noblespartan6/otto": {
+      "url": "https://github.com/NobleSpartan6/otto",
+      "discovery_id": "noblespartan6/otto",
+      "curated_ids": []
+    },
+    "https://github.com/raihankhan-rk/jevarena": {
+      "url": "https://github.com/raihankhan-rk/jevarena",
+      "discovery_id": "raihankhan-rk/jevarena",
+      "curated_ids": []
+    },
+    "https://github.com/sightmap/jev-turbo": {
+      "url": "https://github.com/sightmap/jev-turbo",
+      "discovery_id": "sightmap/jev-turbo",
+      "curated_ids": []
+    },
+    "https://github.com/tontoko/jev-browser": {
+      "url": "https://github.com/tontoko/jev-browser",
+      "discovery_id": "tontoko/jev-browser",
+      "curated_ids": []
+    },
+    "https://github.com/vmendes90/jev-shield": {
+      "url": "https://github.com/vmendes90/jev-shield",
+      "discovery_id": "vmendes90/jev-shield",
+      "curated_ids": []
+    },
+    "https://github.com/brnyxx/jev-ra": {
+      "url": "https://github.com/brnyxx/jev-ra",
+      "discovery_id": "brnyxx/jev-ra",
+      "curated_ids": []
+    },
+    "https://github.com/elpumberto/barrunto": {
+      "url": "https://github.com/elpumberto/barrunto",
+      "discovery_id": "elpumberto/barrunto",
+      "curated_ids": []
+    },
+    "https://github.com/eriestra/almond-fastloop": {
+      "url": "https://github.com/eriestra/almond-fastloop",
+      "discovery_id": "eriestra/almond-fastloop",
+      "curated_ids": []
+    },
+    "https://github.com/komikat/psearch": {
+      "url": "https://github.com/komikat/psearch",
+      "discovery_id": "komikat/psearch",
+      "curated_ids": []
+    },
+    "https://github.com/zurfyx/jev-browser-skill": {
+      "url": "https://github.com/zurfyx/jev-browser-skill",
+      "discovery_id": "zurfyx/jev-browser-skill",
+      "curated_ids": []
+    },
+    "https://github.com/aidil2105/jev-browser-pilot": {
+      "url": "https://github.com/aidil2105/jev-browser-pilot",
+      "discovery_id": "aidil2105/jev-browser-pilot",
+      "curated_ids": []
+    },
+    "https://github.com/bottlebrushes/jev-orb": {
+      "url": "https://github.com/bottlebrushes/jev-orb",
+      "discovery_id": "bottlebrushes/jev-orb",
+      "curated_ids": []
+    },
+    "https://github.com/coriew/jevtest": {
+      "url": "https://github.com/CorieW/JevTest",
+      "discovery_id": "coriew/jevtest",
+      "curated_ids": []
+    },
+    "https://github.com/eriestra/browser-use-olympics": {
+      "url": "https://github.com/eriestra/browser-use-olympics",
+      "discovery_id": "eriestra/browser-use-olympics",
+      "curated_ids": []
+    },
+    "https://github.com/kesavanking/jev-browser": {
+      "url": "https://github.com/KesavanKing/jev-browser",
+      "discovery_id": "kesavanking/jev-browser",
+      "curated_ids": []
+    },
+    "https://github.com/knowlet/jevlens": {
+      "url": "https://github.com/knowlet/jevlens",
+      "discovery_id": "knowlet/jevlens",
+      "curated_ids": []
+    },
+    "https://github.com/krw82/jev-playwright-mcp": {
+      "url": "https://github.com/krw82/jev-playwright-mcp",
+      "discovery_id": "krw82/jev-playwright-mcp",
+      "curated_ids": []
+    },
+    "https://github.com/mahmoudadelbghany/jev-browser": {
+      "url": "https://github.com/MahmoudAdelbghany/jev-browser",
+      "discovery_id": "mahmoudadelbghany/jev-browser",
+      "curated_ids": []
+    },
+    "https://github.com/neddes/sloppy-jevs-extension": {
+      "url": "https://github.com/neddes/sloppy-jevs-extension",
+      "discovery_id": "neddes/sloppy-jevs-extension",
+      "curated_ids": []
+    },
+    "https://github.com/tylergibbs1/sift": {
+      "url": "https://github.com/tylergibbs1/sift",
+      "discovery_id": "tylergibbs1/sift",
+      "curated_ids": []
+    },
+    "https://github.com/tauricresearch/tradingagents": {
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "discovery_id": "tauricresearch/tradingagents",
+      "curated_ids": []
+    },
+    "https://github.com/openbyteinc/quantdinger": {
+      "url": "https://github.com/OpenByteInc/QuantDinger",
+      "discovery_id": "openbyteinc/quantdinger",
+      "curated_ids": []
+    },
+    "https://github.com/genspark-ai/genoffice": {
+      "url": "https://github.com/genspark-ai/genoffice",
+      "discovery_id": "genspark-ai/genoffice",
+      "curated_ids": []
+    },
+    "https://github.com/xerj-org/xerj": {
+      "url": "https://github.com/xerj-org/xerj",
+      "discovery_id": "xerj-org/xerj",
+      "curated_ids": []
+    },
+    "https://github.com/szczyglis-dev/py-gpt": {
+      "url": "https://github.com/szczyglis-dev/py-gpt",
+      "discovery_id": "szczyglis-dev/py-gpt",
+      "curated_ids": []
+    },
+    "https://github.com/paca-ai/paca": {
+      "url": "https://github.com/Paca-AI/paca",
+      "discovery_id": "paca-ai/paca",
+      "curated_ids": []
+    },
+    "https://github.com/jev-chat/jev-chat-jarvis": {
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "discovery_id": "jev-chat/jev-chat-jarvis",
+      "curated_ids": []
+    },
+    "https://github.com/jarrodwatts/jev-trader": {
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "discovery_id": "jarrodwatts/jev-trader",
+      "curated_ids": []
+    },
+    "https://github.com/jev-chat/jev-chat-windows": {
+      "url": "https://github.com/jev-chat/jev-chat-windows",
+      "discovery_id": "jev-chat/jev-chat-windows",
+      "curated_ids": []
+    },
+    "https://github.com/horace-maxwell/horosa-skill": {
+      "url": "https://github.com/Horace-Maxwell/horosa-skill",
+      "discovery_id": "horace-maxwell/horosa-skill",
+      "curated_ids": []
+    },
+    "https://github.com/delexw/claude-code-trace": {
+      "url": "https://github.com/delexw/claude-code-trace",
+      "discovery_id": "delexw/claude-code-trace",
+      "curated_ids": []
+    },
+    "https://github.com/mohsen1/llm-debugger-vscode-extension": {
+      "url": "https://github.com/mohsen1/llm-debugger-vscode-extension",
+      "discovery_id": "mohsen1/llm-debugger-vscode-extension",
+      "curated_ids": []
+    },
+    "https://github.com/ethanalgox/aistock": {
+      "url": "https://github.com/EthanAlgoX/AIStock",
+      "discovery_id": "ethanalgox/aistock",
+      "curated_ids": []
+    },
+    "https://github.com/kyotofin/tax-doc-classifier": {
+      "url": "https://github.com/kyotofin/tax-doc-classifier",
+      "discovery_id": "kyotofin/tax-doc-classifier",
+      "curated_ids": []
+    },
+    "https://github.com/jerryjliu/docjev": {
+      "url": "https://github.com/jerryjliu/docjev",
+      "discovery_id": "jerryjliu/docjev",
+      "curated_ids": []
+    },
+    "https://github.com/jev-chat/jev-chat-jarvis-mac": {
+      "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+      "discovery_id": "jev-chat/jev-chat-jarvis-mac",
+      "curated_ids": []
+    },
+    "https://github.com/martinopiaggi/summarize": {
+      "url": "https://github.com/martinopiaggi/summarize",
+      "discovery_id": "martinopiaggi/summarize",
+      "curated_ids": []
+    },
+    "https://github.com/noperator/siftrank": {
+      "url": "https://github.com/noperator/siftrank",
+      "discovery_id": "noperator/siftrank",
+      "curated_ids": []
+    },
+    "https://github.com/shengjidaguai-china/goutoujunshi-jev-chat": {
+      "url": "https://github.com/shengjidaguai-china/goutoujunshi-jev-chat",
+      "discovery_id": "shengjidaguai-china/goutoujunshi-jev-chat",
+      "curated_ids": []
+    },
+    "https://github.com/usenotra/notra": {
+      "url": "https://github.com/usenotra/notra",
+      "discovery_id": "usenotra/notra",
+      "curated_ids": []
+    },
+    "https://github.com/ferrycorleone/crush-monitor": {
+      "url": "https://github.com/FerryCorleone/crush-monitor",
+      "discovery_id": "ferrycorleone/crush-monitor",
+      "curated_ids": []
+    },
+    "https://github.com/lakeday-org/perch": {
+      "url": "https://github.com/lakeday-org/perch",
+      "discovery_id": "lakeday-org/perch",
+      "curated_ids": []
+    },
+    "https://github.com/kunpengtalk/omnistudio": {
+      "url": "https://github.com/kunpengtalk/OmniStudio",
+      "discovery_id": "kunpengtalk/omnistudio",
+      "curated_ids": []
+    },
+    "https://github.com/brainstormity/jev-x-sentiment-analysis": {
+      "url": "https://github.com/brainstormity/Jev-X-Sentiment-Analysis",
+      "discovery_id": "brainstormity/jev-x-sentiment-analysis",
+      "curated_ids": []
+    },
+    "https://github.com/sdras/jev-webmcp-extension": {
+      "url": "https://github.com/sdras/jev-webmcp-extension",
+      "discovery_id": "sdras/jev-webmcp-extension",
+      "curated_ids": []
+    },
+    "https://github.com/sonnylazuardi/superterminal": {
+      "url": "https://github.com/sonnylazuardi/superterminal",
+      "discovery_id": "sonnylazuardi/superterminal",
+      "curated_ids": []
+    },
+    "https://github.com/timrogers/formanator": {
+      "url": "https://github.com/timrogers/formanator",
+      "discovery_id": "timrogers/formanator",
+      "curated_ids": []
+    },
+    "https://github.com/liyucheng1997/332_lab-jev-chat": {
+      "url": "https://github.com/Liyucheng1997/332_lab-jev-chat",
+      "discovery_id": "liyucheng1997/332_lab-jev-chat",
+      "curated_ids": []
+    },
+    "https://github.com/w3cj/jev-chat": {
+      "url": "https://github.com/w3cj/jev-chat",
+      "discovery_id": "w3cj/jev-chat",
+      "curated_ids": []
+    },
+    "https://github.com/arimanyus/warrenduffer": {
+      "url": "https://github.com/arimanyus/warrenduffer",
+      "discovery_id": "arimanyus/warrenduffer",
+      "curated_ids": []
+    },
+    "https://github.com/kevinbadi/jev-voice": {
+      "url": "https://github.com/kevinbadi/jev-voice",
+      "discovery_id": "kevinbadi/jev-voice",
+      "curated_ids": []
+    },
+    "https://github.com/byalex33/changelog.earth": {
+      "url": "https://github.com/byalex33/changelog.earth",
+      "discovery_id": "byalex33/changelog.earth",
+      "curated_ids": []
+    },
+    "https://github.com/topherchris420/james_library": {
+      "url": "https://github.com/topherchris420/james_library",
+      "discovery_id": "topherchris420/james_library",
+      "curated_ids": []
+    },
+    "https://github.com/chetaslua/jevmeter": {
+      "url": "https://github.com/ChetasLua/jevmeter",
+      "discovery_id": "chetaslua/jevmeter",
+      "curated_ids": []
+    },
+    "https://github.com/irfndi/prism-liquidity-agent": {
+      "url": "https://github.com/irfndi/prism-liquidity-agent",
+      "discovery_id": "irfndi/prism-liquidity-agent",
+      "curated_ids": []
+    },
+    "https://github.com/anishfn/shapeshift": {
+      "url": "https://github.com/anishfn/shapeshift",
+      "discovery_id": "anishfn/shapeshift",
+      "curated_ids": []
+    },
+    "https://github.com/quantskills/quantstudio": {
+      "url": "https://github.com/quantskills/QuantStudio",
+      "discovery_id": "quantskills/quantstudio",
+      "curated_ids": []
+    },
+    "https://github.com/nisaka520/jevintent": {
+      "url": "https://github.com/Nisaka520/JevIntent",
+      "discovery_id": "nisaka520/jevintent",
+      "curated_ids": []
+    },
+    "https://github.com/yedasavg/stratum": {
+      "url": "https://github.com/YEDASAVG/Stratum",
+      "discovery_id": "yedasavg/stratum",
+      "curated_ids": []
+    },
+    "https://github.com/okinaaudio/live-jev": {
+      "url": "https://github.com/okinaaudio/live-jev",
+      "discovery_id": "okinaaudio/live-jev",
+      "curated_ids": []
+    },
+    "https://github.com/frankda/jev-poly-crypto-demo": {
+      "url": "https://github.com/frankda/jev-poly-crypto-demo",
+      "discovery_id": "frankda/jev-poly-crypto-demo",
+      "curated_ids": []
+    },
+    "https://github.com/brainstormity/jev-moderation-bot": {
+      "url": "https://github.com/brainstormity/Jev-Moderation-Bot",
+      "discovery_id": "brainstormity/jev-moderation-bot",
+      "curated_ids": []
+    },
+    "https://github.com/klauswg/jev-suite": {
+      "url": "https://github.com/klauswg/jev-suite",
+      "discovery_id": "klauswg/jev-suite",
+      "curated_ids": []
+    },
+    "https://github.com/zerogold/call-coach-ai": {
+      "url": "https://github.com/ZeroGold/call-coach-ai",
+      "discovery_id": "zerogold/call-coach-ai",
+      "curated_ids": []
+    },
+    "https://github.com/klauswg/jev-guard": {
+      "url": "https://github.com/klauswg/jev-guard",
+      "discovery_id": "klauswg/jev-guard",
+      "curated_ids": []
+    },
+    "https://github.com/samdotmak/jev-recall": {
+      "url": "https://github.com/samdotmak/jev-recall",
+      "discovery_id": "samdotmak/jev-recall",
+      "curated_ids": []
+    },
+    "https://github.com/agricidaniel/jev-seo": {
+      "url": "https://github.com/AgriciDaniel/jev-seo",
+      "discovery_id": "agricidaniel/jev-seo",
+      "curated_ids": []
+    },
+    "https://github.com/choxos/jev-reviewer": {
+      "url": "https://github.com/choxos/jev-reviewer",
+      "discovery_id": "choxos/jev-reviewer",
+      "curated_ids": []
+    },
+    "https://github.com/tshmieldev/sharp": {
+      "url": "https://github.com/tshmieldev/sharp",
+      "discovery_id": "tshmieldev/sharp",
+      "curated_ids": []
+    },
+    "https://github.com/aowang-ai/jev-trade": {
+      "url": "https://github.com/aowang-ai/jev-trade",
+      "discovery_id": "aowang-ai/jev-trade",
+      "curated_ids": []
+    },
+    "https://github.com/fazlerocks/jevmail": {
+      "url": "https://github.com/fazlerocks/jevmail",
+      "discovery_id": "fazlerocks/jevmail",
+      "curated_ids": []
+    },
+    "https://github.com/boozedog/pi-codemode": {
+      "url": "https://github.com/boozedog/pi-codemode",
+      "discovery_id": "boozedog/pi-codemode",
+      "curated_ids": []
+    },
+    "https://github.com/devanshbatham/commit-miner": {
+      "url": "https://github.com/devanshbatham/commit-miner",
+      "discovery_id": "devanshbatham/commit-miner",
+      "curated_ids": []
+    },
+    "https://github.com/misbahsy/doc-router": {
+      "url": "https://github.com/misbahsy/doc-router",
+      "discovery_id": "misbahsy/doc-router",
+      "curated_ids": []
+    },
+    "https://github.com/myc0576/smartmoney-cub": {
+      "url": "https://github.com/myc0576/SmartMoney-Cub",
+      "discovery_id": "myc0576/smartmoney-cub",
+      "curated_ids": []
+    },
+    "https://github.com/ellipsis-dev/blink": {
+      "url": "https://github.com/ellipsis-dev/blink",
+      "discovery_id": "ellipsis-dev/blink",
+      "curated_ids": []
+    },
+    "https://github.com/albionahoti/refgarden": {
+      "url": "https://github.com/AlbionaHoti/refgarden",
+      "discovery_id": "albionahoti/refgarden",
+      "curated_ids": []
+    },
+    "https://github.com/miaowunya/rikkahub-sillytavern-android": {
+      "url": "https://github.com/MiaoWuNYA/rikkahub-sillytavern-android",
+      "discovery_id": "miaowunya/rikkahub-sillytavern-android",
+      "curated_ids": []
+    },
+    "https://github.com/cclank/jevclip": {
+      "url": "https://github.com/cclank/jevclip",
+      "discovery_id": "cclank/jevclip",
+      "curated_ids": []
+    },
+    "https://github.com/eliot5566/jev-paper-radar": {
+      "url": "https://github.com/Eliot5566/JEV-Paper-Radar",
+      "discovery_id": "eliot5566/jev-paper-radar",
+      "curated_ids": []
+    },
+    "https://github.com/cheshiai/cheshi": {
+      "url": "https://github.com/CheshiAI/Cheshi",
+      "discovery_id": "cheshiai/cheshi",
+      "curated_ids": []
+    },
+    "https://github.com/davidcreador/pi-dcp": {
+      "url": "https://github.com/Davidcreador/pi-dcp",
+      "discovery_id": "davidcreador/pi-dcp",
+      "curated_ids": []
+    },
+    "https://github.com/keeltrace/hermes-nerve": {
+      "url": "https://github.com/keeltrace/hermes-nerve",
+      "discovery_id": "keeltrace/hermes-nerve",
+      "curated_ids": []
+    },
+    "https://github.com/wuxie888/jev-yaba-wechat": {
+      "url": "https://github.com/wuxie888/jev-yaba-wechat",
+      "discovery_id": "wuxie888/jev-yaba-wechat",
+      "curated_ids": []
+    },
+    "https://github.com/ilyamk/jev-gmail-ai-spam-filter-and-labeling": {
+      "url": "https://github.com/ilyamk/jev-gmail-ai-spam-filter-and-labeling",
+      "discovery_id": "ilyamk/jev-gmail-ai-spam-filter-and-labeling",
+      "curated_ids": []
+    },
+    "https://github.com/sensahin/transcript-lens": {
+      "url": "https://github.com/sensahin/transcript-lens",
+      "discovery_id": "sensahin/transcript-lens",
+      "curated_ids": []
+    },
+    "https://github.com/yirc99/yanwai": {
+      "url": "https://github.com/YIRC99/yanwai",
+      "discovery_id": "yirc99/yanwai",
+      "curated_ids": []
+    },
+    "https://github.com/fornhere/hafiza-os": {
+      "url": "https://github.com/fornhere/hafiza-os",
+      "discovery_id": "fornhere/hafiza-os",
+      "curated_ids": []
+    },
+    "https://github.com/parth-kp/jev-mail-classifier": {
+      "url": "https://github.com/parth-kp/jev-mail-classifier",
+      "discovery_id": "parth-kp/jev-mail-classifier",
+      "curated_ids": []
+    },
+    "https://github.com/zadescoxp/jev-trades": {
+      "url": "https://github.com/zadescoxp/Jev-Trades",
+      "discovery_id": "zadescoxp/jev-trades",
+      "curated_ids": []
+    },
+    "https://github.com/yushen100/wechat-jev-assistant": {
+      "url": "https://github.com/yushen100/wechat-jev-assistant",
+      "discovery_id": "yushen100/wechat-jev-assistant",
+      "curated_ids": []
+    },
+    "https://github.com/pengchujin/ad-radar": {
+      "url": "https://github.com/pengchujin/ad-radar",
+      "discovery_id": "pengchujin/ad-radar",
+      "curated_ids": []
+    },
+    "https://github.com/cocktailpeanut/jevthoven": {
+      "url": "https://github.com/cocktailpeanut/jevthoven",
+      "discovery_id": "cocktailpeanut/jevthoven",
+      "curated_ids": []
+    },
+    "https://github.com/joonan-lab/byeori": {
+      "url": "https://github.com/joonan-lab/byeori",
+      "discovery_id": "joonan-lab/byeori",
+      "curated_ids": []
+    },
+    "https://github.com/unicodeveloper/jevocks": {
+      "url": "https://github.com/unicodeveloper/jevocks",
+      "discovery_id": "unicodeveloper/jevocks",
+      "curated_ids": []
+    },
+    "https://github.com/reachjalil/jevlogs": {
+      "url": "https://github.com/reachjalil/jevlogs",
+      "discovery_id": "reachjalil/jevlogs",
+      "curated_ids": []
+    },
+    "https://github.com/keltokhy/jsort": {
+      "url": "https://github.com/keltokhy/jsort",
+      "discovery_id": "keltokhy/jsort",
+      "curated_ids": []
+    },
+    "https://github.com/kraayenjon/jev-linkedin-saved-classifier": {
+      "url": "https://github.com/kraayenjon/jev-linkedin-saved-classifier",
+      "discovery_id": "kraayenjon/jev-linkedin-saved-classifier",
+      "curated_ids": []
+    },
+    "https://github.com/hev/reranker": {
+      "url": "https://github.com/hev/reranker",
+      "discovery_id": "hev/reranker",
+      "curated_ids": []
+    },
+    "https://github.com/ryanwaits/secondlayer": {
+      "url": "https://github.com/ryanwaits/secondlayer",
+      "discovery_id": "ryanwaits/secondlayer",
+      "curated_ids": []
+    },
+    "https://github.com/sharziki/semdecide": {
+      "url": "https://github.com/sharziki/semdecide",
+      "discovery_id": "sharziki/semdecide",
+      "curated_ids": []
+    },
+    "https://github.com/tumf/jev-cli": {
+      "url": "https://github.com/tumf/jev-cli",
+      "discovery_id": "tumf/jev-cli",
+      "curated_ids": []
+    },
+    "https://github.com/opaielsheikh/ai-elo-ranker": {
+      "url": "https://github.com/opaielsheikh/ai-elo-ranker",
+      "discovery_id": "opaielsheikh/ai-elo-ranker",
+      "curated_ids": []
+    },
+    "https://github.com/lzq-0529/jev-span": {
+      "url": "https://github.com/lzq-0529/jev-span",
+      "discovery_id": "lzq-0529/jev-span",
+      "curated_ids": []
+    },
+    "https://github.com/mkotlikov/jev-grug": {
+      "url": "https://github.com/mkotlikov/jev-grug",
+      "discovery_id": "mkotlikov/jev-grug",
+      "curated_ids": []
+    },
+    "https://github.com/y0usaf/typesafe-cli": {
+      "url": "https://github.com/y0usaf/typesafe-cli",
+      "discovery_id": "y0usaf/typesafe-cli",
+      "curated_ids": []
+    },
+    "https://github.com/eugeneboondock/jevsql": {
+      "url": "https://github.com/EugeneBoondock/jevsql",
+      "discovery_id": "eugeneboondock/jevsql",
+      "curated_ids": []
+    },
+    "https://github.com/reycn/smart-switch": {
+      "url": "https://github.com/reycn/smart-switch",
+      "discovery_id": "reycn/smart-switch",
+      "curated_ids": []
+    },
+    "https://github.com/sufianetaouil/every": {
+      "url": "https://github.com/sufianetaouil/every",
+      "discovery_id": "sufianetaouil/every",
+      "curated_ids": []
+    },
+    "https://github.com/aipersonacademy/jev-resume-disqualifier": {
+      "url": "https://github.com/AiPersonacademy/jev-resume-disqualifier",
+      "discovery_id": "aipersonacademy/jev-resume-disqualifier",
+      "curated_ids": []
+    },
+    "https://github.com/keltokhy/jselect": {
+      "url": "https://github.com/keltokhy/jselect",
+      "discovery_id": "keltokhy/jselect",
+      "curated_ids": []
+    },
+    "https://github.com/charlyhno-eng/jev-document-classification": {
+      "url": "https://github.com/Charlyhno-eng/jev-document-classification",
+      "discovery_id": "charlyhno-eng/jev-document-classification",
+      "curated_ids": []
+    },
+    "https://github.com/gtaras7/typesafe-jev": {
+      "url": "https://github.com/gtaras7/typesafe-jev",
+      "discovery_id": "gtaras7/typesafe-jev",
+      "curated_ids": []
+    },
+    "https://github.com/marissafamularo/citation-verifier": {
+      "url": "https://github.com/MarissaFamularo/citation-verifier",
+      "discovery_id": "marissafamularo/citation-verifier",
+      "curated_ids": []
+    },
+    "https://github.com/reachjalil/jev-tree": {
+      "url": "https://github.com/reachjalil/jev-tree",
+      "discovery_id": "reachjalil/jev-tree",
+      "curated_ids": []
+    },
+    "https://github.com/sriganesh/jevibe-check": {
+      "url": "https://github.com/sriganesh/jevibe-check",
+      "discovery_id": "sriganesh/jevibe-check",
+      "curated_ids": []
+    },
+    "https://github.com/valentynkit/jev.nvim": {
+      "url": "https://github.com/valentynkit/jev.nvim",
+      "discovery_id": "valentynkit/jev.nvim",
+      "curated_ids": []
+    },
+    "https://github.com/webgrga/btc-jev-signal": {
+      "url": "https://github.com/WebGrga/btc-jev-signal",
+      "discovery_id": "webgrga/btc-jev-signal",
+      "curated_ids": []
+    },
+    "https://github.com/keltokhy/jlink": {
+      "url": "https://github.com/keltokhy/jlink",
+      "discovery_id": "keltokhy/jlink",
+      "curated_ids": []
+    },
+    "https://github.com/kylemclaren/jevpdf": {
+      "url": "https://github.com/kylemclaren/jevpdf",
+      "discovery_id": "kylemclaren/jevpdf",
+      "curated_ids": []
+    },
+    "https://github.com/ghrezakh74/jevticktrouter": {
+      "url": "https://github.com/GhrezaKh74/JevTicktRouter",
+      "discovery_id": "ghrezakh74/jevticktrouter",
+      "curated_ids": []
+    },
+    "https://github.com/jackalope-dev/jackalope": {
+      "url": "https://github.com/Jackalope-Dev/jackalope",
+      "discovery_id": "jackalope-dev/jackalope",
+      "curated_ids": []
+    },
+    "https://github.com/jtsang4/jev-cli": {
+      "url": "https://github.com/jtsang4/jev-cli",
+      "discovery_id": "jtsang4/jev-cli",
+      "curated_ids": []
+    },
+    "https://github.com/kitze/pagegrade": {
+      "url": "https://github.com/kitze/pagegrade",
+      "discovery_id": "kitze/pagegrade",
+      "curated_ids": []
+    },
+    "https://github.com/ntedvs/commentcop": {
+      "url": "https://github.com/ntedvs/commentcop",
+      "discovery_id": "ntedvs/commentcop",
+      "curated_ids": []
+    },
+    "https://github.com/qddegtya/qualm": {
+      "url": "https://github.com/qddegtya/qualm",
+      "discovery_id": "qddegtya/qualm",
+      "curated_ids": []
+    },
+    "https://github.com/santos-sanz/jev-audio-beeper": {
+      "url": "https://github.com/santos-sanz/jev-audio-beeper",
+      "discovery_id": "santos-sanz/jev-audio-beeper",
+      "curated_ids": []
+    },
+    "https://github.com/a-fig/jev-score": {
+      "url": "https://github.com/a-Fig/jev-score",
+      "discovery_id": "a-fig/jev-score",
+      "curated_ids": []
+    },
+    "https://github.com/ayush0054/metis": {
+      "url": "https://github.com/Ayush0054/metis",
+      "discovery_id": "ayush0054/metis",
+      "curated_ids": []
+    },
+    "https://github.com/youkiti/tiab-review-plugin": {
+      "url": "https://github.com/youkiti/tiab-review-plugin",
+      "discovery_id": "youkiti/tiab-review-plugin",
+      "curated_ids": []
+    },
+    "https://github.com/m0rphtail/triagedy": {
+      "url": "https://github.com/m0rphtail/triagedy",
+      "discovery_id": "m0rphtail/triagedy",
+      "curated_ids": []
+    },
+    "https://github.com/geeklinkdev/jev-subtitle-translator": {
+      "url": "https://github.com/GeekLinkDev/jev-subtitle-translator",
+      "discovery_id": "geeklinkdev/jev-subtitle-translator",
+      "curated_ids": []
+    },
+    "https://github.com/0xarx/jevegis": {
+      "url": "https://github.com/0xArx/jevegis",
+      "discovery_id": "0xarx/jevegis",
+      "curated_ids": []
+    },
+    "https://github.com/awun8191/jev-resume-analyzer": {
+      "url": "https://github.com/awun8191/jev-resume-analyzer",
+      "discovery_id": "awun8191/jev-resume-analyzer",
+      "curated_ids": []
+    },
+    "https://github.com/brandonbryant12/transcript-scorecard": {
+      "url": "https://github.com/brandonbryant12/transcript-scorecard",
+      "discovery_id": "brandonbryant12/transcript-scorecard",
+      "curated_ids": []
+    },
+    "https://github.com/colinmcdermott/emoji-jev": {
+      "url": "https://github.com/colinmcdermott/emoji-jev",
+      "discovery_id": "colinmcdermott/emoji-jev",
+      "curated_ids": []
+    },
+    "https://github.com/cpaczek/s1s": {
+      "url": "https://github.com/cpaczek/s1s",
+      "discovery_id": "cpaczek/s1s",
+      "curated_ids": []
+    },
+    "https://github.com/dujaydis/jevsysuno": {
+      "url": "https://github.com/Dujaydis/JevSysUno",
+      "discovery_id": "dujaydis/jevsysuno",
+      "curated_ids": []
+    },
+    "https://github.com/haibt163/jev": {
+      "url": "https://github.com/haibt163/jev",
+      "discovery_id": "haibt163/jev",
+      "curated_ids": []
+    },
+    "https://github.com/hemanth/pkg-gate": {
+      "url": "https://github.com/hemanth/pkg-gate",
+      "discovery_id": "hemanth/pkg-gate",
+      "curated_ids": []
+    },
+    "https://github.com/hexdigest123/typesafe-comment": {
+      "url": "https://github.com/Hexdigest123/typesafe-comment",
+      "discovery_id": "hexdigest123/typesafe-comment",
+      "curated_ids": []
+    },
+    "https://github.com/jxucoder/mimicry": {
+      "url": "https://github.com/jxucoder/mimicry",
+      "discovery_id": "jxucoder/mimicry",
+      "curated_ids": []
+    },
+    "https://github.com/mahynotch/newsscore": {
+      "url": "https://github.com/mahynotch/newsscore",
+      "discovery_id": "mahynotch/newsscore",
+      "curated_ids": []
+    },
+    "https://github.com/pekth/draftpulse": {
+      "url": "https://github.com/pekth/draftpulse",
+      "discovery_id": "pekth/draftpulse",
+      "curated_ids": []
+    },
+    "https://github.com/renatosousa/jev-trader": {
+      "url": "https://github.com/renatosousa/jev-trader",
+      "discovery_id": "renatosousa/jev-trader",
+      "curated_ids": []
+    },
+    "https://github.com/shivam2003-dev/typesafe-triage-guard": {
+      "url": "https://github.com/shivam2003-dev/typesafe-triage-guard",
+      "discovery_id": "shivam2003-dev/typesafe-triage-guard",
+      "curated_ids": []
+    },
+    "https://github.com/shupingr/scam-shield": {
+      "url": "https://github.com/ShupingR/scam-shield",
+      "discovery_id": "shupingr/scam-shield",
+      "curated_ids": []
+    },
+    "https://github.com/spykoninho/trading-bot-jev": {
+      "url": "https://github.com/Spykoninho/trading-bot-jev",
+      "discovery_id": "spykoninho/trading-bot-jev",
+      "curated_ids": []
+    },
+    "https://github.com/tky-27/jevslop": {
+      "url": "https://github.com/TKY-27/JevSlop",
+      "discovery_id": "tky-27/jevslop",
+      "curated_ids": []
+    },
+    "https://github.com/yutkat/github-star-organizer-jev": {
+      "url": "https://github.com/yutkat/github-star-organizer-jev",
+      "discovery_id": "yutkat/github-star-organizer-jev",
+      "curated_ids": []
+    },
+    "https://github.com/kylehovance-ai/jev-the-janitor": {
+      "url": "https://github.com/kylehovance-ai/jev-the-janitor",
+      "discovery_id": "kylehovance-ai/jev-the-janitor",
+      "curated_ids": []
+    },
+    "https://github.com/lirantal/discoprint": {
+      "url": "https://github.com/lirantal/discoprint",
+      "discovery_id": "lirantal/discoprint",
+      "curated_ids": []
+    },
+    "https://github.com/cwdx/1-million-emojis": {
+      "url": "https://github.com/cwdx/1-million-emojis",
+      "discovery_id": "cwdx/1-million-emojis",
+      "curated_ids": []
+    },
+    "https://github.com/deploymates/jev-seo": {
+      "url": "https://github.com/DeployMates/jev-seo",
+      "discovery_id": "deploymates/jev-seo",
+      "curated_ids": []
+    },
+    "https://github.com/fhshaik/typesafe-mario": {
+      "url": "https://github.com/fhshaik/typesafe-mario",
+      "discovery_id": "fhshaik/typesafe-mario",
+      "curated_ids": []
+    },
+    "https://github.com/rokbenko/quackd": {
+      "url": "https://github.com/rokbenko/quackd",
+      "discovery_id": "rokbenko/quackd",
+      "curated_ids": []
+    },
+    "https://github.com/fbddcz/embodied-jev": {
+      "url": "https://github.com/FBddcz/embodied-jev",
+      "discovery_id": "fbddcz/embodied-jev",
+      "curated_ids": []
+    },
+    "https://github.com/imikerussell/beebots": {
+      "url": "https://github.com/imikerussell/beebots",
+      "discovery_id": "imikerussell/beebots",
+      "curated_ids": []
+    },
+    "https://github.com/virajbhartiya/laya-vs-jev": {
+      "url": "https://github.com/virajbhartiya/laya-vs-jev",
+      "discovery_id": "virajbhartiya/laya-vs-jev",
+      "curated_ids": []
+    },
+    "https://github.com/christianmat/jev-pokemon": {
+      "url": "https://github.com/christianmat/jev-pokemon",
+      "discovery_id": "christianmat/jev-pokemon",
+      "curated_ids": []
+    },
+    "https://github.com/romanslack/jev-drone": {
+      "url": "https://github.com/RomanSlack/jev-drone",
+      "discovery_id": "romanslack/jev-drone",
+      "curated_ids": []
+    },
+    "https://github.com/baba88611/detroit-ai-player": {
+      "url": "https://github.com/Baba88611/detroit-ai-player",
+      "discovery_id": "baba88611/detroit-ai-player",
+      "curated_ids": []
+    },
+    "https://github.com/dimweaker/jev-libero": {
+      "url": "https://github.com/Dimweaker/jev-libero",
+      "discovery_id": "dimweaker/jev-libero",
+      "curated_ids": []
+    },
+    "https://github.com/openroboto-ai/jev-robot-control": {
+      "url": "https://github.com/openroboto-ai/jev-robot-control",
+      "discovery_id": "openroboto-ai/jev-robot-control",
+      "curated_ids": []
+    },
+    "https://github.com/lykycy123/robojev": {
+      "url": "https://github.com/lykycy123/RoboJEV",
+      "discovery_id": "lykycy123/robojev",
+      "curated_ids": []
+    },
+    "https://github.com/yuankjing/jev-as-policy": {
+      "url": "https://github.com/YuanKJing/Jev-as-Policy",
+      "discovery_id": "yuankjing/jev-as-policy",
+      "curated_ids": []
+    },
+    "https://github.com/sc2musa/jev_star": {
+      "url": "https://github.com/sc2musa/Jev_Star",
+      "discovery_id": "sc2musa/jev_star",
+      "curated_ids": []
+    },
+    "https://github.com/bytelabs-oss/clash-jev": {
+      "url": "https://github.com/bytelabs-oss/clash-jev",
+      "discovery_id": "bytelabs-oss/clash-jev",
+      "curated_ids": []
+    },
+    "https://github.com/omnijev/playjev": {
+      "url": "https://github.com/OmniJev/PlayJev",
+      "discovery_id": "omnijev/playjev",
+      "curated_ids": [
+        "playjev"
+      ]
+    },
+    "https://github.com/promptengineer48/laya-vs-jev-arena": {
+      "url": "https://github.com/PromptEngineer48/laya-vs-jev-arena",
+      "discovery_id": "promptengineer48/laya-vs-jev-arena",
+      "curated_ids": []
+    },
+    "https://github.com/yuebit/robodiag-harness": {
+      "url": "https://github.com/YueBit/robodiag-harness",
+      "discovery_id": "yuebit/robodiag-harness",
+      "curated_ids": []
+    },
+    "https://github.com/sorrycc/typesafe-snake": {
+      "url": "https://github.com/sorrycc/typesafe-snake",
+      "discovery_id": "sorrycc/typesafe-snake",
+      "curated_ids": []
+    },
+    "https://github.com/khordoo/jev-reflex-autonomy-lab": {
+      "url": "https://github.com/khordoo/jev-reflex-autonomy-lab",
+      "discovery_id": "khordoo/jev-reflex-autonomy-lab",
+      "curated_ids": []
+    },
+    "https://github.com/phyous/tsai-sc": {
+      "url": "https://github.com/phyous/tsai-sc",
+      "discovery_id": "phyous/tsai-sc",
+      "curated_ids": []
+    },
+    "https://github.com/shantanugoel/mario-jev": {
+      "url": "https://github.com/shantanugoel/mario-jev",
+      "discovery_id": "shantanugoel/mario-jev",
+      "curated_ids": []
+    },
+    "https://github.com/nevamind-ai/jevtown": {
+      "url": "https://github.com/NevaMind-AI/JevTown",
+      "discovery_id": "nevamind-ai/jevtown",
+      "curated_ids": []
+    },
+    "https://github.com/kavehmz/typesafe-playground": {
+      "url": "https://github.com/kavehmz/typesafe-playground",
+      "discovery_id": "kavehmz/typesafe-playground",
+      "curated_ids": []
+    },
+    "https://github.com/abdelstark/heist-one": {
+      "url": "https://github.com/AbdelStark/heist-one",
+      "discovery_id": "abdelstark/heist-one",
+      "curated_ids": []
+    },
+    "https://github.com/emrickgarrett/onevonejev": {
+      "url": "https://github.com/emrickgarrett/OneVOneJev",
+      "discovery_id": "emrickgarrett/onevonejev",
+      "curated_ids": []
+    },
+    "https://github.com/reinhard-z/vision-jev": {
+      "url": "https://github.com/reinhard-z/vision-jev",
+      "discovery_id": "reinhard-z/vision-jev",
+      "curated_ids": []
+    },
+    "https://github.com/lukaske/jev-doom-agent": {
+      "url": "https://github.com/lukaske/jev-doom-agent",
+      "discovery_id": "lukaske/jev-doom-agent",
+      "curated_ids": []
+    },
+    "https://github.com/milanboers/jev-plays-pokemon": {
+      "url": "https://github.com/milanboers/jev-plays-pokemon",
+      "discovery_id": "milanboers/jev-plays-pokemon",
+      "curated_ids": []
+    },
+    "https://github.com/taruntomar122/jev-askable-arm": {
+      "url": "https://github.com/TarunTomar122/jev-askable-arm",
+      "discovery_id": "taruntomar122/jev-askable-arm",
+      "curated_ids": []
+    },
+    "https://github.com/amrit-nigam/jev-royal": {
+      "url": "https://github.com/Amrit-Nigam/jev-royal",
+      "discovery_id": "amrit-nigam/jev-royal",
+      "curated_ids": []
+    },
+    "https://github.com/jammaru/jev-lab": {
+      "url": "https://github.com/jammaru/jev-lab",
+      "discovery_id": "jammaru/jev-lab",
+      "curated_ids": []
+    },
+    "https://github.com/valentynkit/jev-plays-pokemon-red": {
+      "url": "https://github.com/valentynkit/jev-plays-pokemon-red",
+      "discovery_id": "valentynkit/jev-plays-pokemon-red",
+      "curated_ids": []
+    },
+    "https://github.com/0xtrou/rubikjev": {
+      "url": "https://github.com/0xtrou/rubikjev",
+      "discovery_id": "0xtrou/rubikjev",
+      "curated_ids": []
+    },
+    "https://github.com/grmkris/robo-harness": {
+      "url": "https://github.com/grmkris/robo-harness",
+      "discovery_id": "grmkris/robo-harness",
+      "curated_ids": []
+    },
+    "https://github.com/kylekreuter/jev2048": {
+      "url": "https://github.com/KyleKreuter/jev2048",
+      "discovery_id": "kylekreuter/jev2048",
+      "curated_ids": []
+    },
+    "https://github.com/phyous/tsai-civ2": {
+      "url": "https://github.com/phyous/tsai-civ2",
+      "discovery_id": "phyous/tsai-civ2",
+      "curated_ids": []
+    },
+    "https://github.com/xiechengyuan/jev-gomoku": {
+      "url": "https://github.com/XieChengYuan/jev-gomoku",
+      "discovery_id": "xiechengyuan/jev-gomoku",
+      "curated_ids": []
+    },
+    "https://github.com/0x963d/last-exit": {
+      "url": "https://github.com/0x963D/last-exit",
+      "discovery_id": "0x963d/last-exit",
+      "curated_ids": []
+    },
+    "https://github.com/ably-labs/jev-pong": {
+      "url": "https://github.com/ably-labs/jev-pong",
+      "discovery_id": "ably-labs/jev-pong",
+      "curated_ids": []
+    },
+    "https://github.com/ashaazami/river-run-typesafe": {
+      "url": "https://github.com/ashaazami/river-run-typesafe",
+      "discovery_id": "ashaazami/river-run-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/bunsdev/river-oaks": {
+      "url": "https://github.com/BunsDev/river-oaks",
+      "discovery_id": "bunsdev/river-oaks",
+      "curated_ids": []
+    },
+    "https://github.com/ellistev/typesafe-minecraft-demo": {
+      "url": "https://github.com/ellistev/typesafe-minecraft-demo",
+      "discovery_id": "ellistev/typesafe-minecraft-demo",
+      "curated_ids": []
+    },
+    "https://github.com/hardel-dw/jev.mods": {
+      "url": "https://github.com/Hardel-DW/jev.mods",
+      "discovery_id": "hardel-dw/jev.mods",
+      "curated_ids": []
+    },
+    "https://github.com/iammusham/jev-snake": {
+      "url": "https://github.com/iammusham/jev-snake",
+      "discovery_id": "iammusham/jev-snake",
+      "curated_ids": []
+    },
+    "https://github.com/icohen007/jev-play-ping-pong": {
+      "url": "https://github.com/Icohen007/jev-play-ping-pong",
+      "discovery_id": "icohen007/jev-play-ping-pong",
+      "curated_ids": []
+    },
+    "https://github.com/joshlarsen/jev-t-rex-runner": {
+      "url": "https://github.com/joshlarsen/jev-t-rex-runner",
+      "discovery_id": "joshlarsen/jev-t-rex-runner",
+      "curated_ids": []
+    },
+    "https://github.com/juancamiloqhz/roverlab": {
+      "url": "https://github.com/juancamiloqhz/roverlab",
+      "discovery_id": "juancamiloqhz/roverlab",
+      "curated_ids": []
+    },
+    "https://github.com/komikat/jev-bfs": {
+      "url": "https://github.com/komikat/jev-bfs",
+      "discovery_id": "komikat/jev-bfs",
+      "curated_ids": []
+    },
+    "https://github.com/kxzk/typesafe-jev-drone-demo": {
+      "url": "https://github.com/kxzk/typesafe-jev-drone-demo",
+      "discovery_id": "kxzk/typesafe-jev-drone-demo",
+      "curated_ids": []
+    },
+    "https://github.com/lambertsj/beatjev": {
+      "url": "https://github.com/lambertsj/beatjev",
+      "discovery_id": "lambertsj/beatjev",
+      "curated_ids": []
+    },
+    "https://github.com/machinelearning-nerd/jev-tetris": {
+      "url": "https://github.com/MachineLearning-Nerd/jev-tetris",
+      "discovery_id": "machinelearning-nerd/jev-tetris",
+      "curated_ids": []
+    },
+    "https://github.com/malduffin/typesafe-3d-chess": {
+      "url": "https://github.com/malDuffin/typesafe-3d-chess",
+      "discovery_id": "malduffin/typesafe-3d-chess",
+      "curated_ids": []
+    },
+    "https://github.com/martinpuli/f1": {
+      "url": "https://github.com/MartinPuli/f1",
+      "discovery_id": "martinpuli/f1",
+      "curated_ids": []
+    },
+    "https://github.com/memorysaver/jev-atari-lab": {
+      "url": "https://github.com/memorysaver/jev-atari-lab",
+      "discovery_id": "memorysaver/jev-atari-lab",
+      "curated_ids": []
+    },
+    "https://github.com/mizchi/jev-gomoku": {
+      "url": "https://github.com/mizchi/jev-gomoku",
+      "discovery_id": "mizchi/jev-gomoku",
+      "curated_ids": []
+    },
+    "https://github.com/mocchalera/naimono-lab": {
+      "url": "https://github.com/mocchalera/naimono-lab",
+      "discovery_id": "mocchalera/naimono-lab",
+      "curated_ids": []
+    },
+    "https://github.com/ojusave/beat-jev": {
+      "url": "https://github.com/ojusave/beat-jev",
+      "discovery_id": "ojusave/beat-jev",
+      "curated_ids": []
+    },
+    "https://github.com/onionminionops-beep/pdoom-protocol": {
+      "url": "https://github.com/onionminionops-beep/pdoom-protocol",
+      "discovery_id": "onionminionops-beep/pdoom-protocol",
+      "curated_ids": []
+    },
+    "https://github.com/opaielsheikh/ps2-ai-agent": {
+      "url": "https://github.com/opaielsheikh/ps2-ai-agent",
+      "discovery_id": "opaielsheikh/ps2-ai-agent",
+      "curated_ids": []
+    },
+    "https://github.com/para-fr/casse-brique-typesafe": {
+      "url": "https://github.com/Para-FR/casse-brique-typesafe",
+      "discovery_id": "para-fr/casse-brique-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/rchovatiya88/cyber-breach-jev": {
+      "url": "https://github.com/rchovatiya88/cyber-breach-jev",
+      "discovery_id": "rchovatiya88/cyber-breach-jev",
+      "curated_ids": []
+    },
+    "https://github.com/rolki-png/jevarena": {
+      "url": "https://github.com/rolki-png/JevArena",
+      "discovery_id": "rolki-png/jevarena",
+      "curated_ids": []
+    },
+    "https://github.com/safzanpirani/pong-jev": {
+      "url": "https://github.com/safzanpirani/pong-jev",
+      "discovery_id": "safzanpirani/pong-jev",
+      "curated_ids": []
+    },
+    "https://github.com/shantanugoel/jev-games": {
+      "url": "https://github.com/shantanugoel/jev-games",
+      "discovery_id": "shantanugoel/jev-games",
+      "curated_ids": []
+    },
+    "https://github.com/siroccomask/snake-jev": {
+      "url": "https://github.com/siroccomask/snake-jev",
+      "discovery_id": "siroccomask/snake-jev",
+      "curated_ids": []
+    },
+    "https://github.com/thegali/terrarium": {
+      "url": "https://github.com/TheGali/terrarium",
+      "discovery_id": "thegali/terrarium",
+      "curated_ids": []
+    },
+    "https://github.com/tholeg/typesafe-chess": {
+      "url": "https://github.com/TholeG/typesafe-chess",
+      "discovery_id": "tholeg/typesafe-chess",
+      "curated_ids": []
+    },
+    "https://github.com/tpaulshippy/shady-town": {
+      "url": "https://github.com/tpaulshippy/shady-town",
+      "discovery_id": "tpaulshippy/shady-town",
+      "curated_ids": []
+    },
+    "https://github.com/vnmoorthy/siege": {
+      "url": "https://github.com/vnmoorthy/siege",
+      "discovery_id": "vnmoorthy/siege",
+      "curated_ids": []
+    },
+    "https://github.com/yasserbhb/agent-jev-tetris": {
+      "url": "https://github.com/Yasserbhb/Agent-JEV-Tetris",
+      "discovery_id": "yasserbhb/agent-jev-tetris",
+      "curated_ids": []
+    },
+    "https://github.com/zbloss/jev-plays-pokemon": {
+      "url": "https://github.com/zbloss/jev-plays-pokemon",
+      "discovery_id": "zbloss/jev-plays-pokemon",
+      "curated_ids": []
+    },
+    "https://github.com/0xlau/jev-rps": {
+      "url": "https://github.com/0xlau/jev-rps",
+      "discovery_id": "0xlau/jev-rps",
+      "curated_ids": []
+    },
+    "https://github.com/arcj137442/jev-life": {
+      "url": "https://github.com/ARCJ137442/jev-life",
+      "discovery_id": "arcj137442/jev-life",
+      "curated_ids": []
+    },
+    "https://github.com/f/jev-leftpad": {
+      "url": "https://github.com/f/jev-leftpad",
+      "discovery_id": "f/jev-leftpad",
+      "curated_ids": []
+    },
+    "https://github.com/achimala/jev-paint": {
+      "url": "https://github.com/achimala/jev-paint",
+      "discovery_id": "achimala/jev-paint",
+      "curated_ids": []
+    },
+    "https://github.com/andududu/jeview": {
+      "url": "https://github.com/andududu/jeview",
+      "discovery_id": "andududu/jeview",
+      "curated_ids": []
+    },
+    "https://github.com/davila7/jev-explained": {
+      "url": "https://github.com/davila7/jev-explained",
+      "discovery_id": "davila7/jev-explained",
+      "curated_ids": []
+    },
+    "https://github.com/karminski/jev-quantum": {
+      "url": "https://github.com/karminski/Jev-Quantum",
+      "discovery_id": "karminski/jev-quantum",
+      "curated_ids": []
+    },
+    "https://github.com/wobsoriano/is-jeven": {
+      "url": "https://github.com/wobsoriano/is-jeven",
+      "discovery_id": "wobsoriano/is-jeven",
+      "curated_ids": []
+    },
+    "https://github.com/bhaig-de/jev-design-test": {
+      "url": "https://github.com/bhaiG-de/jev-design-test",
+      "discovery_id": "bhaig-de/jev-design-test",
+      "curated_ids": []
+    },
+    "https://github.com/monteduro/killmyidea": {
+      "url": "https://github.com/monteduro/killmyidea",
+      "discovery_id": "monteduro/killmyidea",
+      "curated_ids": []
+    },
+    "https://github.com/zszz3/pi-jev-guide": {
+      "url": "https://github.com/zszz3/Pi-Jev-Guide",
+      "discovery_id": "zszz3/pi-jev-guide",
+      "curated_ids": []
+    },
+    "https://github.com/typesafeai/typesafe-playground": {
+      "url": "https://github.com/TypeSafeAI/typesafe-playground",
+      "discovery_id": "typesafeai/typesafe-playground",
+      "curated_ids": []
+    },
+    "https://github.com/mayank953/jev": {
+      "url": "https://github.com/mayank953/Jev",
+      "discovery_id": "mayank953/jev",
+      "curated_ids": []
+    },
+    "https://github.com/utk2103/jev-studio": {
+      "url": "https://github.com/utk2103/jev-studio",
+      "discovery_id": "utk2103/jev-studio",
+      "curated_ids": []
+    },
+    "https://github.com/bunsdev/typesafe-ai-playground": {
+      "url": "https://github.com/BunsDev/typesafe-ai-playground",
+      "discovery_id": "bunsdev/typesafe-ai-playground",
+      "curated_ids": []
+    },
+    "https://github.com/sandeco/pix-golpe": {
+      "url": "https://github.com/sandeco/pix-golpe",
+      "discovery_id": "sandeco/pix-golpe",
+      "curated_ids": []
+    },
+    "https://github.com/lyramakesmusic/jevbot": {
+      "url": "https://github.com/lyramakesmusic/jevbot",
+      "discovery_id": "lyramakesmusic/jevbot",
+      "curated_ids": []
+    },
+    "https://github.com/jon-devlapaz/jev-me": {
+      "url": "https://github.com/jon-devlapaz/jev-me",
+      "discovery_id": "jon-devlapaz/jev-me",
+      "curated_ids": []
+    },
+    "https://github.com/whyashthakker/awesome-jev-use-cases": {
+      "url": "https://github.com/whyashthakker/awesome-jev-use-cases",
+      "discovery_id": "whyashthakker/awesome-jev-use-cases",
+      "curated_ids": []
+    },
+    "https://github.com/earlyaidopters/away-together-starter": {
+      "url": "https://github.com/earlyaidopters/away-together-starter",
+      "discovery_id": "earlyaidopters/away-together-starter",
+      "curated_ids": []
+    },
+    "https://github.com/joevidev/ui-generator-instinct-jev": {
+      "url": "https://github.com/joevidev/ui-generator-instinct-jev",
+      "discovery_id": "joevidev/ui-generator-instinct-jev",
+      "curated_ids": []
+    },
+    "https://github.com/sugarforever/tryjev": {
+      "url": "https://github.com/sugarforever/tryjev",
+      "discovery_id": "sugarforever/tryjev",
+      "curated_ids": []
+    },
+    "https://github.com/arielweinberger/jev-autopilot": {
+      "url": "https://github.com/arielweinberger/jev-autopilot",
+      "discovery_id": "arielweinberger/jev-autopilot",
+      "curated_ids": []
+    },
+    "https://github.com/nickthompson480/typesafe-ai-playground": {
+      "url": "https://github.com/nickthompson480/typesafe-ai-playground",
+      "discovery_id": "nickthompson480/typesafe-ai-playground",
+      "curated_ids": []
+    },
+    "https://github.com/bunsdev/clarity-judge": {
+      "url": "https://github.com/BunsDev/clarity-judge",
+      "discovery_id": "bunsdev/clarity-judge",
+      "curated_ids": []
+    },
+    "https://github.com/haseeb-heaven/jev-system-one": {
+      "url": "https://github.com/haseeb-heaven/jev-system-one",
+      "discovery_id": "haseeb-heaven/jev-system-one",
+      "curated_ids": []
+    },
+    "https://github.com/hellogumbo/should-ai-kill-us-all": {
+      "url": "https://github.com/hellogumbo/should-ai-kill-us-all",
+      "discovery_id": "hellogumbo/should-ai-kill-us-all",
+      "curated_ids": []
+    },
+    "https://github.com/deepbluedynamics/typesafe-arena": {
+      "url": "https://github.com/DeepBlueDynamics/typesafe-arena",
+      "discovery_id": "deepbluedynamics/typesafe-arena",
+      "curated_ids": []
+    },
+    "https://github.com/little-planet-labs/jev-playground": {
+      "url": "https://github.com/Little-Planet-Labs/jev-playground",
+      "discovery_id": "little-planet-labs/jev-playground",
+      "curated_ids": []
+    },
+    "https://github.com/markjaquith/typesafe-ai-playground": {
+      "url": "https://github.com/markjaquith/typesafe-ai-playground",
+      "discovery_id": "markjaquith/typesafe-ai-playground",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/toolgate": {
+      "url": "https://github.com/ndolinschi/toolgate",
+      "discovery_id": "ndolinschi/toolgate",
+      "curated_ids": []
+    },
+    "https://github.com/norbertbodziony/guard-jev": {
+      "url": "https://github.com/NorbertBodziony/guard-jev",
+      "discovery_id": "norbertbodziony/guard-jev",
+      "curated_ids": []
+    },
+    "https://github.com/phureewat29/got-jev": {
+      "url": "https://github.com/phureewat29/got-jev",
+      "discovery_id": "phureewat29/got-jev",
+      "curated_ids": []
+    },
+    "https://github.com/tanaypadar/gpt-vs-jev": {
+      "url": "https://github.com/TanayPadar/gpt-vs-jev",
+      "discovery_id": "tanaypadar/gpt-vs-jev",
+      "curated_ids": []
+    },
+    "https://github.com/tylerjharden/harden-jev-decides": {
+      "url": "https://github.com/tylerjharden/harden-jev-decides",
+      "discovery_id": "tylerjharden/harden-jev-decides",
+      "curated_ids": []
+    },
+    "https://github.com/reallyartificial/jev-by-example": {
+      "url": "https://github.com/ReallyArtificial/jev-by-example",
+      "discovery_id": "reallyartificial/jev-by-example",
+      "curated_ids": []
+    },
+    "https://github.com/asfarsadewa/human-compiler": {
+      "url": "https://github.com/asfarsadewa/human-compiler",
+      "discovery_id": "asfarsadewa/human-compiler",
+      "curated_ids": []
+    },
+    "https://github.com/bud-ro/jev-demos": {
+      "url": "https://github.com/Bud-ro/jev-demos",
+      "discovery_id": "bud-ro/jev-demos",
+      "curated_ids": []
+    },
+    "https://github.com/cardotrejos/jev-ad-preflight": {
+      "url": "https://github.com/cardotrejos/jev-ad-preflight",
+      "discovery_id": "cardotrejos/jev-ad-preflight",
+      "curated_ids": []
+    },
+    "https://github.com/cardotrejos/jev-should-i-apply": {
+      "url": "https://github.com/cardotrejos/jev-should-i-apply",
+      "discovery_id": "cardotrejos/jev-should-i-apply",
+      "curated_ids": []
+    },
+    "https://github.com/cardotrejos/jev-user-jury": {
+      "url": "https://github.com/cardotrejos/jev-user-jury",
+      "discovery_id": "cardotrejos/jev-user-jury",
+      "curated_ids": []
+    },
+    "https://github.com/cbetz/extremely-specific-council": {
+      "url": "https://github.com/cbetz/extremely-specific-council",
+      "discovery_id": "cbetz/extremely-specific-council",
+      "curated_ids": []
+    },
+    "https://github.com/heiwa4126/jev-bun1": {
+      "url": "https://github.com/heiwa4126/jev-bun1",
+      "discovery_id": "heiwa4126/jev-bun1",
+      "curated_ids": []
+    },
+    "https://github.com/jacoblincool/jev-paper-judge": {
+      "url": "https://github.com/JacobLinCool/jev-paper-judge",
+      "discovery_id": "jacoblincool/jev-paper-judge",
+      "curated_ids": []
+    },
+    "https://github.com/jordiparracrespo/typesafe-ai-trading-showcase": {
+      "url": "https://github.com/JordiParraCrespo/typesafe-ai-trading-showcase",
+      "discovery_id": "jordiparracrespo/typesafe-ai-trading-showcase",
+      "curated_ids": []
+    },
+    "https://github.com/karimatayuta/tiny-jev": {
+      "url": "https://github.com/karimatayuta/tiny-jev",
+      "discovery_id": "karimatayuta/tiny-jev",
+      "curated_ids": []
+    },
+    "https://github.com/lamplighterpaul/forma-system1-experiment": {
+      "url": "https://github.com/LamplighterPaul/forma-system1-experiment",
+      "discovery_id": "lamplighterpaul/forma-system1-experiment",
+      "curated_ids": []
+    },
+    "https://github.com/n-yokomachi/jev-dev": {
+      "url": "https://github.com/n-yokomachi/jev-dev",
+      "discovery_id": "n-yokomachi/jev-dev",
+      "curated_ids": []
+    },
+    "https://github.com/narulaskaran/jev-data-questions": {
+      "url": "https://github.com/narulaskaran/jev-data-questions",
+      "discovery_id": "narulaskaran/jev-data-questions",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/cartshield": {
+      "url": "https://github.com/ndolinschi/cartshield",
+      "discovery_id": "ndolinschi/cartshield",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/harnessjudge": {
+      "url": "https://github.com/ndolinschi/harnessjudge",
+      "discovery_id": "ndolinschi/harnessjudge",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/hiresignal": {
+      "url": "https://github.com/ndolinschi/hiresignal",
+      "discovery_id": "ndolinschi/hiresignal",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/jevplay": {
+      "url": "https://github.com/ndolinschi/jevplay",
+      "discovery_id": "ndolinschi/jevplay",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/lanebreak": {
+      "url": "https://github.com/ndolinschi/lanebreak",
+      "discovery_id": "ndolinschi/lanebreak",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/mcpmatch": {
+      "url": "https://github.com/ndolinschi/mcpmatch",
+      "discovery_id": "ndolinschi/mcpmatch",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/pulselane": {
+      "url": "https://github.com/ndolinschi/pulselane",
+      "discovery_id": "ndolinschi/pulselane",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/spendbrake": {
+      "url": "https://github.com/ndolinschi/spendbrake",
+      "discovery_id": "ndolinschi/spendbrake",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/swarmrouter": {
+      "url": "https://github.com/ndolinschi/swarmrouter",
+      "discovery_id": "ndolinschi/swarmrouter",
+      "curated_ids": []
+    },
+    "https://github.com/ndolinschi/trustgate": {
+      "url": "https://github.com/ndolinschi/trustgate",
+      "discovery_id": "ndolinschi/trustgate",
+      "curated_ids": []
+    },
+    "https://github.com/rajivkuriakose/typesafe-jev-examples": {
+      "url": "https://github.com/rajivkuriakose/typesafe-jev-examples",
+      "discovery_id": "rajivkuriakose/typesafe-jev-examples",
+      "curated_ids": []
+    },
+    "https://github.com/shifros/search-function-test": {
+      "url": "https://github.com/Shifros/Search-Function-Test",
+      "discovery_id": "shifros/search-function-test",
+      "curated_ids": []
+    },
+    "https://github.com/webgrga/jev-board-lab": {
+      "url": "https://github.com/WebGrga/jev-board-lab",
+      "discovery_id": "webgrga/jev-board-lab",
+      "curated_ids": []
+    },
+    "https://github.com/wesecureyou/jev-test": {
+      "url": "https://github.com/WeSecureYou/Jev-test",
+      "discovery_id": "wesecureyou/jev-test",
+      "curated_ids": []
+    },
+    "https://github.com/wizhill05/typesafe-image-diffusion": {
+      "url": "https://github.com/Wizhill05/typesafe-image-diffusion",
+      "discovery_id": "wizhill05/typesafe-image-diffusion",
+      "curated_ids": []
+    },
+    "https://github.com/wustep/jev-playground": {
+      "url": "https://github.com/wustep/jev-playground",
+      "discovery_id": "wustep/jev-playground",
+      "curated_ids": []
+    },
+    "https://github.com/pc418/jev-calculator": {
+      "url": "https://github.com/pc418/jev-calculator",
+      "discovery_id": "pc418/jev-calculator",
+      "curated_ids": []
+    },
+    "https://github.com/mikecann/magic-jev-ball": {
+      "url": "https://github.com/mikecann/magic-jev-ball",
+      "discovery_id": "mikecann/magic-jev-ball",
+      "curated_ids": []
+    },
+    "https://github.com/netcode001/jev": {
+      "url": "https://github.com/netcode001/jev",
+      "discovery_id": "netcode001/jev",
+      "curated_ids": []
+    },
+    "https://github.com/tianyucodings/nanojev": {
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "discovery_id": "tianyucodings/nanojev",
+      "curated_ids": [
+        "nanojev"
+      ]
+    },
+    "https://github.com/vinnylarouge/jevlike": {
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "discovery_id": "vinnylarouge/jevlike",
+      "curated_ids": []
+    },
+    "https://github.com/sregym/sregym": {
+      "url": "https://github.com/SREGym/SREGym",
+      "discovery_id": "sregym/sregym",
+      "curated_ids": []
+    },
+    "https://github.com/sutro-sh/jev-align": {
+      "url": "https://github.com/sutro-sh/jev-align",
+      "discovery_id": "sutro-sh/jev-align",
+      "curated_ids": []
+    },
+    "https://github.com/sileod/tasksource": {
+      "url": "https://github.com/sileod/tasksource",
+      "discovery_id": "sileod/tasksource",
+      "curated_ids": []
+    },
+    "https://github.com/hr98w/jev-visual": {
+      "url": "https://github.com/hr98w/jev-visual",
+      "discovery_id": "hr98w/jev-visual",
+      "curated_ids": [
+        "jev-visual-mlx"
+      ]
+    },
+    "https://github.com/get-convex/convex-evals": {
+      "url": "https://github.com/get-convex/convex-evals",
+      "discovery_id": "get-convex/convex-evals",
+      "curated_ids": []
+    },
+    "https://github.com/mapika/decider": {
+      "url": "https://github.com/Mapika/decider",
+      "discovery_id": "mapika/decider",
+      "curated_ids": [
+        "mapika-decider"
+      ]
+    },
+    "https://github.com/nanmicoder/jev-arena": {
+      "url": "https://github.com/NanmiCoder/jev-arena",
+      "discovery_id": "nanmicoder/jev-arena",
+      "curated_ids": []
+    },
+    "https://github.com/vinilana/jev-eval-agent": {
+      "url": "https://github.com/vinilana/jev-eval-agent",
+      "discovery_id": "vinilana/jev-eval-agent",
+      "curated_ids": []
+    },
+    "https://github.com/kshetrajna12/reflex": {
+      "url": "https://github.com/kshetrajna12/reflex",
+      "discovery_id": "kshetrajna12/reflex",
+      "curated_ids": []
+    },
+    "https://github.com/nekuda-ai/windtunnel": {
+      "url": "https://github.com/nekuda-ai/WindTunnel",
+      "discovery_id": "nekuda-ai/windtunnel",
+      "curated_ids": []
+    },
+    "https://github.com/fstandhartinger/jevbench": {
+      "url": "https://github.com/fstandhartinger/jevbench",
+      "discovery_id": "fstandhartinger/jevbench",
+      "curated_ids": []
+    },
+    "https://github.com/daseinlabs/open-jev": {
+      "url": "https://github.com/daseinlabs/open-jev",
+      "discovery_id": "daseinlabs/open-jev",
+      "curated_ids": []
+    },
+    "https://github.com/renagao/jev-dataops": {
+      "url": "https://github.com/RenaGao/jev-dataops",
+      "discovery_id": "renagao/jev-dataops",
+      "curated_ids": []
+    },
+    "https://github.com/bnsd55/jevmlx": {
+      "url": "https://github.com/bnsd55/jevmlx",
+      "discovery_id": "bnsd55/jevmlx",
+      "curated_ids": []
+    },
+    "https://github.com/iammrduncan/typesafe-ai-benchmark": {
+      "url": "https://github.com/iammrduncan/typesafe-ai-benchmark",
+      "discovery_id": "iammrduncan/typesafe-ai-benchmark",
+      "curated_ids": []
+    },
+    "https://github.com/smkrv/jev-calibrate": {
+      "url": "https://github.com/smkrv/jev-calibrate",
+      "discovery_id": "smkrv/jev-calibrate",
+      "curated_ids": []
+    },
+    "https://github.com/heman10x-ngu/verdict-open-jev": {
+      "url": "https://github.com/Heman10x-NGU/Verdict-open-jev",
+      "discovery_id": "heman10x-ngu/verdict-open-jev",
+      "curated_ids": []
+    },
+    "https://github.com/r-ms/mini-jev": {
+      "url": "https://github.com/r-ms/mini-jev",
+      "discovery_id": "r-ms/mini-jev",
+      "curated_ids": []
+    },
+    "https://github.com/zaious/jev-capability-atlas": {
+      "url": "https://github.com/Zaious/jev-capability-atlas",
+      "discovery_id": "zaious/jev-capability-atlas",
+      "curated_ids": []
+    },
+    "https://github.com/zhengxuyu/litjev": {
+      "url": "https://github.com/zhengxuyu/litjev",
+      "discovery_id": "zhengxuyu/litjev",
+      "curated_ids": []
+    },
+    "https://github.com/rorshopping/jev-on-a-laptop": {
+      "url": "https://github.com/rorshopping/jev-on-a-laptop",
+      "discovery_id": "rorshopping/jev-on-a-laptop",
+      "curated_ids": []
+    },
+    "https://github.com/goodrahstar/jev-column-race": {
+      "url": "https://github.com/goodrahstar/jev-column-race",
+      "discovery_id": "goodrahstar/jev-column-race",
+      "curated_ids": []
+    },
+    "https://github.com/ikermoel/open-alternative-jev": {
+      "url": "https://github.com/ikermoel/open-alternative-jev",
+      "discovery_id": "ikermoel/open-alternative-jev",
+      "curated_ids": []
+    },
+    "https://github.com/zhihz/openjev": {
+      "url": "https://github.com/zhihz/openjev",
+      "discovery_id": "zhihz/openjev",
+      "curated_ids": []
+    },
+    "https://github.com/rlaope/jeval": {
+      "url": "https://github.com/rlaope/jeval",
+      "discovery_id": "rlaope/jeval",
+      "curated_ids": []
+    },
+    "https://github.com/sgoedecke/system-one": {
+      "url": "https://github.com/sgoedecke/system-one",
+      "discovery_id": "sgoedecke/system-one",
+      "curated_ids": []
+    },
+    "https://github.com/erendikmenn/jev-rag-benchmark": {
+      "url": "https://github.com/erendikmenn/jev-rag-benchmark",
+      "discovery_id": "erendikmenn/jev-rag-benchmark",
+      "curated_ids": []
+    },
+    "https://github.com/mithalouni/system-one-open": {
+      "url": "https://github.com/mithalouni/system-one-open",
+      "discovery_id": "mithalouni/system-one-open",
+      "curated_ids": []
+    },
+    "https://github.com/olanotolu/jevbetter": {
+      "url": "https://github.com/olanotolu/jevbetter",
+      "discovery_id": "olanotolu/jevbetter",
+      "curated_ids": []
+    },
+    "https://github.com/zmtomorrow/typear": {
+      "url": "https://github.com/zmtomorrow/TypeAR",
+      "discovery_id": "zmtomorrow/typear",
+      "curated_ids": []
+    },
+    "https://github.com/abdelstark/jev-benchmarks": {
+      "url": "https://github.com/AbdelStark/jev-benchmarks",
+      "discovery_id": "abdelstark/jev-benchmarks",
+      "curated_ids": []
+    },
+    "https://github.com/danielgshea/jev-as-a-judge": {
+      "url": "https://github.com/danielgshea/jev-as-a-judge",
+      "discovery_id": "danielgshea/jev-as-a-judge",
+      "curated_ids": []
+    },
+    "https://github.com/jackzeng/jev_apps": {
+      "url": "https://github.com/JackZeng/Jev_apps",
+      "discovery_id": "jackzeng/jev_apps",
+      "curated_ids": []
+    },
+    "https://github.com/idovmamane/dejevu": {
+      "url": "https://github.com/idovmamane/dejevu",
+      "discovery_id": "idovmamane/dejevu",
+      "curated_ids": []
+    },
+    "https://github.com/altryne/jevify": {
+      "url": "https://github.com/altryne/jevify",
+      "discovery_id": "altryne/jevify",
+      "curated_ids": []
+    },
+    "https://github.com/genai-craft/openvons": {
+      "url": "https://github.com/genai-craft/openvons",
+      "discovery_id": "genai-craft/openvons",
+      "curated_ids": []
+    },
+    "https://github.com/sosopop/jev_stock": {
+      "url": "https://github.com/sosopop/jev_stock",
+      "discovery_id": "sosopop/jev_stock",
+      "curated_ids": []
+    },
+    "https://github.com/abhixhek/jevcal": {
+      "url": "https://github.com/abhixhek/jevcal",
+      "discovery_id": "abhixhek/jevcal",
+      "curated_ids": []
+    },
+    "https://github.com/kikoncuo/jevfire": {
+      "url": "https://github.com/kikoncuo/jevfire",
+      "discovery_id": "kikoncuo/jevfire",
+      "curated_ids": []
+    },
+    "https://github.com/caiovicentino/eikos-arena": {
+      "url": "https://github.com/caiovicentino/eikos-arena",
+      "discovery_id": "caiovicentino/eikos-arena",
+      "curated_ids": []
+    },
+    "https://github.com/aabolfazl/typesafe-local": {
+      "url": "https://github.com/aabolfazl/typesafe-local",
+      "discovery_id": "aabolfazl/typesafe-local",
+      "curated_ids": []
+    },
+    "https://github.com/johnhughes3/legalforecastbench": {
+      "url": "https://github.com/johnhughes3/LegalForecastBench",
+      "discovery_id": "johnhughes3/legalforecastbench",
+      "curated_ids": []
+    },
+    "https://github.com/mahlernim/jev-korean-benchmark": {
+      "url": "https://github.com/mahlernim/jev-korean-benchmark",
+      "discovery_id": "mahlernim/jev-korean-benchmark",
+      "curated_ids": []
+    },
+    "https://github.com/y0usaf/jev-lm": {
+      "url": "https://github.com/y0usaf/jev-lm",
+      "discovery_id": "y0usaf/jev-lm",
+      "curated_ids": []
+    },
+    "https://github.com/apolinario/decision-index": {
+      "url": "https://github.com/apolinario/decision-index",
+      "discovery_id": "apolinario/decision-index",
+      "curated_ids": []
+    },
+    "https://github.com/docxology/daf-jev": {
+      "url": "https://github.com/docxology/daf-jev",
+      "discovery_id": "docxology/daf-jev",
+      "curated_ids": []
+    },
+    "https://github.com/lbotinelly/jev-little-airways": {
+      "url": "https://github.com/lbotinelly/jev-little-airways",
+      "discovery_id": "lbotinelly/jev-little-airways",
+      "curated_ids": []
+    },
+    "https://github.com/zhuyansen/jev-search-rerank-eval": {
+      "url": "https://github.com/zhuyansen/jev-search-rerank-eval",
+      "discovery_id": "zhuyansen/jev-search-rerank-eval",
+      "curated_ids": []
+    },
+    "https://github.com/scienthoon/jev-ood-calibration": {
+      "url": "https://github.com/scienthoon/jev-ood-calibration",
+      "discovery_id": "scienthoon/jev-ood-calibration",
+      "curated_ids": []
+    },
+    "https://github.com/adhyaay-karnwal/jev-chat": {
+      "url": "https://github.com/adhyaay-karnwal/jev-chat",
+      "discovery_id": "adhyaay-karnwal/jev-chat",
+      "curated_ids": []
+    },
+    "https://github.com/akashpriyadarshii/jev-curate": {
+      "url": "https://github.com/AkashPriyadarshii/jev-curate",
+      "discovery_id": "akashpriyadarshii/jev-curate",
+      "curated_ids": []
+    },
+    "https://github.com/antoniocoppe/jev-harness": {
+      "url": "https://github.com/AntonioCoppe/jev-harness",
+      "discovery_id": "antoniocoppe/jev-harness",
+      "curated_ids": []
+    },
+    "https://github.com/decrux9812/openjev": {
+      "url": "https://github.com/DECRUX9812/openjev",
+      "discovery_id": "decrux9812/openjev",
+      "curated_ids": []
+    },
+    "https://github.com/rinnecoder/jev-behavior-study": {
+      "url": "https://github.com/RINNECODER/jev-behavior-study",
+      "discovery_id": "rinnecoder/jev-behavior-study",
+      "curated_ids": []
+    },
+    "https://github.com/jmanhype/jev-dspy-lab": {
+      "url": "https://github.com/jmanhype/jev-dspy-lab",
+      "discovery_id": "jmanhype/jev-dspy-lab",
+      "curated_ids": []
+    },
+    "https://github.com/akash-kamat/system-one-gemma": {
+      "url": "https://github.com/akash-kamat/system-one-gemma",
+      "discovery_id": "akash-kamat/system-one-gemma",
+      "curated_ids": []
+    },
+    "https://github.com/anessbelbati/jev-rerank-bench": {
+      "url": "https://github.com/anessbelbati/jev-rerank-bench",
+      "discovery_id": "anessbelbati/jev-rerank-bench",
+      "curated_ids": []
+    },
+    "https://github.com/bewinxed/jevgpt": {
+      "url": "https://github.com/Bewinxed/jevgpt",
+      "discovery_id": "bewinxed/jevgpt",
+      "curated_ids": []
+    },
+    "https://github.com/firassx914/janus": {
+      "url": "https://github.com/FirasSX914/Janus",
+      "discovery_id": "firassx914/janus",
+      "curated_ids": []
+    },
+    "https://github.com/foadsf/jev-for-engineers": {
+      "url": "https://github.com/Foadsf/jev-for-engineers",
+      "discovery_id": "foadsf/jev-for-engineers",
+      "curated_ids": []
+    },
+    "https://github.com/gaurav-gosain/jev-sec-bench": {
+      "url": "https://github.com/Gaurav-Gosain/jev-sec-bench",
+      "discovery_id": "gaurav-gosain/jev-sec-bench",
+      "curated_ids": []
+    },
+    "https://github.com/jgridifier/jev-research-eval": {
+      "url": "https://github.com/jgridifier/jev-research-eval",
+      "discovery_id": "jgridifier/jev-research-eval",
+      "curated_ids": []
+    },
+    "https://github.com/justinhe16/trade-jev": {
+      "url": "https://github.com/justinhe16/trade-jev",
+      "discovery_id": "justinhe16/trade-jev",
+      "curated_ids": []
+    },
+    "https://github.com/lhemerly/mcts-agent": {
+      "url": "https://github.com/lhemerly/mcts-agent",
+      "discovery_id": "lhemerly/mcts-agent",
+      "curated_ids": []
+    },
+    "https://github.com/monglong0214/jev-gate": {
+      "url": "https://github.com/MongLong0214/jev-gate",
+      "discovery_id": "monglong0214/jev-gate",
+      "curated_ids": []
+    },
+    "https://github.com/samuelsacco/jev-exploration": {
+      "url": "https://github.com/SamuelSacco/jev-exploration",
+      "discovery_id": "samuelsacco/jev-exploration",
+      "curated_ids": []
+    },
+    "https://github.com/wondertwins/jev-benchmark": {
+      "url": "https://github.com/wondertwins/jev-benchmark",
+      "discovery_id": "wondertwins/jev-benchmark",
+      "curated_ids": []
+    },
+    "https://github.com/kantahayashiai/jev-does-not-play-dice": {
+      "url": "https://github.com/KantaHayashiAI/jev-does-not-play-dice",
+      "discovery_id": "kantahayashiai/jev-does-not-play-dice",
+      "curated_ids": []
+    },
+    "https://github.com/anisselbd/jev-phishing-bench": {
+      "url": "https://github.com/anisselbd/jev-phishing-bench",
+      "discovery_id": "anisselbd/jev-phishing-bench",
+      "curated_ids": []
+    },
+    "https://github.com/completedottech/paper-package": {
+      "url": "https://github.com/CompleteDotTech/paper-package",
+      "discovery_id": "completedottech/paper-package",
+      "curated_ids": []
+    },
+    "https://github.com/grishahq/decisionbridge": {
+      "url": "https://github.com/grishahq/decisionbridge",
+      "discovery_id": "grishahq/decisionbridge",
+      "curated_ids": []
+    },
+    "https://github.com/i2cjak/risc-jev": {
+      "url": "https://github.com/i2cjak/RISC-jeV",
+      "discovery_id": "i2cjak/risc-jev",
+      "curated_ids": []
+    },
+    "https://github.com/kesku/jev-freeform": {
+      "url": "https://github.com/kesku/jev-freeform",
+      "discovery_id": "kesku/jev-freeform",
+      "curated_ids": []
+    },
+    "https://github.com/kotoba-lang/typed-decisions": {
+      "url": "https://github.com/kotoba-lang/typed-decisions",
+      "discovery_id": "kotoba-lang/typed-decisions",
+      "curated_ids": []
+    },
+    "https://github.com/pistachioaihq/jev-synergy-screening": {
+      "url": "https://github.com/PistachioAIHQ/jev-synergy-screening",
+      "discovery_id": "pistachioaihq/jev-synergy-screening",
+      "curated_ids": []
+    },
+    "https://github.com/shamazharikh/qwen-rlcd": {
+      "url": "https://github.com/shamazharikh/qwen-rlcd",
+      "discovery_id": "shamazharikh/qwen-rlcd",
+      "curated_ids": []
+    },
+    "https://github.com/shibadogcap/kyotsu-ai-bench": {
+      "url": "https://github.com/shibadogcap/kyotsu-ai-bench",
+      "discovery_id": "shibadogcap/kyotsu-ai-bench",
+      "curated_ids": []
+    },
+    "https://github.com/tokentrim/jev-agent-failure-benchmark": {
+      "url": "https://github.com/TokenTrim/jev-agent-failure-benchmark",
+      "discovery_id": "tokentrim/jev-agent-failure-benchmark",
+      "curated_ids": []
+    },
+    "https://github.com/tokentrim/jev-routing-experiment": {
+      "url": "https://github.com/TokenTrim/jev-routing-experiment",
+      "discovery_id": "tokentrim/jev-routing-experiment",
+      "curated_ids": []
+    },
+    "https://github.com/zefir1990/openjev-experiments": {
+      "url": "https://github.com/zefir1990/openjev-experiments",
+      "discovery_id": "zefir1990/openjev-experiments",
+      "curated_ids": []
+    },
+    "https://github.com/zsavage8/padflow-jev-evals": {
+      "url": "https://github.com/zsavage8/padflow-jev-evals",
+      "discovery_id": "zsavage8/padflow-jev-evals",
+      "curated_ids": []
+    },
+    "https://github.com/reallyartificial/stuntdouble": {
+      "url": "https://github.com/ReallyArtificial/stuntdouble",
+      "discovery_id": "reallyartificial/stuntdouble",
+      "curated_ids": []
+    },
+    "https://github.com/aliceroselia/typesafe_chess_eval": {
+      "url": "https://github.com/AliceRoselia/Typesafe_chess_eval",
+      "discovery_id": "aliceroselia/typesafe_chess_eval",
+      "curated_ids": []
+    },
+    "https://github.com/bitnovus/jev-spam-eval": {
+      "url": "https://github.com/bitnovus/jev-spam-eval",
+      "discovery_id": "bitnovus/jev-spam-eval",
+      "curated_ids": []
+    },
+    "https://github.com/blas0/jev-shadcn-lint-eval": {
+      "url": "https://github.com/blas0/jev-shadcn-lint-eval",
+      "discovery_id": "blas0/jev-shadcn-lint-eval",
+      "curated_ids": []
+    },
+    "https://github.com/codeitlikemiley/system-one-adapter-rust": {
+      "url": "https://github.com/codeitlikemiley/system-one-adapter-rust",
+      "discovery_id": "codeitlikemiley/system-one-adapter-rust",
+      "curated_ids": []
+    },
+    "https://github.com/dnakhoa/jev-deferred-crispification": {
+      "url": "https://github.com/dnakhoa/jev-deferred-crispification",
+      "discovery_id": "dnakhoa/jev-deferred-crispification",
+      "curated_ids": []
+    },
+    "https://github.com/gaurav-gosain/jev-alpha-bench": {
+      "url": "https://github.com/Gaurav-Gosain/jev-alpha-bench",
+      "discovery_id": "gaurav-gosain/jev-alpha-bench",
+      "curated_ids": []
+    },
+    "https://github.com/gaurav-gosain/jev-headline-bench": {
+      "url": "https://github.com/Gaurav-Gosain/jev-headline-bench",
+      "discovery_id": "gaurav-gosain/jev-headline-bench",
+      "curated_ids": []
+    },
+    "https://github.com/hacksing/jev-report": {
+      "url": "https://github.com/HackSing/jev-report",
+      "discovery_id": "hacksing/jev-report",
+      "curated_ids": []
+    },
+    "https://github.com/hegargarcia/jev-playground": {
+      "url": "https://github.com/hegargarcia/jev-playground",
+      "discovery_id": "hegargarcia/jev-playground",
+      "curated_ids": []
+    },
+    "https://github.com/hifizz/jev-finance-benchmark": {
+      "url": "https://github.com/hifizz/jev-finance-benchmark",
+      "discovery_id": "hifizz/jev-finance-benchmark",
+      "curated_ids": []
+    },
+    "https://github.com/lab-dados/jev-anotacao-sentencas": {
+      "url": "https://github.com/lab-dados/jev-anotacao-sentencas",
+      "discovery_id": "lab-dados/jev-anotacao-sentencas",
+      "curated_ids": []
+    },
+    "https://github.com/mameli/jev-vs-luna": {
+      "url": "https://github.com/mameli/jev-vs-luna",
+      "discovery_id": "mameli/jev-vs-luna",
+      "curated_ids": []
+    },
+    "https://github.com/menny1337/jev-lab": {
+      "url": "https://github.com/Menny1337/jev-lab",
+      "discovery_id": "menny1337/jev-lab",
+      "curated_ids": []
+    },
+    "https://github.com/myokoym/misereru-slide-jev": {
+      "url": "https://github.com/myokoym/misereru-slide-jev",
+      "discovery_id": "myokoym/misereru-slide-jev",
+      "curated_ids": []
+    },
+    "https://github.com/nican2018/shade-arena-jev-monitor": {
+      "url": "https://github.com/nican2018/shade-arena-jev-monitor",
+      "discovery_id": "nican2018/shade-arena-jev-monitor",
+      "curated_ids": []
+    },
+    "https://github.com/nullpo-jp/pocketjev": {
+      "url": "https://github.com/NullPo-jp/PocketJev",
+      "discovery_id": "nullpo-jp/pocketjev",
+      "curated_ids": []
+    },
+    "https://github.com/smasato/jev-jp-address": {
+      "url": "https://github.com/smasato/jev-jp-address",
+      "discovery_id": "smasato/jev-jp-address",
+      "curated_ids": []
+    },
+    "https://github.com/sypherin/jev-trace-classifier": {
+      "url": "https://github.com/sypherin/jev-trace-classifier",
+      "discovery_id": "sypherin/jev-trace-classifier",
+      "curated_ids": []
+    },
+    "https://github.com/teyhouse/jev-secret-detection": {
+      "url": "https://github.com/teyhouse/jev-secret-detection",
+      "discovery_id": "teyhouse/jev-secret-detection",
+      "curated_ids": []
+    },
+    "https://github.com/thodoh1/financialpredictionjev": {
+      "url": "https://github.com/thodoh1/FinancialPredictionJev",
+      "discovery_id": "thodoh1/financialpredictionjev",
+      "curated_ids": []
+    },
+    "https://github.com/trophee-bot/typesafe-oracles": {
+      "url": "https://github.com/trophee-bot/typesafe-oracles",
+      "discovery_id": "trophee-bot/typesafe-oracles",
+      "curated_ids": []
+    },
+    "https://github.com/tryaksh/jev-pick-and-place-study": {
+      "url": "https://github.com/tryaksh/jev-pick-and-place-study",
+      "discovery_id": "tryaksh/jev-pick-and-place-study",
+      "curated_ids": []
+    },
+    "https://github.com/vehas/thaiexam-jev-charts": {
+      "url": "https://github.com/vehas/thaiexam-jev-charts",
+      "discovery_id": "vehas/thaiexam-jev-charts",
+      "curated_ids": []
+    },
+    "https://github.com/jujumilk3/jev-calibration-audit": {
+      "url": "https://github.com/jujumilk3/jev-calibration-audit",
+      "discovery_id": "jujumilk3/jev-calibration-audit",
+      "curated_ids": []
+    },
+    "https://github.com/kiarina/labs": {
+      "url": "https://github.com/kiarina/labs",
+      "discovery_id": "kiarina/labs",
+      "curated_ids": []
+    },
+    "https://github.com/nikkoxgonzales/jev-certify": {
+      "url": "https://github.com/nikkoxgonzales/jev-certify",
+      "discovery_id": "nikkoxgonzales/jev-certify",
+      "curated_ids": []
+    },
+    "https://github.com/jevals/jevals-data": {
+      "url": "https://github.com/Jevals/jevals-data",
+      "discovery_id": "jevals/jevals-data",
+      "curated_ids": []
+    },
+    "https://github.com/onlyoneaman/jev-eval": {
+      "url": "https://github.com/onlyoneaman/jev-eval",
+      "discovery_id": "onlyoneaman/jev-eval",
+      "curated_ids": []
+    },
+    "https://github.com/willkelly/jev-evaluation": {
+      "url": "https://github.com/willkelly/jev-evaluation",
+      "discovery_id": "willkelly/jev-evaluation",
+      "curated_ids": []
+    },
+    "https://github.com/yodablocks/jev-orderby-bench": {
+      "url": "https://github.com/yodablocks/jev-orderby-bench",
+      "discovery_id": "yodablocks/jev-orderby-bench",
+      "curated_ids": []
+    },
+    "https://github.com/patryckalves/jev-no-enem": {
+      "url": "https://github.com/patryckalves/jev-no-enem",
+      "discovery_id": "patryckalves/jev-no-enem",
+      "curated_ids": []
+    },
+    "https://github.com/mohibshaikh/jev-skillbench": {
+      "url": "https://github.com/MohibShaikh/jev-skillbench",
+      "discovery_id": "mohibshaikh/jev-skillbench",
+      "curated_ids": []
+    },
+    "https://github.com/v-modal/awesome-jev-tools": {
+      "url": "https://github.com/v-modal/awesome-jev-tools",
+      "discovery_id": "v-modal/awesome-jev-tools",
+      "curated_ids": []
+    },
+    "https://github.com/anil-matcha/awesome-jev-by-typesafe": {
+      "url": "https://github.com/Anil-matcha/awesome-jev-by-typesafe",
+      "discovery_id": "anil-matcha/awesome-jev-by-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/abdelstark/awesome-typesafe-jev": {
+      "url": "https://github.com/AbdelStark/awesome-typesafe-jev",
+      "discovery_id": "abdelstark/awesome-typesafe-jev",
+      "curated_ids": []
+    },
+    "https://github.com/yibie/awesome-jev": {
+      "url": "https://github.com/yibie/awesome-jev",
+      "discovery_id": "yibie/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/wuyoscar/jev-skill": {
+      "url": "https://github.com/wuyoscar/jev-skill",
+      "discovery_id": "wuyoscar/jev-skill",
+      "curated_ids": []
+    },
+    "https://github.com/abdelstark/awesome-typesafe": {
+      "url": "https://github.com/AbdelStark/awesome-typesafe",
+      "discovery_id": "abdelstark/awesome-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/cobanov/awesome-jev": {
+      "url": "https://github.com/cobanov/awesome-jev",
+      "discovery_id": "cobanov/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/amal-david/awesome-jev": {
+      "url": "https://github.com/Amal-David/awesome-jev",
+      "discovery_id": "amal-david/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/kydlikebtc/awesome-jev": {
+      "url": "https://github.com/kydlikebtc/awesome-jev",
+      "discovery_id": "kydlikebtc/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/fatwang2/awesome-jev": {
+      "url": "https://github.com/fatwang2/awesome-jev",
+      "discovery_id": "fatwang2/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/omnijev/awesome-jev-gallery": {
+      "url": "https://github.com/OmniJev/awesome-jev-gallery",
+      "discovery_id": "omnijev/awesome-jev-gallery",
+      "curated_ids": []
+    },
+    "https://github.com/logicrw/awesome-jev-projects": {
+      "url": "https://github.com/logicrw/awesome-jev-projects",
+      "discovery_id": "logicrw/awesome-jev-projects",
+      "curated_ids": []
+    },
+    "https://github.com/promethe-us/awesome-jev": {
+      "url": "https://github.com/Promethe-us/awesome-jev",
+      "discovery_id": "promethe-us/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/kraayenjon/awesome-jev": {
+      "url": "https://github.com/kraayenjon/awesome-jev",
+      "discovery_id": "kraayenjon/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/anotiawang/awesome-jev": {
+      "url": "https://github.com/AnotiaWang/awesome-jev",
+      "discovery_id": "anotiawang/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/walidboulanouar/awesome-jev-use-cases": {
+      "url": "https://github.com/walidboulanouar/awesome-jev-use-cases",
+      "discovery_id": "walidboulanouar/awesome-jev-use-cases",
+      "curated_ids": []
+    },
+    "https://github.com/hellogumbo/awesome-jev": {
+      "url": "https://github.com/hellogumbo/awesome-jev",
+      "discovery_id": "hellogumbo/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/appitstudio/awesome-jev": {
+      "url": "https://github.com/AppitStudio/awesome-jev",
+      "discovery_id": "appitstudio/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/omnijev/awesome-jev": {
+      "url": "https://github.com/OmniJev/awesome-jev",
+      "discovery_id": "omnijev/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/yzfly/awesome-jev-zh": {
+      "url": "https://github.com/yzfly/awesome-jev-zh",
+      "discovery_id": "yzfly/awesome-jev-zh",
+      "curated_ids": []
+    },
+    "https://github.com/beatapi/awesome-jev": {
+      "url": "https://github.com/BeatAPI/awesome-jev",
+      "discovery_id": "beatapi/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/datawhalechina/jev-cookbook": {
+      "url": "https://github.com/datawhalechina/jev-cookbook",
+      "discovery_id": "datawhalechina/jev-cookbook",
+      "curated_ids": []
+    },
+    "https://github.com/valentynkit/awesome-jev-typesafe": {
+      "url": "https://github.com/valentynkit/awesome-jev-typesafe",
+      "discovery_id": "valentynkit/awesome-jev-typesafe",
+      "curated_ids": []
+    },
+    "https://github.com/mizzlelover/jev-hub": {
+      "url": "https://github.com/mizzlelover/jev-hub",
+      "discovery_id": "mizzlelover/jev-hub",
+      "curated_ids": []
+    },
+    "https://github.com/everyinfra/jev-radar": {
+      "url": "https://github.com/everyinfra/jev-radar",
+      "discovery_id": "everyinfra/jev-radar",
+      "curated_ids": []
+    },
+    "https://github.com/anandi1989/awesome-jev-usecases": {
+      "url": "https://github.com/anandi1989/awesome-jev-usecases",
+      "discovery_id": "anandi1989/awesome-jev-usecases",
+      "curated_ids": []
+    },
+    "https://github.com/nexibeo/jev-cookbook": {
+      "url": "https://github.com/nexibeo/jev-cookbook",
+      "discovery_id": "nexibeo/jev-cookbook",
+      "curated_ids": []
+    },
+    "https://github.com/aliaihub/awesome-jev-usecases": {
+      "url": "https://github.com/aliaihub/awesome-jev-usecases",
+      "discovery_id": "aliaihub/awesome-jev-usecases",
+      "curated_ids": []
+    },
+    "https://github.com/wh000wh000/awesome-jev-live": {
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "discovery_id": "wh000wh000/awesome-jev-live",
+      "curated_ids": []
+    },
+    "https://github.com/everyai-com/jev-directory": {
+      "url": "https://github.com/everyai-com/jev-directory",
+      "discovery_id": "everyai-com/jev-directory",
+      "curated_ids": []
+    },
+    "https://github.com/tanxarx/awesome-jev": {
+      "url": "https://github.com/tanxarx/awesome-jev",
+      "discovery_id": "tanxarx/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/mrjev/awesome-jev": {
+      "url": "https://github.com/MrJev/awesome-jev",
+      "discovery_id": "mrjev/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/ckaraca/awesome-jev": {
+      "url": "https://github.com/ckaraca/awesome-jev",
+      "discovery_id": "ckaraca/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/yifan-lan/awesome-jev-robustness": {
+      "url": "https://github.com/Yifan-Lan/awesome-jev-robustness",
+      "discovery_id": "yifan-lan/awesome-jev-robustness",
+      "curated_ids": []
+    },
+    "https://github.com/jtnkminimal/awesome-jev": {
+      "url": "https://github.com/jtnkminimal/awesome-jev",
+      "discovery_id": "jtnkminimal/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/seeapi/awesome-jev-use-cases": {
+      "url": "https://github.com/SeeAPI/awesome-jev-use-cases",
+      "discovery_id": "seeapi/awesome-jev-use-cases",
+      "curated_ids": []
+    },
+    "https://github.com/punk2898/awesome-jev-verified": {
+      "url": "https://github.com/punk2898/awesome-jev-verified",
+      "discovery_id": "punk2898/awesome-jev-verified",
+      "curated_ids": []
+    },
+    "https://github.com/thesekyi/jevusecases": {
+      "url": "https://github.com/theSekyi/jevusecases",
+      "discovery_id": "thesekyi/jevusecases",
+      "curated_ids": []
+    },
+    "https://github.com/sontakey/awesome-jev": {
+      "url": "https://github.com/sontakey/awesome-jev",
+      "discovery_id": "sontakey/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/rhc98/awesome-jev": {
+      "url": "https://github.com/rhc98/awesome-jev",
+      "discovery_id": "rhc98/awesome-jev",
+      "curated_ids": []
+    },
+    "https://github.com/vicfei/awesome-jev-prompts": {
+      "url": "https://github.com/vicfei/awesome-jev-prompts",
+      "discovery_id": "vicfei/awesome-jev-prompts",
+      "curated_ids": []
+    },
+    "https://github.com/hiwoniu/jev-case": {
+      "url": "https://github.com/Hiwoniu/Jev-Case",
+      "discovery_id": "hiwoniu/jev-case",
+      "curated_ids": []
+    },
+    "https://docs.typesafe.ai/models": {
+      "url": "https://docs.typesafe.ai/models",
+      "discovery_id": null,
+      "curated_ids": [
+        "typesafe-jev"
+      ]
+    },
+    "https://developers.openai.com/api/docs/guides/decisions": {
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "discovery_id": null,
+      "curated_ids": [
+        "openai-decisions"
+      ]
+    },
+    "https://huggingface.co/cloudflare/clef-flash": {
+      "url": "https://huggingface.co/Cloudflare/clef-flash",
+      "discovery_id": null,
+      "curated_ids": [
+        "clef-flash"
+      ]
+    },
+    "https://developers.cloudflare.com/workers-ai/platform/pricing": {
+      "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+      "discovery_id": null,
+      "curated_ids": [
+        "clef-flash",
+        "clef"
+      ]
+    },
+    "https://developers.cloudflare.com/workers-ai/models/clef-flash": {
+      "url": "https://developers.cloudflare.com/workers-ai/models/clef-flash/",
+      "discovery_id": null,
+      "curated_ids": [
+        "clef-flash"
+      ]
+    },
+    "https://huggingface.co/cloudflare/clef-flash/blob/main/joint_schema_model.py": {
+      "url": "https://huggingface.co/Cloudflare/clef-flash/blob/main/joint_schema_model.py",
+      "discovery_id": null,
+      "curated_ids": [
+        "clef-flash"
+      ]
+    },
+    "https://huggingface.co/cloudflare/clef": {
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "discovery_id": null,
+      "curated_ids": [
+        "clef"
+      ]
+    },
+    "https://docs.perplexity.ai/docs/decisions/quickstart": {
+      "url": "https://docs.perplexity.ai/docs/decisions/quickstart",
+      "discovery_id": null,
+      "curated_ids": [
+        "pplx-decider"
+      ]
+    },
+    "https://huggingface.co/perplexity-ai/pplx-decider-v1-27b": {
+      "url": "https://huggingface.co/perplexity-ai/pplx-decider-v1-27b",
+      "discovery_id": null,
+      "curated_ids": [
+        "pplx-decider"
+      ]
+    },
+    "https://www.liquid.ai/blog/d1-decision-model": {
+      "url": "https://www.liquid.ai/blog/d1-decision-model",
+      "discovery_id": null,
+      "curated_ids": [
+        "liquid-d1"
+      ]
+    },
+    "https://docs.liquid.ai/lfm/models/decision-models": {
+      "url": "https://docs.liquid.ai/lfm/models/decision-models",
+      "discovery_id": null,
+      "curated_ids": [
+        "liquid-d1"
+      ]
+    },
+    "https://www.together.ai/blog/how-to-train-your-own-jev": {
+      "url": "https://www.together.ai/blog/how-to-train-your-own-jev",
+      "discovery_id": null,
+      "curated_ids": [
+        "together-tev1"
+      ]
+    },
+    "https://github.com/bespokelabsai/nimble": {
+      "url": "https://github.com/bespokelabsai/nimble",
+      "discovery_id": null,
+      "curated_ids": [
+        "bespoke-nimble"
+      ]
+    },
+    "https://docs.databricks.com/aws/en/sql/language-manual/functions/ai_decide": {
+      "url": "https://docs.databricks.com/aws/en/sql/language-manual/functions/ai_decide",
+      "discovery_id": null,
+      "curated_ids": [
+        "databricks-ai-decide"
+      ]
+    },
+    "https://github.com/guanxuyu-sv/visual-jev": {
+      "url": "https://github.com/guanxuyu-sv/Visual-Jev",
+      "discovery_id": null,
+      "curated_ids": [
+        "visual-jev-paper"
+      ]
+    },
+    "https://github.com/guanxuyu-sv/visual-jev/blob/main/reproduce.md": {
+      "url": "https://github.com/guanxuyu-sv/Visual-Jev/blob/main/REPRODUCE.md",
+      "discovery_id": null,
+      "curated_ids": [
+        "visual-jev-paper"
+      ]
+    },
+    "https://arxiv.org/abs/2609.25845": {
+      "url": "https://arxiv.org/abs/2609.25845",
+      "discovery_id": null,
+      "curated_ids": [
+        "visual-jev-paper"
+      ]
+    },
+    "https://github.com/shanghua-gao/rsi-jev": {
+      "url": "https://github.com/Shanghua-Gao/RSI-Jev",
+      "discovery_id": null,
+      "curated_ids": [
+        "rsi-jev"
+      ]
+    },
+    "https://github.com/strands-labs/strands-decider": {
+      "url": "https://github.com/strands-labs/strands-decider",
+      "discovery_id": null,
+      "curated_ids": [
+        "strands-decider"
+      ]
+    },
+    "https://github.com/gulucaptain/chinese-jev": {
+      "url": "https://github.com/gulucaptain/Chinese-Jev",
+      "discovery_id": null,
+      "curated_ids": [
+        "laya",
+        "chinese-jev"
+      ]
+    },
+    "https://github.com/r33drichards/laya-vision": {
+      "url": "https://github.com/r33drichards/laya-vision",
+      "discovery_id": null,
+      "curated_ids": [
+        "laya-vision"
+      ]
+    },
+    "https://huggingface.co/akhilaaa3/jev-omni": {
+      "url": "https://huggingface.co/akhilaaa3/Jev-Omni",
+      "discovery_id": null,
+      "curated_ids": [
+        "jev-omni"
+      ]
+    },
+    "https://github.com/startluxlabs/startlux-decision": {
+      "url": "https://github.com/StartLuxLabs/StartLux-Decision",
+      "discovery_id": null,
+      "curated_ids": [
+        "startlux"
+      ]
+    },
+    "https://github.com/amazingljy1206/innerjev": {
+      "url": "https://github.com/amazingljy1206/InnerJev",
+      "discovery_id": null,
+      "curated_ids": [
+        "innerjev"
+      ]
+    },
+    "https://arxiv.org/abs/2610.03935": {
+      "url": "https://arxiv.org/abs/2610.03935",
+      "discovery_id": null,
+      "curated_ids": [
+        "innerjev"
+      ]
+    },
+    "https://huggingface.co/collections/internlm/intern-decision": {
+      "url": "https://huggingface.co/collections/internlm/intern-decision",
+      "discovery_id": null,
+      "curated_ids": [
+        "intern-decision"
+      ]
+    },
+    "https://huggingface.co/kirp/jpt-4b": {
+      "url": "https://huggingface.co/kirp/jpt-4b",
+      "discovery_id": null,
+      "curated_ids": [
+        "jpt"
+      ]
+    },
+    "https://huggingface.co/eldanring/winnow-12b": {
+      "url": "https://huggingface.co/EldanRing/Winnow-12B",
+      "discovery_id": null,
+      "curated_ids": [
+        "winnow"
+      ]
+    },
+    "https://arxiv.org/abs/2609.36965": {
+      "url": "https://arxiv.org/abs/2609.36965",
+      "discovery_id": null,
+      "curated_ids": [
+        "chinese-jev"
+      ]
+    },
+    "https://github.com/alperiox/audio-jevlike": {
+      "url": "https://github.com/alperiox/audio-jevlike",
+      "discovery_id": null,
+      "curated_ids": [
+        "prosodia"
+      ]
+    },
+    "https://github.com/tic-top/llm2jev": {
+      "url": "https://github.com/tic-top/llm2jev",
+      "discovery_id": null,
+      "curated_ids": [
+        "llm2jev-runtime"
+      ]
+    },
+    "https://github.com/blockbrain-ai/cygnet-recipe": {
+      "url": "https://github.com/blockbrain-ai/cygnet-recipe",
+      "discovery_id": null,
+      "curated_ids": [
+        "cygnet"
+      ]
+    },
+    "https://github.com/kalm-embedding/kalm-jev": {
+      "url": "https://github.com/KaLM-Embedding/KaLM-Jev",
+      "discovery_id": null,
+      "curated_ids": [
+        "kalm-jev"
+      ]
+    },
+    "https://arxiv.org/abs/2609.30186": {
+      "url": "https://arxiv.org/abs/2609.30186",
+      "discovery_id": null,
+      "curated_ids": [
+        "jev-mobile"
+      ]
+    },
+    "https://arxiv.org/abs/2609.23986": {
+      "url": "https://arxiv.org/abs/2609.23986",
+      "discovery_id": null,
+      "curated_ids": [
+        "jev-mem"
+      ]
+    },
+    "https://github.com/tianyucodings/jevharness": {
+      "url": "https://github.com/TianyuCodings/JevHarness",
+      "discovery_id": null,
+      "curated_ids": [
+        "jev-harness"
+      ]
+    },
+    "https://github.com/bring-ai/jevnext": {
+      "url": "https://github.com/Bring-AI/JevNext",
+      "discovery_id": null,
+      "curated_ids": [
+        "jevnext"
+      ]
+    },
+    "https://arxiv.org/abs/2609.29283": {
+      "url": "https://arxiv.org/abs/2609.29283",
+      "discovery_id": null,
+      "curated_ids": [
+        "pixeljev"
+      ]
+    },
+    "https://arxiv.org/abs/2610.02076": {
+      "url": "https://arxiv.org/abs/2610.02076",
+      "discovery_id": null,
+      "curated_ids": [
+        "llm2jev-paper"
+      ]
+    },
+    "https://huggingface.co/qwen/qwen3.5-2b": {
+      "url": "https://huggingface.co/Qwen/Qwen3.5-2B",
+      "discovery_id": null,
+      "curated_ids": [
+        "qwen35-frozen"
+      ]
+    },
+    "https://huggingface.co/qwen/qwen3.5-4b": {
+      "url": "https://huggingface.co/Qwen/Qwen3.5-4B",
+      "discovery_id": null,
+      "curated_ids": [
+        "qwen35-frozen"
+      ]
+    },
+    "https://huggingface.co/h2oai/h2o-lightning-4b": {
+      "url": "https://huggingface.co/h2oai/h2o-lightning-4b",
+      "discovery_id": null,
+      "curated_ids": [
+        "h2o-lightning"
+      ]
+    },
+    "https://commandline.microsoft.com/microsoft-decision-1-model-foundry": {
+      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+      "discovery_id": null,
+      "curated_ids": [
+        "microsoft-decision-1"
+      ]
+    }
+  },
+  "unique_source_urls": 1024
+}

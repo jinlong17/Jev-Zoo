@@ -1,0 +1,18 @@
+{
+  "code_hash": "89e8935441b99fa0ad973ad5e0010a844baee8ad291de3fb55f1d67dab99a314",
+  "scope": "Exact historical reference executor for reported JevBench public native-model runs",
+  "files": {
+    "__init__.py": "de069e46ae3d6c525fbbcf8c9ba60854d8d95cf1e8b1da398c215b9c3dc0f1a2",
+    "storage.py": "75990ad4869df133ec998b2ce403f5549c567743a0693e01cc60220572ea8068",
+    "fetch.py": "1ec680901b12055b1632e2e8a84918b9b53dad370be406870fce67e1c0e08443",
+    "domain.py": "65cd4d87a16cd63f44683d3fc447a920bb35763c25142d5135780c47a7dfd9ee",
+    "metrics.py": "46c4c780b88250f8d4268ca604f43921d7be29756f588d706cc8fe29c6e48919",
+    "tasks.py": "8e0e4fe4c3c325b735e5fc1dcaa694b8c22c27a3b66634027c395466fb5211ca",
+    "adapters.py": "9cfc7b827187f64d7f8f751c3224def6a4f6e44db8ece862be613d1140d43481",
+    "runner.py": "747093cdb12cc504679c4bb623dd893659e893ed01c770d9d8b0346ad35981ad",
+    "cli.py": "21ecb7c3ff523df1333ce1a2a54496ecd20bfa4c83437cceb371fc4ee94273eb",
+    "official.py": "052252246c0ac4a44e930e6dce18823e1ef6cf43096af249633ac56d8a9b8523",
+    "calibration.py": "3cf3af52ec1332b379fc9512a735a1ef16c3f11a827abede50153ca872823027",
+    "variants.py": "8e22118677984993b98ce355dc011cd8288e079bbc6c718cac3d1d4a193e05ba"
+  }
+}

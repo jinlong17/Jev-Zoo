@@ -1,0 +1,8 @@
+JevZoo
+Copyright 2026 Jinlong Li and contributors.
+
+Resource discovery rows derived from heyjunpenn/awesome-jev, MIT license.
+Copyright (c) 2026 heyjunpenn. The upstream notice is preserved in licenses/awesome-jev-MIT.txt.
+
+Official benchmark scorer fixture from fstandhartinger/jevbench, MIT; license retained in fixtures/official/JEVBENCH_LICENSE.
+Model weights, model loader source and datasets retain their original licenses. They are downloaded separately and are not distributed with this code package.

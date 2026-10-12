@@ -1,0 +1,112 @@
+{
+  "qwen35-2b": {
+    "checkpoint_revision": "15852e8c16360a2fea060d615a32b45270f8a8fc",
+    "download": "downloaded",
+    "evidence": {
+      "smoke_tested": true,
+      "full_evaluated": true,
+      "full_benchmarks": [
+        "jevbench-public"
+      ]
+    }
+  },
+  "qwen35-4b": {
+    "checkpoint_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+    "download": "downloaded",
+    "evidence": {
+      "smoke_tested": true,
+      "full_evaluated": true,
+      "full_benchmarks": [
+        "jevbench-public"
+      ]
+    }
+  },
+  "onejev-08b": {
+    "checkpoint_revision": "c3939d8bf4cad34549a2b13bbb6aee9bcb6afee8",
+    "download": "downloaded",
+    "evidence": {
+      "smoke_tested": true,
+      "full_evaluated": true,
+      "full_benchmarks": [
+        "jevbench-public"
+      ]
+    }
+  },
+  "onejev-4b": {
+    "checkpoint_revision": "c88e18653ceb7a8770716287f55fdefc79d6b588",
+    "download": "downloaded",
+    "evidence": {
+      "smoke_tested": true,
+      "full_evaluated": true,
+      "full_benchmarks": [
+        "jevbench-public"
+      ]
+    }
+  },
+  "imajev-2b": {
+    "checkpoint_revision": "e8cb9fc6e054a61ee3fdcff3cd20005ea6194588",
+    "download": "downloaded",
+    "evidence": {
+      "smoke_tested": true,
+      "full_evaluated": true,
+      "full_benchmarks": [
+        "jevbench-public"
+      ]
+    }
+  },
+  "imajev-4b": {
+    "checkpoint_revision": "27d4e54fc11efeea2ea4d10e910643440d2333b5",
+    "download": "downloaded",
+    "evidence": {
+      "smoke_tested": true,
+      "full_evaluated": true,
+      "full_benchmarks": [
+        "jevbench-public"
+      ]
+    }
+  },
+  "clef-flash": {
+    "checkpoint_revision": "8b2e5fd17c09fd49bc2880b805d5323ec7ff4ff3",
+    "download": "downloaded",
+    "evidence": {
+      "smoke_tested": true,
+      "full_evaluated": true,
+      "full_benchmarks": [
+        "jevbench-public"
+      ]
+    }
+  },
+  "h2o-lightning-4b": {
+    "checkpoint_revision": "dafcf6b1ae08794b88a011891c4c3a8d364ee041",
+    "download": "downloaded",
+    "evidence": {
+      "smoke_tested": true,
+      "full_evaluated": true,
+      "full_benchmarks": [
+        "jevbench-public"
+      ]
+    }
+  },
+  "clef": {
+    "checkpoint_revision": "0b331204bb13fbd2ca93a64df1956f5b55478ce5",
+    "download": "downloaded",
+    "evidence": {
+      "smoke_tested": true,
+      "full_evaluated": true,
+      "full_benchmarks": [
+        "jevbench-public"
+      ]
+    }
+  },
+  "pplx-decider-27b": {
+    "checkpoint_revision": "d8c3bd18e31dc1804433d38528b3e770019bf00c",
+    "download": "downloaded",
+    "evidence": {
+      "smoke_tested": true,
+      "full_evaluated": true,
+      "full_benchmarks": [
+        "jevbench-public"
+      ]
+    }
+  }
+}
