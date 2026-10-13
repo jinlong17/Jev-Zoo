@@ -3,6 +3,9 @@ Copyright 2026 Jinlong Li and contributors.
 
 Resource discovery rows derived from heyjunpenn/awesome-jev, MIT license.
 Copyright (c) 2026 heyjunpenn. The upstream notice is preserved in licenses/awesome-jev-MIT.txt.
+English and Simplified Chinese discovery descriptions include the same MIT-licensed
+upstream snapshot 39854d858fff73bf3172949c9f968c6cb12beafa. JevZoo's static-site UI,
+builder and favicon are original; upstream logos, media and sponsorship code are not distributed.
 
 Official benchmark scorer fixture from fstandhartinger/jevbench, MIT; license retained in fixtures/official/JEVBENCH_LICENSE.
 Model weights, model loader source and datasets retain their original licenses. They are downloaded separately and are not distributed with this code package.

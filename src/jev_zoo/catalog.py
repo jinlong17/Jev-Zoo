@@ -5,6 +5,7 @@ import re
 import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
 from pathlib import Path
 
 from .fetch import get_json
@@ -55,6 +56,10 @@ def parse_awesome(markdown: str) -> list[dict]:
 
 
 def refresh(repo: Path, seed_path: Path, *, verify_links: bool = False) -> dict:
+    # A new discovery snapshot must preserve reviewed bilingual metadata and assets.
+    prior_path = repo / "catalog/catalog.json"
+    prior = json.loads(prior_path.read_text()) if prior_path.exists() else {}
+    checked_on = datetime.now(timezone.utc).date().isoformat()
     commit = get_json(f"https://api.github.com/repos/{UPSTREAM}/commits/main")
     revision = commit["sha"]
     url = f"https://raw.githubusercontent.com/{UPSTREAM}/{revision}/README.md"
@@ -68,14 +73,14 @@ def refresh(repo: Path, seed_path: Path, *, verify_links: bool = False) -> dict:
                 metadata = get_json(f"https://api.github.com/repos/{entry['id']}")
                 return entry["id"], dict(
                     link_status="reachable",
-                    checked_on="2026-10-12",
+                    checked_on=checked_on,
                     stars=metadata["stargazers_count"],
                     upstream_pushed_at=metadata["pushed_at"],
                     archived=metadata["archived"],
                     code_license=(metadata.get("license") or {}).get("spdx_id"),
                 )
             except urllib.error.HTTPError as error:
-                return entry["id"], dict(link_status=f"http_{error.code}", checked_on="2026-10-12")
+                return entry["id"], dict(link_status=f"http_{error.code}", checked_on=checked_on)
             except Exception as error:
                 return entry["id"], dict(link_status="unverified", error_type=type(error).__name__)
 
@@ -140,6 +145,42 @@ def refresh(repo: Path, seed_path: Path, *, verify_links: bool = False) -> dict:
         sources=seed["sources"],
         facts_checked="links and metadata; execution requires separate run evidence",
     )
+    if prior.get("site_contract"):
+        previous = {entry["id"]: entry for entry in prior.get("discovery_resources", [])}
+        for entry in entries:
+            old = previous.get(entry["id"], {})
+            for key in ("presentation", "aliases", "site_primary_review"):
+                if key in old:
+                    entry[key] = old[key]
+            if not verify_links:
+                for key in (
+                    "link_status",
+                    "checked_on",
+                    "stars",
+                    "upstream_pushed_at",
+                    "archived",
+                    "code_license",
+                ):
+                    if key in old:
+                        entry[key] = old[key]
+            if old.get("description") != entry.get("description"):
+                entry.setdefault("presentation", {})["translation_needs_review"] = True
+        # Never silently discard failed or removed upstream entries.
+        current_ids = {entry["id"] for entry in entries}
+        for identity, old in previous.items():
+            if identity not in current_ids:
+                old["upstream_removed_at_revision"] = revision
+                old.setdefault("presentation", {})["tier"] = "review"
+                entries.append(old)
+        for key in ("curated_resources", "papers", "benchmarks"):
+            merged = {entry["id"]: entry for entry in catalog[key]}
+            merged.update({entry["id"]: entry for entry in prior.get(key, [])})
+            catalog[key] = list(merged.values())
+        catalog["sources"].update(prior.get("sources", {}))
+        catalog["recipes"] = prior.get("recipes", [])
+        catalog["site_contract"] = prior["site_contract"]
+        catalog["site_contract"]["updated_on"] = checked_on
+        catalog["as_of"] = checked_on
     write_json(repo / "catalog/catalog.json", catalog)
     return catalog
 
@@ -327,6 +368,16 @@ Datasets / PEFT / Accelerate。实验训练代码保留在 Lab；公开版当前
 """
     (repo / "README.md").write_text(intro)
     (repo / "README_zh.md").write_text(intro)
+    # Site output and both READMEs share the same catalog projection. This builder
+    # stays outside evaluator code_hash and never launches a model or scans runs.
+    if (repo / "site/build.py").exists() and catalog.get("site_contract"):
+        import subprocess
+        import sys
+
+        subprocess.run(
+            [sys.executable, str(repo / "site/build.py"), "--repo", str(repo), "--readmes"],
+            check=True,
+        )
 
 
 def _run_evidence(root: Path, entry: dict) -> dict:
